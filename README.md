@@ -12,5 +12,6 @@ Microsoft Fabric is redesigning how we work with data by bringing all your data 
 Lab Scenarios
 ********************************************************************************************
 This workshop is divided in 3 main sessions having appropriate labs:
-1. The Foundational presentation will provide an overview of Fabric and the various workloads. Following the presentation, the team will work on the labs under 01-Foundation folder in this repo
+1. The Foundational presentation will provide an overview of Fabric and the various workloads. Following the presentation, the team will work on the following labs
+	- 1 - Foundation/Discovery Labs
 
