@@ -13,5 +13,5 @@ Lab Scenarios
 ********************************************************************************************
 This workshop is divided in 3 main sessions having appropriate labs:
 1. The Foundational presentation will provide an overview of Fabric and the various workloads. Following the presentation, the team will work on the following labs
-	- 1 - Foundation/Discovery Labs
+	- [1 - Foundation/Discovery Labs/01-Lakehouse Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/d87b18a01877827a1c1294ece6e1e8e0592321a5/1%20-%20Foundation/Discovery%20Labs/01-Lakehouse%20Lab)
 
