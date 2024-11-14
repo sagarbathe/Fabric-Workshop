@@ -18,3 +18,10 @@ This workshop is divided in 3 main sessions having appropriate labs:
 	- [03 - Real Time Analytics Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/e0cfe3c98f11bc71a58d7c508dead6f7256b5cdc/1%20-%20Foundation/Discovery%20Labs/03%20-%20Real%20Time%20Analytics%20Lab) (Optional)
 	- [04 - Data Science Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/e0cfe3c98f11bc71a58d7c508dead6f7256b5cdc/1%20-%20Foundation/Discovery%20Labs/04%20-%20Data%20Science%20Lab) (Optional)
 
+ 2. This session will focus on Fabric Lakehouse and Data Engineering workload. The presentation will cover in-depth the Onelake architecture, various capabilities around security, performance optimization and ease of 
+    development. Following the presentation, the team will work on creating an end-to-end Analytics solution utilizing the Fabric lakehouse based on a medallion architecture. Finally, they will create a semantic 
+    model and sample Power BI Report
+
+ 3. This session will focus on Data Factory capabilities such as Data Pipelines, Dataflow Gen2, advanced concepts and monitoring. Following the presentation, the team will work on developing Data Pipelines and 
+    Dataflow Gen 2 artifacts
+
