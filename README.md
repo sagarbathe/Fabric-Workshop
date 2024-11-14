@@ -12,6 +12,9 @@ Microsoft Fabric is redesigning how we work with data by bringing all your data 
 Lab Scenarios
 ********************************************************************************************
 This workshop is divided in 3 main sessions having appropriate labs:
-1. The Foundational presentation will provide an overview of Fabric and the various workloads. Following the presentation, the team will work on the following labs
-	- [1 - Foundation/Discovery Labs/01-Lakehouse Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/d87b18a01877827a1c1294ece6e1e8e0592321a5/1%20-%20Foundation/Discovery%20Labs/01-Lakehouse%20Lab)
+1. The Foundational presentation will provide an overview of Fabric and the various workloads. Following the presentation, the team will work on the following labs:
+	- [01-Lakehouse Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/d87b18a01877827a1c1294ece6e1e8e0592321a5/1%20-%20Foundation/Discovery%20Labs/01-Lakehouse%20Lab)
+	- [02 - Data Warehouse Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/e0cfe3c98f11bc71a58d7c508dead6f7256b5cdc/1%20-%20Foundation/Discovery%20Labs/02%20-%20Data%20Warehouse%20Lab)
+	- [03 - Real Time Analytics Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/e0cfe3c98f11bc71a58d7c508dead6f7256b5cdc/1%20-%20Foundation/Discovery%20Labs/03%20-%20Real%20Time%20Analytics%20Lab) (Optional)
+	- [04 - Data Science Lab](https://github.com/sagarbathe/Fabric-Workshop/tree/e0cfe3c98f11bc71a58d7c508dead6f7256b5cdc/1%20-%20Foundation/Discovery%20Labs/04%20-%20Data%20Science%20Lab) (Optional)
 
