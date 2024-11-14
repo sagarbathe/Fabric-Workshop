@@ -1,0 +1,60 @@
+//***********************************************************************************************************
+// Here are two articles to help you get started with KQL:
+// KQL reference guide - https://aka.ms/KQLguide
+// SQL - KQL conversions - https://aka.ms/sqlcheatsheet
+//***********************************************************************************************************
+
+//Calculate average fare amount by the hour of the day. nyctaxitrips
+nyctaxitrips
+| summarize avg(fare_amount) by HourOfDay = hourofday(tpep_dropoff_datetime)
+
+
+// Use "take" to view a sample number of records in the table and check the data.
+nyctaxitrips
+| take 10
+
+// See how many records are in the table.
+nyctaxitrips
+| count
+
+// This query returns the number of ingestions per hour in the given table.
+nyctaxitrips
+| summarize IngestionCount = count() by bin(ingestion_time(), 1h)
+
+//Top 10 pickup locations 
+nyctaxitrips
+| summarize count() by PULocationID
+| top 10 by count_
+
+//For the same top 10 locations, lookup the NYC zones --> Top 10 zones 
+nyctaxitrips
+| lookup (locations) on $left.PULocationID == $right.LocationID
+| summarize count() by Zone
+| top 10 by count_
+| render columnchart
+
+
+//Find anomalies in the tips given by the customers 
+nyctaxitrips
+| lookup (locations) on $left.PULocationID==$right.LocationID
+| where Borough == "Manhattan"
+| make-series s1 = avg(tip_amount) on tpep_pickup_datetime from datetime(2022-06-01) to datetime(2022-06- 04) step 1h
+| extend anomalies = series_decompose_anomalies(s1)
+| render anomalychart with (anomalycolumns=anomalies)
+
+
+//Forecast the number of trips that will begin from Manhattan to line up the taxis in that borough 
+nyctaxitrips
+| lookup (locations) on $left.PULocationID==$right.LocationID
+| where Borough == "Manhattan"
+| make-series s1 = count() on tpep_pickup_datetime from datetime(2022-06-01) to datetime(2022-06-08)+3d step 1h by PULocationID
+| extend forecast = series_decompose_forecast(s1, 24*3)
+| render timechart
+
+//Find the total number of trips that started and ended at the same location 
+nyctaxitrips
+| where PULocationID == DOLocationID
+| lookup (locations) on $left.PULocationID==$right.LocationID
+| summarize count() by Borough, Zone, Latitude, Longitude
+
+
