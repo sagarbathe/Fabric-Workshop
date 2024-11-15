@@ -1,0 +1,1001 @@
+﻿CustomerKey,GeographyKey,CustomerLabel,Title,FirstName,MiddleName,LastName,NameStyle,BirthDate,MaritalStatus,Suffix,Gender,EmailAddress,YearlyIncome,TotalChildren,NumberChildrenAtHome,Education,Occupation,HouseOwnerFlag,NumberCarsOwned,AddressLine1,AddressLine2,Phone,DateFirstPurchase,CustomerType,CompanyName
+1,680,11000,NULL,Jon,V,Yang,0,1966-04-08,M,NULL,M,jon24@adventure-works.com,90000.00,2,0,Bachelors,Professional,1,0,3761 N. 14th St,NULL,1 (11) 500 555-0162,2001-07-22,Person,NULL
+2,692,11001,NULL,Eugene,L,Huang,0,1965-05-14,S,NULL,M,eugene10@adventure-works.com,60000.00,3,3,Bachelors,Professional,0,1,2243 W St.,NULL,1 (11) 500 555-0110,2001-07-18,Person,NULL
+3,493,11002,NULL,Ruben,NULL,Torres,0,1965-08-12,M,NULL,M,ruben35@adventure-works.com,60000.00,3,3,Bachelors,Professional,1,1,5844 Linden Land,NULL,1 (11) 500 555-0184,2001-07-10,Person,NULL
+4,519,11003,NULL,Christy,NULL,Zhu,0,1968-02-15,S,NULL,F,christy12@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,1825 Village Pl.,NULL,1 (11) 500 555-0162,2001-07-01,Person,NULL
+5,706,11004,NULL,Elizabeth,NULL,Johnson,0,1968-08-08,S,NULL,F,elizabeth5@adventure-works.com,80000.00,5,5,Bachelors,Professional,1,4,7553 Harness Circle,NULL,1 (11) 500 555-0131,2001-07-26,Person,NULL
+6,478,11005,NULL,Julio,NULL,Ruiz,0,1965-08-05,S,NULL,M,julio1@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,7305 Humphrey Drive,NULL,1 (11) 500 555-0151,2001-07-02,Person,NULL
+7,509,11006,NULL,Janet,G,Alvarez,0,1965-12-06,S,NULL,F,janet9@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,2612 Berry Dr,NULL,1 (11) 500 555-0184,2001-07-27,Person,NULL
+8,568,11007,NULL,Marco,NULL,Mehta,0,1964-05-09,M,NULL,M,marco14@adventure-works.com,60000.00,3,3,Bachelors,Professional,1,2,942 Brook Street,NULL,1 (11) 500 555-0126,2001-07-12,Person,NULL
+9,425,11008,NULL,Rob,NULL,Verhoff,0,1964-07-07,S,NULL,F,rob4@adventure-works.com,60000.00,4,4,Bachelors,Professional,1,3,624 Peabody Road,NULL,1 (11) 500 555-0164,2001-07-28,Person,NULL
+10,492,11009,NULL,Shannon,C,Carlson,0,1964-04-01,S,NULL,M,shannon38@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,3839 Northgate Road,NULL,1 (11) 500 555-0110,2001-07-30,Person,NULL
+11,478,11010,NULL,Jacquelyn,C,Suarez,0,1964-02-06,S,NULL,F,jacquelyn20@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,7800 Corrinne Court,NULL,1 (11) 500 555-0169,2001-07-17,Person,NULL
+12,478,11011,NULL,Curtis,NULL,Lu,0,1963-11-04,M,NULL,M,curtis9@adventure-works.com,60000.00,4,4,Bachelors,Professional,1,4,1224 Shoenic,NULL,1 (11) 500 555-0117,2001-07-02,Person,NULL
+13,442,11012,NULL,Lauren,M,Walker,0,1968-01-18,M,NULL,F,lauren41@adventure-works.com,100000.00,2,0,Bachelors,Management,1,2,4785 Scott Street,NULL,717-555-0164,2003-09-17,Person,NULL
+14,500,11013,NULL,Ian,M,Jenkins,0,1968-08-06,M,NULL,M,ian47@adventure-works.com,100000.00,2,0,Bachelors,Management,1,3,7902 Hudson Ave.,NULL,817-555-0185,2003-10-15,Person,NULL
+15,677,11014,NULL,Sydney,NULL,Bennett,0,1968-05-09,S,NULL,F,sydney23@adventure-works.com,100000.00,3,0,Bachelors,Management,0,3,9011 Tank Drive,NULL,431-555-0156,2003-09-24,Person,NULL
+16,443,11015,NULL,Chloe,NULL,Young,0,1979-02-27,S,NULL,F,chloe23@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,0,1,244 Willow Pass Road,NULL,208-555-0142,2003-07-22,Person,NULL
+17,494,11016,NULL,Wyatt,L,Hill,0,1979-04-28,M,NULL,M,wyatt32@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,1,1,9666 Northridge Ct.,NULL,135-555-0171,2003-08-13,Person,NULL
+18,699,11017,NULL,Shannon,NULL,Wang,0,1944-06-26,S,NULL,F,shannon1@adventure-works.com,20000.00,4,0,High School,Skilled Manual,1,2,7330 Saddlehill Lane,NULL,1 (11) 500 555-0195,2001-07-15,Person,NULL
+19,425,11018,NULL,Clarence,D,Rai,0,1944-10-09,S,NULL,M,clarence32@adventure-works.com,30000.00,2,0,Partial College,Clerical,1,2,244 Rivewview,NULL,1 (11) 500 555-0137,2001-07-20,Person,NULL
+20,499,11019,NULL,Luke,L,Lal,0,1978-03-07,S,NULL,M,luke18@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,7832 Landing Dr,NULL,262-555-0112,2003-08-16,Person,NULL
+21,511,11020,NULL,Jordan,C,King,0,1978-09-20,S,NULL,M,jordan73@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,7156 Rose Dr.,NULL,550-555-0163,2003-07-02,Person,NULL
+22,580,11021,NULL,Destiny,NULL,Wilson,0,1978-09-03,S,NULL,F,destiny7@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,8148 W. Lake Dr.,NULL,622-555-0158,2003-07-27,Person,NULL
+23,583,11022,NULL,Ethan,G,Zhang,0,1978-10-12,M,NULL,M,ethan20@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,1769 Nicholas Drive,NULL,589-555-0185,2003-07-24,Person,NULL
+24,582,11023,NULL,Seth,M,Edwards,0,1978-10-11,M,NULL,M,seth46@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,4499 Valley Crest,NULL,452-555-0188,2003-08-21,Person,NULL
+25,470,11024,NULL,Russell,NULL,Xie,0,1978-09-17,M,NULL,M,russell7@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,8734 Oxford Place,NULL,746-555-0186,2003-12-29,Person,NULL
+26,637,11025,NULL,Alejandro,NULL,Beck,0,1945-12-23,M,NULL,M,alejandro45@adventure-works.com,10000.00,2,1,Partial High School,Clerical,1,2,2596 Franklin Canyon Road,NULL,1 (11) 500 555-0178,2001-07-09,Person,NULL
+27,634,11026,NULL,Harold,NULL,Sai,0,1946-04-03,S,NULL,M,harold3@adventure-works.com,30000.00,2,0,Partial College,Clerical,0,2,8211 Leeds Ct.,NULL,1 (11) 500 555-0131,2001-07-26,Person,NULL
+28,568,11027,NULL,Jessie,R,Zhao,0,1946-12-07,M,NULL,M,jessie16@adventure-works.com,30000.00,2,0,Partial College,Clerical,1,2,213 Valencia Place,NULL,1 (11) 500 555-0184,2001-07-19,Person,NULL
+29,554,11028,NULL,Jill,NULL,Jimenez,0,1946-04-11,M,NULL,F,jill13@adventure-works.com,30000.00,2,0,Partial College,Clerical,1,2,9111 Rose Ann Ave,NULL,1 (11) 500 555-0116,2001-07-29,Person,NULL
+30,425,11029,NULL,Jimmy,L,Moreno,0,1946-12-21,M,NULL,M,jimmy9@adventure-works.com,30000.00,2,0,Partial College,Clerical,1,2,6385 Mark Twain,NULL,1 (11) 500 555-0146,2001-07-22,Person,NULL
+31,613,11030,NULL,Bethany,G,Yuan,0,1947-02-22,M,NULL,F,bethany10@adventure-works.com,10000.00,2,1,Partial High School,Clerical,1,2,636 Vine Hill Way,NULL,1 (11) 500 555-0182,2001-08-08,Person,NULL
+32,509,11031,NULL,Theresa,G,Ramos,0,1947-08-22,M,NULL,F,theresa13@adventure-works.com,20000.00,4,0,High School,Skilled Manual,1,2,6465 Detroit Ave.,NULL,1 (11) 500 555-0195,2001-08-04,Person,NULL
+33,656,11032,NULL,Denise,NULL,Stone,0,1947-06-11,M,NULL,F,denise10@adventure-works.com,20000.00,4,0,High School,Skilled Manual,1,2,626 Bentley Street,NULL,1 (11) 500 555-0169,2001-08-21,Person,NULL
+34,512,11033,NULL,Jaime,NULL,Nath,0,1947-09-23,M,NULL,M,jaime41@adventure-works.com,20000.00,4,0,High School,Skilled Manual,1,2,5927 Rainbow Dr,NULL,1 (11) 500 555-0137,2001-08-18,Person,NULL
+35,669,11034,NULL,Ebony,NULL,Gonzalez,0,1947-06-19,M,NULL,F,ebony19@adventure-works.com,20000.00,4,0,High School,Skilled Manual,1,2,5167 Condor Place,NULL,1 (11) 500 555-0136,2001-08-04,Person,NULL
+36,471,11035,NULL,Wendy,NULL,Dominguez,0,1948-02-24,M,NULL,F,wendy12@adventure-works.com,10000.00,2,1,Partial High School,Clerical,1,2,1873 Mt. Whitney Dr,NULL,1 (11) 500 555-0177,2001-08-09,Person,NULL
+37,516,11036,NULL,Jennifer,C,Russell,0,1978-12-18,M,NULL,F,jennifer93@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,3981 Augustine Drive,NULL,115-555-0183,2003-07-26,Person,NULL
+38,467,11037,NULL,Chloe,M,Garcia,0,1977-11-27,S,NULL,F,chloe27@adventure-works.com,40000.00,0,0,Partial High School,Clerical,0,2,8915 Woodside Way,NULL,229-555-0112,2003-07-24,Person,NULL
+39,648,11038,NULL,Diana,F,Hernandez,0,1948-03-23,M,NULL,F,diana2@adventure-works.com,10000.00,2,1,Partial High School,Clerical,1,2,8357 Sandy Cove Lane,NULL,1 (11) 500 555-0114,2001-08-10,Person,NULL
+40,706,11039,NULL,Marc,J,Martin,0,1948-12-17,M,NULL,M,marc3@adventure-works.com,30000.00,3,0,Partial College,Clerical,1,2,9353 Creekside Dr.,NULL,1 (11) 500 555-0183,2001-08-10,Person,NULL
+41,559,11040,NULL,Jesse,NULL,Murphy,0,1977-08-01,M,NULL,M,jesse15@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,1,2,3350 Kingswood Circle,NULL,961-555-0176,2003-10-05,Person,NULL
+42,633,11041,NULL,Amanda,M,Carter,0,1977-10-16,M,NULL,F,amanda53@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,5826 Escobar,NULL,295-555-0145,2003-07-18,Person,NULL
+43,653,11042,NULL,Megan,J,Sanchez,0,1977-06-13,M,NULL,F,megan28@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,2,1397 Paraiso Ct.,NULL,404-555-0199,2003-07-25,Person,NULL
+44,633,11043,NULL,Nathan,M,Simmons,0,1976-02-24,M,NULL,M,nathan11@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,1170 Shaw Rd,NULL,296-555-0181,2003-11-09,Person,NULL
+45,492,11044,NULL,Adam,L,Flores,0,1949-05-24,M,NULL,M,adam10@adventure-works.com,20000.00,2,1,Partial High School,Clerical,1,2,6935 Candle Dr,NULL,1 (11) 500 555-0163,2001-08-31,Person,NULL
+46,509,11045,NULL,Leonard,G,Nara,0,1950-05-19,S,NULL,M,leonard18@adventure-works.com,30000.00,3,0,High School,Skilled Manual,0,2,7466 La Vista Ave.,NULL,1 (11) 500 555-0151,2003-10-12,Person,NULL
+47,648,11046,NULL,Christine,NULL,Yuan,0,1950-03-22,M,NULL,F,christine4@adventure-works.com,30000.00,3,0,High School,Skilled Manual,1,2,2356 Orange St,NULL,1 (11) 500 555-0113,2001-08-09,Person,NULL
+48,632,11047,NULL,Jaclyn,D,Lu,0,1950-02-27,M,NULL,F,jaclyn12@adventure-works.com,30000.00,3,0,High School,Skilled Manual,0,2,2812 Mazatlan,NULL,1 (11) 500 555-0137,2001-08-06,Person,NULL
+49,699,11048,NULL,Jeremy,NULL,Powell,0,1950-11-22,M,NULL,M,jeremy26@adventure-works.com,30000.00,3,0,High School,Skilled Manual,1,2,1803 Potomac Dr.,NULL,1 (11) 500 555-0183,2001-08-13,Person,NULL
+50,610,11049,NULL,Carol,C,Rai,0,1980-07-18,S,NULL,F,carol8@adventure-works.com,40000.00,0,0,Partial High School,Clerical,1,2,6064 Madrid,NULL,654-555-0180,2003-09-10,Person,NULL
+51,493,11050,NULL,Alan,NULL,Zheng,0,1951-09-07,M,NULL,M,alan23@adventure-works.com,30000.00,3,0,High School,Skilled Manual,1,2,2741 Gainborough Dr.,NULL,1 (11) 500 555-0135,2001-08-23,Person,NULL
+52,599,11051,NULL,Daniel,NULL,Johnson,0,1951-08-04,S,NULL,M,daniel18@adventure-works.com,30000.00,3,0,High School,Skilled Manual,0,2,8085 Sunnyvale Avenue,NULL,1 (11) 500 555-0155,2004-07-01,Person,NULL
+53,509,11052,NULL,Heidi,NULL,Lopez,0,1951-08-07,S,NULL,F,heidi19@adventure-works.com,40000.00,2,0,Partial College,Clerical,0,2,2514 Via Cordona,NULL,1 (11) 500 555-0168,2001-08-20,Person,NULL
+54,688,11053,NULL,Ana,E,Price,0,1980-08-20,M,NULL,F,ana0@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,2,1660 Stonyhill Circle,NULL,859-555-0113,2003-07-21,Person,NULL
+55,632,11054,NULL,Deanna,NULL,Munoz,0,1952-03-10,M,NULL,F,deanna33@adventure-works.com,40000.00,2,0,Partial College,Skilled Manual,1,2,5825 B Way,NULL,1 (11) 500 555-0192,2001-08-06,Person,NULL
+56,478,11055,NULL,Gilbert,NULL,Raje,0,1952-03-05,M,NULL,M,gilbert35@adventure-works.com,40000.00,2,0,Partial College,Skilled Manual,1,2,8811 The Trees Dr.,NULL,1 (11) 500 555-0129,2001-08-03,Person,NULL
+57,518,11056,NULL,Michele,L,Nath,0,1953-04-03,M,NULL,F,michele19@adventure-works.com,40000.00,3,0,Partial College,Skilled Manual,1,2,5464 Janin Pl.,NULL,1 (11) 500 555-0178,2001-08-29,Person,NULL
+58,646,11057,NULL,Carl,J,Andersen,0,1953-10-12,M,NULL,M,carl12@adventure-works.com,70000.00,2,0,Graduate Degree,Management,1,2,6930 Lake Nadine Place,NULL,1 (11) 500 555-0181,2001-08-25,Person,NULL
+59,628,11058,NULL,Marc,NULL,Diaz,0,1954-04-27,M,NULL,M,marc6@adventure-works.com,80000.00,2,0,Partial College,Skilled Manual,1,2,6645 Sinaloa,NULL,1 (11) 500 555-0149,2001-09-09,Person,NULL
+60,561,11059,NULL,Ashlee,J,Andersen,0,1954-04-01,S,NULL,F,ashlee19@adventure-works.com,80000.00,2,0,Partial College,Skilled Manual,1,2,8255 Highland Road,NULL,1 (11) 500 555-0112,2003-08-22,Person,NULL
+61,568,11060,NULL,Jon,L,Zhou,0,1954-03-17,M,NULL,M,jon28@adventure-works.com,80000.00,2,0,Partial College,Skilled Manual,1,2,6574 Hemlock Ave.,NULL,1 (11) 500 555-0174,2001-09-19,Person,NULL
+62,487,11061,NULL,Todd,M,Gao,0,1954-02-27,M,NULL,M,todd14@adventure-works.com,80000.00,2,0,Partial College,Skilled Manual,1,2,8808 Geneva Ave,NULL,1 (11) 500 555-0191,2001-09-13,Person,NULL
+63,536,11062,NULL,Noah,D,Powell,0,1975-09-02,M,NULL,M,noah5@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,9794 Marion Ct,NULL,767-555-0113,2003-07-11,Person,NULL
+64,677,11063,NULL,Angela,NULL,Murphy,0,1975-04-07,S,NULL,F,angela41@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,4927 Virgil Street,# 21,451-555-0162,2003-07-16,Person,NULL
+65,475,11064,NULL,Chase,NULL,Reed,0,1975-12-07,M,NULL,M,chase21@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,2721 Alexander Pl.,NULL,892-555-0184,2003-07-29,Person,NULL
+66,643,11065,NULL,Jessica,NULL,Henderson,0,1973-10-09,M,NULL,F,jessica29@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,2,9343 Ironwood Way,NULL,278-555-0186,2003-08-14,Person,NULL
+67,500,11066,NULL,Grace,T,Butler,0,1973-11-27,M,NULL,F,grace62@adventure-works.com,70000.00,0,0,Partial College,Professional,1,2,4739 Garden Ave.,NULL,712-555-0141,2003-12-02,Person,NULL
+68,535,11067,NULL,Caleb,F,Carter,0,1976-09-25,S,NULL,M,caleb40@adventure-works.com,60000.00,0,0,Partial College,Professional,1,2,9563 Pennsylvania Blvd.,NULL,944-555-0167,2004-02-19,Person,NULL
+69,568,11068,NULL,Tiffany,NULL,Liang,0,1955-09-23,S,NULL,F,tiffany17@adventure-works.com,80000.00,2,0,High School,Skilled Manual,1,2,3608 Sinclair Avenue,# 701,1 (11) 500 555-0177,2003-11-01,Person,NULL
+70,487,11069,NULL,Carolyn,NULL,Navarro,0,1955-09-21,S,NULL,F,carolyn30@adventure-works.com,80000.00,2,0,High School,Skilled Manual,0,2,4606 Springwood Court,NULL,1 (11) 500 555-0145,2001-10-18,Person,NULL
+71,699,11070,NULL,Willie,T,Raji,0,1955-04-05,M,NULL,M,willie40@adventure-works.com,80000.00,2,0,High School,Skilled Manual,1,2,6260 Vernal Drive,NULL,1 (11) 500 555-0151,2001-10-29,Person,NULL
+72,637,11071,NULL,Linda,NULL,Serrano,0,1955-06-26,S,NULL,F,linda31@adventure-works.com,80000.00,2,0,High School,Skilled Manual,1,2,9808 Shaw Rd.,NULL,1 (11) 500 555-0130,2003-09-02,Person,NULL
+73,554,11072,NULL,Casey,NULL,Luo,0,1955-02-06,S,NULL,F,casey6@adventure-works.com,80000.00,2,0,High School,Skilled Manual,0,2,9513 Roslyn Drive,NULL,1 (11) 500 555-0125,2001-10-01,Person,NULL
+74,553,11073,NULL,Amy,NULL,Ye,0,1956-08-14,S,NULL,F,amy16@adventure-works.com,70000.00,2,0,High School,Skilled Manual,1,2,2262 Kirkwood Ct.,NULL,1 (11) 500 555-0185,2003-09-24,Person,NULL
+75,613,11074,NULL,Levi,A,Arun,0,1956-08-28,S,NULL,M,levi6@adventure-works.com,70000.00,2,0,High School,Skilled Manual,1,2,4661 Bluetail,NULL,1 (11) 500 555-0127,2003-09-24,Person,NULL
+76,425,11075,NULL,Felicia,L,Jimenez,0,1957-11-16,S,NULL,F,felicia4@adventure-works.com,80000.00,2,0,High School,Professional,1,2,786 Eastgate Ave,NULL,1 (11) 500 555-0165,2001-10-29,Person,NULL
+77,706,11076,NULL,Blake,NULL,Anderson,0,1957-07-13,S,NULL,M,blake9@adventure-works.com,80000.00,2,0,High School,Professional,1,2,5436 Clear,# 101,1 (11) 500 555-0113,2001-10-22,Person,NULL
+78,510,11077,NULL,Leah,NULL,Ye,0,1957-09-19,S,NULL,F,leah7@adventure-works.com,80000.00,2,0,High School,Professional,0,2,1291 Arguello Blvd.,NULL,1 (11) 500 555-0154,2001-10-16,Person,NULL
+79,467,11078,NULL,Gina,E,Martin,0,1974-01-10,S,NULL,F,gina1@adventure-works.com,40000.00,0,0,High School,Professional,0,2,1349 Sol St.,NULL,196-555-0114,2003-08-19,Person,NULL
+80,632,11079,NULL,Donald,NULL,Gonzalez,0,1959-03-11,S,NULL,M,donald20@adventure-works.com,160000.00,0,0,Graduate Degree,Management,1,2,4236 Malibu Place,NULL,1 (11) 500 555-0137,2003-09-16,Person,NULL
+81,531,11080,NULL,Damien,NULL,Chander,0,1959-07-17,M,NULL,M,damien32@adventure-works.com,170000.00,0,0,Graduate Degree,Management,1,2,9941 Stonehedge Dr.,NULL,1 (11) 500 555-0111,2001-10-11,Person,NULL
+82,470,11081,NULL,Savannah,C,Baker,0,1966-07-24,M,NULL,F,savannah39@adventure-works.com,120000.00,2,2,Bachelors,Management,1,3,1210 Trafalgar Circle,NULL,478-555-0117,2003-08-16,Person,NULL
+83,631,11082,NULL,Angela,L,Butler,0,1966-08-04,S,NULL,F,angela17@adventure-works.com,130000.00,0,1,Graduate Degree,Management,0,3,6040 Listing Ct,NULL,579-555-0195,2003-07-26,Person,NULL
+84,505,11083,NULL,Alyssa,F,Cox,0,1966-03-15,M,NULL,F,alyssa37@adventure-works.com,130000.00,0,1,Graduate Degree,Management,1,3,867 La Orinda Place,NULL,561-555-0140,2003-07-10,Person,NULL
+85,500,11084,NULL,Lucas,NULL,Phillips,0,1957-09-12,S,NULL,M,lucas7@adventure-works.com,80000.00,2,0,Partial High School,Skilled Manual,0,2,8668 St. Celestine Court,NULL,863-555-0172,2003-07-08,Person,NULL
+86,667,11085,NULL,Emily,NULL,Johnson,0,1957-07-19,S,NULL,F,emily1@adventure-works.com,60000.00,2,0,High School,Professional,0,2,7926 Stephanie Way,NULL,850-555-0184,2004-06-08,Person,NULL
+87,547,11086,NULL,Ryan,NULL,Brown,0,1957-12-23,M,NULL,M,ryan43@adventure-works.com,70000.00,2,1,Partial College,Professional,1,0,2939 Wesley Ct.,NULL,539-555-0198,2004-01-03,Person,NULL
+88,610,11087,NULL,Tamara,L,Liang,0,1957-10-03,M,NULL,F,tamara6@adventure-works.com,70000.00,3,2,Partial College,Professional,0,0,3791 Rossmor Parkway,NULL,178-555-0152,2003-08-29,Person,NULL
+89,688,11088,NULL,Hunter,NULL,Davis,0,1957-11-25,M,NULL,M,hunter64@adventure-works.com,80000.00,2,1,Bachelors,Management,1,0,4308 Sand Pointe Lane,NULL,612-555-0141,2003-07-17,Person,NULL
+90,652,11089,NULL,Abigail,M,Price,0,1957-02-05,S,NULL,F,abigail25@adventure-works.com,80000.00,2,1,Bachelors,Management,1,1,2685 Blackburn Ct,NULL,532-555-0117,2003-07-02,Person,NULL
+91,653,11090,NULL,Trevor,NULL,Bryant,0,1957-12-17,S,NULL,M,trevor18@adventure-works.com,90000.00,2,0,Partial College,Professional,1,1,5781 Sharon Dr.,NULL,853-555-0174,2002-02-07,Person,NULL
+92,490,11091,NULL,Dalton,NULL,Perez,0,1957-04-04,M,NULL,M,dalton37@adventure-works.com,90000.00,2,0,Partial College,Professional,1,1,6083 San Jose,NULL,559-555-0115,2003-08-02,Person,NULL
+93,478,11092,NULL,Cheryl,A,Diaz,0,1967-05-06,M,NULL,F,cheryl4@adventure-works.com,90000.00,2,2,Bachelors,Professional,1,0,7297 Kaywood Drive,NULL,1 (11) 500 555-0192,2001-10-09,Person,NULL
+94,706,11093,NULL,Aimee,A,He,0,1967-09-10,M,NULL,F,aimee13@adventure-works.com,100000.00,0,0,Graduate Degree,Management,1,0,1833 Olympic Drive,NULL,1 (11) 500 555-0161,2001-10-08,Person,NULL
+95,471,11094,NULL,Cedric,W,Ma,0,1962-04-01,S,NULL,M,cedric15@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,0,1,3407 Oak Brook Place,NULL,1 (11) 500 555-0115,2003-10-09,Person,NULL
+96,534,11095,NULL,Chad,NULL,Kumar,0,1962-09-01,S,NULL,M,chad9@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,1681 Lighthouse Way,NULL,1 (11) 500 555-0151,2001-10-02,Person,NULL
+97,669,11096,NULL,Andrés,NULL,Anand,0,1962-08-10,M,NULL,M,andrés18@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,5423 Los Gatos Ct.,NULL,1 (11) 500 555-0184,2001-10-12,Person,NULL
+98,568,11097,NULL,Edwin,R,Nara,0,1961-10-27,M,NULL,M,edwin39@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,719 William Way,NULL,1 (11) 500 555-0112,2001-10-05,Person,NULL
+99,679,11098,NULL,Mallory,S,Rubio,0,1961-05-01,S,NULL,F,mallory7@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,6452 Harris Circle,NULL,1 (11) 500 555-0157,2003-08-15,Person,NULL
+100,534,11099,NULL,Adam,NULL,Ross,0,1961-03-08,M,NULL,M,adam2@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,4378 Westminster Place,NULL,1 (11) 500 555-0186,2001-10-08,Person,NULL
+101,613,11100,NULL,Latasha,L,Navarro,0,1960-09-15,S,NULL,F,latasha10@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,6954 Ranch Road,NULL,1 (11) 500 555-0123,2001-10-17,Person,NULL
+102,471,11101,NULL,Abby,L,Sai,0,1965-05-08,S,NULL,F,abby4@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,7074 N. Spoonwood Court,NULL,1 (11) 500 555-0174,2001-10-30,Person,NULL
+103,558,11102,NULL,Julia,L,Nelson,0,1965-04-21,S,NULL,F,julia7@adventure-works.com,80000.00,5,5,Bachelors,Professional,1,4,2196 Coat Ct.,NULL,1 (11) 500 555-0124,2004-01-17,Person,NULL
+104,473,11103,NULL,Cassie,NULL,Chande,0,1964-10-17,S,NULL,F,cassie13@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,9448 San Marino Ct.,NULL,1 (11) 500 555-0166,2001-10-16,Person,NULL
+105,487,11104,NULL,Edgar,A,Sara,0,1964-03-11,M,NULL,M,edgar11@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,6127 Lilly Lane,NULL,1 (11) 500 555-0125,2001-11-04,Person,NULL
+106,509,11105,NULL,Candace,NULL,Fernandez,0,1964-12-28,S,NULL,F,candace15@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,5029 Blue Ridge,NULL,1 (11) 500 555-0162,2001-11-14,Person,NULL
+107,568,11106,NULL,Jessie,NULL,Liu,0,1964-09-11,S,NULL,M,jessie9@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,3063 Blue Jay Drive,NULL,1 (11) 500 555-0163,2001-11-18,Person,NULL
+108,554,11107,NULL,Bianca,NULL,Lin,0,1959-09-09,M,NULL,F,bianca7@adventure-works.com,90000.00,1,0,Bachelors,Professional,1,1,7530 Eola,NULL,1 (11) 500 555-0121,2001-11-01,Person,NULL
+109,534,11108,NULL,Kari,C,Alvarez,0,1963-07-14,S,NULL,F,kari25@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,2,9178 Thornhill Place,NULL,1 (11) 500 555-0169,2001-11-03,Person,NULL
+110,697,11109,NULL,Ruben,D,Kapoor,0,1963-11-05,S,NULL,M,ruben1@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,2,1984 Glendale Circle,NULL,1 (11) 500 555-0132,2001-11-10,Person,NULL
+111,473,11110,NULL,Curtis,NULL,Yang,0,1962-06-06,M,NULL,M,curtis5@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,4052 Mt. Wilson Way,NULL,1 (11) 500 555-0127,2001-11-01,Person,NULL
+112,632,11111,NULL,Meredith,T,Gutierrez,0,1962-02-23,M,NULL,F,meredith34@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,7610 Northridge Ct.,NULL,1 (11) 500 555-0179,2001-11-20,Person,NULL
+113,492,11112,NULL,Crystal,C,Wang,0,1962-09-09,M,NULL,F,crystal3@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,2773 Kirkwood Dr,NULL,1 (11) 500 555-0134,2001-11-25,Person,NULL
+114,531,11113,NULL,Micheal,A,Blanco,0,1962-02-21,M,NULL,M,micheal11@adventure-works.com,70000.00,5,4,Bachelors,Professional,1,2,596 Marfargoa Drive,NULL,1 (11) 500 555-0131,2003-08-05,Person,NULL
+115,679,11114,NULL,Leslie,C,Moreno,0,1962-05-28,S,NULL,F,leslie7@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,2,7941 Cristobal,NULL,1 (11) 500 555-0115,2003-09-19,Person,NULL
+116,554,11115,NULL,Alvin,D,Cai,0,1962-02-12,M,NULL,M,alvin20@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,2,7759 Azalea Avenue,NULL,1 (11) 500 555-0191,2003-08-14,Person,NULL
+117,558,11116,NULL,Clinton,E,Carlson,0,1962-10-07,M,NULL,M,clinton14@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,2,7943 Cunha Ct.,NULL,1 (11) 500 555-0184,2003-09-16,Person,NULL
+118,509,11117,NULL,April,NULL,Deng,0,1961-02-21,M,NULL,F,april1@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,3,485 Ash Lane,NULL,1 (11) 500 555-0182,2001-11-06,Person,NULL
+119,648,11118,NULL,Alvin,M,Zeng,0,1957-07-03,S,NULL,M,alvin21@adventure-works.com,80000.00,1,0,Partial College,Skilled Manual,0,1,3853 Wildcat Circle,Unit 13c12,1 (11) 500 555-0174,2004-01-11,Person,NULL
+120,534,11119,NULL,Evan,V,James,0,1935-04-10,S,NULL,M,evan8@adventure-works.com,30000.00,2,0,Partial College,Clerical,0,2,4157 Sierra Ridge,NULL,1 (11) 500 555-0187,2003-08-07,Person,NULL
+121,558,11120,NULL,Beth,H,Jiménez,0,1936-08-09,S,NULL,F,beth8@adventure-works.com,40000.00,2,0,Bachelors,Management,1,1,7401 Las Palmas,NULL,1 (11) 500 555-0164,2001-11-14,Person,NULL
+122,518,11121,NULL,Orlando,NULL,Suarez,0,1960-11-18,M,NULL,M,orlando19@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,3,7743 Hames Dr,NULL,1 (11) 500 555-0198,2003-12-26,Person,NULL
+123,669,11122,NULL,Byron,NULL,Vazquez,0,1960-04-02,M,NULL,M,byron9@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,3,3187 Hackamore Lane,NULL,1 (11) 500 555-0136,2003-08-25,Person,NULL
+124,699,11123,NULL,Philip,A,Alvarez,0,1960-06-20,M,NULL,M,philip4@adventure-works.com,70000.00,5,4,Partial College,Skilled Manual,1,3,2775 Mt. Olivet Pl.,NULL,1 (11) 500 555-0191,2003-10-19,Person,NULL
+125,568,11124,NULL,Ross,F,Jordan,0,1957-07-27,S,NULL,M,ross1@adventure-works.com,80000.00,1,0,Partial College,Skilled Manual,1,1,6973 Dublin Court,NULL,1 (11) 500 555-0126,2001-11-05,Person,NULL
+126,692,11125,NULL,Dana,J,Navarro,0,1956-04-08,S,NULL,F,dana2@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,8481 Zartop Street,NULL,1 (11) 500 555-0172,2003-08-04,Person,NULL
+127,519,11126,NULL,Shaun,NULL,Carson,0,1949-04-07,M,NULL,M,shaun16@adventure-works.com,10000.00,2,1,High School,Skilled Manual,0,2,57 Wolf Way,NULL,1 (11) 500 555-0155,2001-11-28,Person,NULL
+128,690,11127,NULL,Jan,NULL,Edwards,0,1975-10-21,M,NULL,F,jan11@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,1,9409 The Alameda,NULL,111-555-0118,2003-10-12,Person,NULL
+129,678,11128,NULL,Samantha,NULL,Long,0,1975-12-05,M,NULL,F,samantha35@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,1,1606 Alderwood Lane,NULL,175-555-0139,2003-12-21,Person,NULL
+130,694,11129,NULL,Julia,M,Wright,0,1975-08-05,S,NULL,F,julia17@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,1,7397 Central Blvd.,NULL,456-555-0174,2002-02-06,Person,NULL
+131,500,11130,NULL,Caroline,L,Russell,0,1980-01-06,M,NULL,F,caroline21@adventure-works.com,30000.00,0,0,High School,Skilled Manual,1,2,3884 Bates Court,NULL,424-555-0137,2004-06-11,Person,NULL
+132,490,11131,NULL,Amanda,NULL,Rivera,0,1980-03-12,M,NULL,F,amanda7@adventure-works.com,30000.00,0,0,High School,Skilled Manual,0,2,9573 Royal Oak Rd.,NULL,918-555-0126,2004-04-20,Person,NULL
+133,647,11132,NULL,Melissa,E,Richardson,0,1980-10-26,S,NULL,F,melissa31@adventure-works.com,30000.00,0,0,High School,Skilled Manual,0,2,6832 Fruitwood Dr,NULL,928-555-0118,2003-10-11,Person,NULL
+134,644,11133,NULL,Angela,NULL,Griffin,0,1980-09-08,S,NULL,F,angela23@adventure-works.com,30000.00,0,0,Partial High School,Clerical,0,2,3828 Baltic Sea Ct,NULL,598-555-0174,2004-07-02,Person,NULL
+135,531,11134,NULL,Larry,D,Townsend,0,1946-02-26,S,NULL,M,larry14@adventure-works.com,10000.00,5,0,High School,Skilled Manual,1,2,7034 Carson,NULL,1 (11) 500 555-0130,2001-11-03,Person,NULL
+136,445,11135,NULL,Marcus,L,Harris,0,1979-11-03,S,NULL,M,marcus14@adventure-works.com,30000.00,0,0,Partial High School,Clerical,0,2,9068 Quiet Place Drive,NULL,442-555-0119,2003-10-20,Person,NULL
+137,511,11136,NULL,Brianna,D,Morgan,0,1978-10-26,S,NULL,F,brianna30@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,9005 Eagle Ct.,NULL,954-555-0117,2003-07-07,Person,NULL
+138,551,11137,NULL,Jasmine,A,Taylor,0,1978-07-20,M,NULL,F,jasmine7@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,2457 Matterhorn Court,NULL,557-555-0146,2004-02-01,Person,NULL
+139,633,11138,NULL,Lauren,NULL,Davis,0,1978-09-15,M,NULL,F,lauren23@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,8105 Pembrook Court,NULL,832-555-0121,2004-03-22,Person,NULL
+140,613,11139,NULL,Tanya,NULL,Moreno,0,1938-11-09,S,NULL,F,tanya2@adventure-works.com,30000.00,2,0,Partial College,Clerical,0,2,6155 Wilbur Drive,NULL,1 (11) 500 555-0185,2004-03-17,Person,NULL
+141,443,11140,NULL,Javier,L,Alvarez,0,1977-02-11,S,NULL,M,javier1@adventure-works.com,30000.00,0,0,Partial High School,Clerical,0,2,8935 Etcheverry Dr.,NULL,763-555-0134,2003-09-20,Person,NULL
+142,472,11141,NULL,Nicole,NULL,Ramirez,0,1977-06-21,M,NULL,F,nicole42@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,1101 C Street,NULL,152-555-0162,2003-11-17,Person,NULL
+143,647,11142,NULL,Eduardo,NULL,Patterson,0,1977-08-14,S,NULL,M,eduardo55@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,6255 Macalvey Dr.,NULL,190-555-0184,2003-08-17,Person,NULL
+144,645,11143,NULL,Jonathan,M,Henderson,0,1977-02-04,M,NULL,M,jonathan4@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,165 East Lane Road,NULL,149-555-0113,2003-12-17,Person,NULL
+145,577,11144,NULL,Edward,NULL,Hernandez,0,1979-09-09,S,NULL,M,edward48@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,7607 Pine Hollow Road,NULL,178-555-0196,2003-07-29,Person,NULL
+146,580,11145,NULL,Jasmine,L,Coleman,0,1979-12-08,S,NULL,F,jasmine46@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,1961 Oak Grove Road,NULL,857-555-0115,2003-07-29,Person,NULL
+147,509,11146,NULL,Karla,L,Goel,0,1939-08-26,S,NULL,F,karla20@adventure-works.com,40000.00,2,0,Bachelors,Management,1,2,3272 Corrie Lane,NULL,1 (11) 500 555-0137,2003-08-09,Person,NULL
+148,568,11147,NULL,Ernest,L,Wu,0,1939-02-05,M,NULL,M,ernest6@adventure-works.com,60000.00,2,0,Graduate Degree,Management,1,1,1832 RiverRock Dr,NULL,1 (11) 500 555-0139,2001-11-13,Person,NULL
+149,478,11148,NULL,Ross,NULL,Vazquez,0,1941-08-16,M,NULL,M,ross32@adventure-works.com,40000.00,2,0,Bachelors,Management,1,2,1201 Paso Del Rio Way,NULL,1 (11) 500 555-0163,2003-09-08,Person,NULL
+150,492,11149,NULL,Theodore,NULL,Gill,0,1941-04-20,M,NULL,M,theodore14@adventure-works.com,40000.00,2,0,Bachelors,Management,1,2,9120 Pinewood Court,NULL,1 (11) 500 555-0194,2003-12-06,Person,NULL
+151,699,11150,NULL,Russell,M,Shen,0,1941-03-15,S,NULL,M,russell6@adventure-works.com,40000.00,2,0,Bachelors,Management,1,2,4755 Easley Drive,NULL,1 (11) 500 555-0191,2003-09-28,Person,NULL
+152,558,11151,NULL,Melinda,G,Gill,0,1942-02-25,S,NULL,F,melinda9@adventure-works.com,60000.00,2,0,Graduate Degree,Management,0,1,805 Rainier Dr.,NULL,1 (11) 500 555-0117,2001-11-15,Person,NULL
+153,537,11152,NULL,James,J,Williams,0,1976-01-10,S,NULL,M,james77@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,6827 Seagull Court,NULL,355-555-0153,2003-07-13,Person,NULL
+154,678,11153,NULL,Angela,R,James,0,1976-06-23,M,NULL,F,angela34@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,8877 Weatherly Drive,NULL,847-555-0111,2003-09-30,Person,NULL
+155,573,11154,NULL,Megan,G,Walker,0,1976-08-21,S,NULL,F,megan25@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,6898 Holiday Hills,NULL,918-555-0186,2003-07-14,Person,NULL
+156,443,11155,NULL,Hunter,J,Robinson,0,1976-01-26,S,NULL,M,hunter50@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,8356 Mori Court,NULL,891-555-0125,2003-07-10,Person,NULL
+157,645,11156,NULL,Maria,NULL,Roberts,0,1976-02-07,S,NULL,F,maria47@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,9452 Mariposa Ct.,NULL,158-555-0199,2003-07-12,Person,NULL
+158,559,11157,NULL,Hannah,E,Long,0,1975-06-11,M,NULL,F,hannah32@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,1832 Preston Ct.,NULL,974-555-0177,2004-01-25,Person,NULL
+159,690,11158,NULL,Jason,K,Wright,0,1975-10-08,S,NULL,M,jason46@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,6771 Bundros Court,NULL,694-555-0176,2003-07-23,Person,NULL
+160,707,11159,NULL,Brianna,A,Hughes,0,1975-09-17,S,NULL,F,brianna57@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,6793 Bonifacio St.,NULL,319-555-0183,2004-03-11,Person,NULL
+161,470,11160,NULL,Maurice,M,Tang,0,1974-01-08,S,NULL,M,maurice4@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,2886 Chaparral Court,Space # 45,947-555-0172,2003-08-25,Person,NULL
+162,470,11161,NULL,Emily,NULL,Wood,0,1974-04-22,S,NULL,F,emily27@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,1562 Black Walnut,NULL,184-555-0114,2003-12-03,Person,NULL
+163,643,11162,NULL,Chase,NULL,Cox,0,1974-03-05,S,NULL,M,chase10@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,P.O. Box 8070,NULL,764-555-0116,2003-08-22,Person,NULL
+164,552,11163,NULL,Gabriel,NULL,Wang,0,1974-12-20,M,NULL,M,gabriel21@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,8002 Crane Court,NULL,617-555-0150,2003-11-02,Person,NULL
+165,560,11164,NULL,Devin,NULL,Brooks,0,1974-05-05,S,NULL,M,devin63@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,4231 Highland Dr.,NULL,502-555-0138,2003-10-29,Person,NULL
+166,520,11165,NULL,Jocelyn,NULL,Alexander,0,1973-07-18,M,NULL,F,jocelyn18@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,1,3376 Bank Way,NULL,354-555-0134,2003-11-26,Person,NULL
+167,522,11166,NULL,Ashley,NULL,Martinez,0,1972-04-24,S,NULL,F,ashley18@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,2,6993 Whyte Park Ave.,NULL,131-555-0194,2004-04-16,Person,NULL
+168,495,11167,NULL,Jasmine,J,Barnes,0,1972-08-01,S,NULL,F,jasmine43@adventure-works.com,80000.00,0,0,Bachelors,Management,0,1,9183 Via Del Sol,NULL,178-555-0156,2003-07-11,Person,NULL
+169,520,11168,NULL,David,NULL,Rodriguez,0,1968-05-15,S,NULL,M,david83@adventure-works.com,80000.00,0,0,Bachelors,Management,0,1,38 Shangri-la Rd.,NULL,730-555-0128,2003-07-19,Person,NULL
+170,619,11169,NULL,Bryce,NULL,Richardson,0,1968-06-22,M,NULL,M,bryce8@adventure-works.com,90000.00,4,4,Bachelors,Management,1,1,1841 Blackwood Drive,NULL,178-555-0176,2003-11-27,Person,NULL
+171,597,11170,NULL,Carol,T,Howard,0,1968-02-05,M,NULL,F,carol5@adventure-works.com,90000.00,4,4,Bachelors,Management,1,1,6281 Edward Ave,NULL,845-555-0127,2004-02-27,Person,NULL
+172,707,11171,NULL,Jonathan,E,Hill,0,1967-10-09,S,NULL,M,jonathan43@adventure-works.com,100000.00,1,0,Bachelors,Management,1,2,3731 Chinquapin Ct,NULL,134-555-0196,2002-02-20,Person,NULL
+173,507,11172,NULL,Gabrielle,J,Adams,0,1967-11-21,M,NULL,F,gabrielle58@adventure-works.com,100000.00,1,0,Bachelors,Management,1,2,5621 Arcadia Pl.,NULL,403-555-0152,2003-11-04,Person,NULL
+174,703,11173,NULL,Sarah,F,Thomas,0,1967-09-01,S,NULL,F,sarah13@adventure-works.com,110000.00,0,0,Graduate Degree,Management,0,4,5636 Mt. Whitney Dr.,NULL,868-555-0188,2003-09-03,Person,NULL
+175,653,11174,NULL,Nicholas,NULL,Robinson,0,1967-07-13,M,NULL,M,nicholas19@adventure-works.com,110000.00,0,1,Graduate Degree,Management,1,0,1318 Lasalle Street,NULL,949-555-0138,2004-01-14,Person,NULL
+176,430,11175,NULL,Luis,NULL,Wang,0,1963-03-05,S,NULL,M,luis24@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,2,6943 Patterson Blvd.,NULL,418-555-0127,2002-02-28,Person,NULL
+177,490,11176,NULL,Mason,D,Roberts,0,1968-01-25,M,NULL,M,mason25@adventure-works.com,90000.00,4,4,Bachelors,Management,1,1,5753 Megan Dr.,NULL,539-555-0162,2003-08-06,Person,NULL
+178,688,11177,NULL,Jose,M,Flores,0,1942-07-04,M,NULL,M,jose6@adventure-works.com,110000.00,2,4,Graduate Degree,Management,1,2,3991 Rambling Rose Drive,NULL,157-555-0182,2003-09-30,Person,NULL
+179,645,11178,NULL,Nathan,J,Johnson,0,1943-08-24,M,NULL,M,nathan55@adventure-works.com,100000.00,2,3,Graduate Degree,Management,1,3,8927 Daylight Place,NULL,117-555-0182,2003-08-25,Person,NULL
+180,430,11179,NULL,Molly,E,Rodriguez,0,1943-06-14,M,NULL,F,molly18@adventure-works.com,120000.00,2,4,Graduate Degree,Management,1,3,5556 Riverland Dr.,NULL,135-555-0185,2003-09-13,Person,NULL
+181,610,11180,NULL,April,NULL,Anand,0,1943-01-02,M,NULL,F,april18@adventure-works.com,160000.00,1,3,Bachelors,Management,1,4,3531 Brookview Drive,NULL,702-555-0144,2003-09-18,Person,NULL
+182,653,11181,NULL,Devin,P,Martin,0,1943-08-08,M,NULL,M,devin13@adventure-works.com,170000.00,2,3,Graduate Degree,Management,1,2,1085 Greenbelt Way,Unit B-105,735-555-0197,2003-11-08,Person,NULL
+183,694,11182,NULL,Stephanie,NULL,Torres,0,1944-08-25,S,NULL,F,stephanie19@adventure-works.com,70000.00,4,0,Bachelors,Management,1,2,6968 Mildred Ln.,NULL,567-555-0176,2004-02-29,Person,NULL
+184,691,11183,NULL,Jasmine,W,Lee,0,1944-07-15,S,NULL,F,jasmine19@adventure-works.com,70000.00,4,0,Bachelors,Management,1,2,7502 Contuti Avenue,NULL,147-555-0199,2003-11-01,Person,NULL
+185,470,11184,NULL,Meghan,NULL,Hernandez,0,1944-11-16,S,NULL,F,meghan3@adventure-works.com,70000.00,4,0,Bachelors,Management,1,2,5872 L St.,NULL,967-555-0188,2004-02-11,Person,NULL
+186,511,11185,NULL,Ashley,NULL,Henderson,0,1944-10-08,S,NULL,F,ashley31@adventure-works.com,70000.00,4,0,Bachelors,Management,1,2,8834 San Jose Ave.,NULL,173-555-0121,2003-08-25,Person,NULL
+187,527,11186,NULL,Sarah,C,Price,0,1944-05-21,S,NULL,F,sarah25@adventure-works.com,70000.00,4,0,Bachelors,Management,1,2,4815 Paraiso Ct.,NULL,180-555-0133,2004-04-20,Person,NULL
+188,597,11187,NULL,Jennifer,S,Cooper,0,1944-02-22,M,NULL,F,jennifer63@adventure-works.com,60000.00,4,0,Graduate Degree,Management,1,2,2429 Longview Road,NULL,857-555-0111,2003-10-05,Person,NULL
+189,690,11188,NULL,Catherine,NULL,Morris,0,1944-09-06,M,NULL,F,catherine16@adventure-works.com,60000.00,4,0,Graduate Degree,Management,0,2,6542 Stonewood Drive,NULL,795-555-0117,2004-05-04,Person,NULL
+190,583,11189,NULL,Lawrence,W,Blanco,0,1944-07-15,S,NULL,M,lawrence14@adventure-works.com,60000.00,4,0,Graduate Degree,Management,1,2,7502 Contuti Avenue,NULL,656-555-0171,2002-02-26,Person,NULL
+191,430,11190,NULL,Carson,NULL,Bryant,0,1944-06-22,M,NULL,M,carson17@adventure-works.com,70000.00,5,0,Bachelors,Management,1,2,2995 Youngsdale Dr.,NULL,240-555-0142,2004-02-29,Person,NULL
+192,469,11191,NULL,Kristi,E,Perez,0,1945-12-18,S,NULL,F,kristi39@adventure-works.com,70000.00,5,0,Bachelors,Management,1,3,1769 Lislin Ct,NULL,123-555-0181,2002-02-11,Person,NULL
+193,693,11192,NULL,James,C,Brown,0,1945-09-13,M,NULL,M,james79@adventure-works.com,60000.00,4,0,Bachelors,Management,1,2,673 Old Mountain View Dr.,NULL,725-555-0117,2003-12-25,Person,NULL
+194,573,11193,NULL,Ian,A,Gray,0,1945-02-13,M,NULL,M,ian72@adventure-works.com,60000.00,4,0,Bachelors,Management,1,2,5941 Gill Dr.,NULL,596-555-0190,2003-08-29,Person,NULL
+195,527,11194,NULL,Jacqueline,R,Price,0,1945-06-10,M,NULL,F,jacqueline0@adventure-works.com,60000.00,4,0,Bachelors,Management,1,2,872 Mark Twain Dr,NULL,266-555-0112,2003-09-14,Person,NULL
+196,678,11195,NULL,Megan,NULL,Henderson,0,1946-02-10,M,NULL,F,megan55@adventure-works.com,60000.00,5,0,Bachelors,Management,1,3,8411 Mt. Olivet Place,NULL,560-555-0150,2003-10-16,Person,NULL
+197,580,11196,NULL,Alfredo,NULL,Romero,0,1946-06-07,M,NULL,M,alfredo10@adventure-works.com,60000.00,5,0,Bachelors,Management,1,3,2499 Greendell Pl,NULL,342-555-0110,2003-09-04,Person,NULL
+198,693,11197,NULL,Andrea,NULL,Morris,0,1946-06-18,M,NULL,F,andrea18@adventure-works.com,70000.00,3,1,Bachelors,Management,0,1,1883 Green View Court,NULL,715-555-0178,2003-11-03,Person,NULL
+199,691,11198,NULL,Brooke,NULL,Sanders,0,1946-11-26,S,NULL,F,brooke3@adventure-works.com,70000.00,4,1,Bachelors,Management,1,1,5192 Dumbarton Drive,NULL,215-555-0156,2003-08-09,Person,NULL
+200,445,11199,NULL,Jacqueline,NULL,Bennett,0,1946-11-06,M,NULL,F,jacqueline1@adventure-works.com,70000.00,4,1,Bachelors,Management,1,1,8948 Chinquapin Court,NULL,413-555-0174,2003-09-19,Person,NULL
+201,701,11200,NULL,Jason,L,Griffin,0,1947-11-22,M,NULL,M,jason18@adventure-works.com,70000.00,4,1,Bachelors,Management,1,1,7239 Nicholas Drive,NULL,232-555-0160,2003-08-11,Person,NULL
+202,547,11201,NULL,Amanda,NULL,Foster,0,1947-08-18,M,NULL,F,amanda37@adventure-works.com,70000.00,4,1,Bachelors,Management,1,1,3984 San Francisco,NULL,505-555-0159,2004-01-02,Person,NULL
+203,645,11202,NULL,Alexia,L,Price,0,1947-08-26,M,NULL,F,alexia0@adventure-works.com,80000.00,5,0,Bachelors,Management,0,2,2079 Wellington Ct,NULL,552-555-0118,2004-03-18,Person,NULL
+204,675,11203,NULL,Luis,D,Diaz,0,1948-08-21,M,NULL,M,luis21@adventure-works.com,40000.00,2,1,High School,Professional,1,2,3682 Diablo View Road,NULL,171-555-0126,2003-08-24,Person,NULL
+205,580,11204,NULL,Destiny,C,Rivera,0,1948-06-01,M,NULL,F,destiny33@adventure-works.com,40000.00,2,1,High School,Professional,1,2,6965 Appalachian Drive,NULL,743-555-0111,2004-02-10,Person,NULL
+206,597,11205,NULL,Abby,NULL,Fernandez,0,1948-07-24,M,NULL,F,abby13@adventure-works.com,40000.00,2,1,High School,Professional,1,2,8330 Glenside Court,NULL,134-555-0119,2004-01-28,Person,NULL
+207,507,11206,NULL,Blake,NULL,Flores,0,1948-09-24,M,NULL,M,blake60@adventure-works.com,60000.00,2,1,Partial College,Professional,1,1,9410 Ferry St.,NULL,975-555-0163,2003-11-12,Person,NULL
+208,678,11207,NULL,Danielle,NULL,Cox,0,1948-07-19,S,NULL,F,danielle12@adventure-works.com,60000.00,2,1,Partial College,Professional,1,1,2346 Wren Ave,NULL,396-555-0158,2003-08-04,Person,NULL
+209,633,11208,NULL,Maria,NULL,Reed,0,1948-02-04,M,NULL,F,maria4@adventure-works.com,60000.00,2,1,Bachelors,Management,1,0,1413 Bridgeview St,NULL,156-555-0163,2003-09-05,Person,NULL
+210,505,11209,NULL,Allison,NULL,Evans,0,1948-01-13,M,NULL,F,allison21@adventure-works.com,60000.00,2,1,Bachelors,Management,1,0,3515 Sutton Circle,NULL,988-555-0151,2003-09-26,Person,NULL
+211,570,11210,NULL,Edward,J,Wood,0,1948-06-08,M,NULL,M,edward50@adventure-works.com,70000.00,4,1,Partial College,Professional,1,2,1039 Adelaide St.,NULL,229-555-0114,2003-11-07,Person,NULL
+212,490,11211,NULL,Samantha,NULL,Russell,0,1949-10-12,M,NULL,F,samantha42@adventure-works.com,40000.00,2,1,High School,Professional,1,2,9256 Village Oaks Dr.,NULL,547-555-0121,2003-08-05,Person,NULL
+213,511,11212,NULL,Chloe,NULL,Campbell,0,1949-11-05,M,NULL,F,chloe4@adventure-works.com,40000.00,2,1,High School,Professional,1,2,3562 East Ave.,# 4,205-555-0169,2003-08-03,Person,NULL
+214,479,11213,NULL,Stephanie,B,Murphy,0,1949-05-14,S,NULL,F,stephanie11@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,5514 Grant Street,NULL,293-555-0151,2003-09-29,Person,NULL
+215,660,11214,NULL,Charles,O,Miller,0,1949-11-07,S,NULL,M,charles9@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,2719 Little Dr,NULL,389-555-0115,2004-02-15,Person,NULL
+216,682,11215,NULL,Ana,NULL,Perry,0,1950-06-21,M,NULL,F,ana7@adventure-works.com,40000.00,2,1,Partial High School,Skilled Manual,1,2,3114 Arlington Way,NULL,446-555-0134,2003-08-19,Person,NULL
+217,536,11216,NULL,Jasmine,A,Torres,0,1950-05-20,S,NULL,F,jasmine32@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,8328 San Francisco,NULL,939-555-0130,2002-02-15,Person,NULL
+218,536,11217,NULL,Natalie,P,Adams,0,1950-02-11,S,NULL,F,natalie58@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,6592 Bent Tree Lane,NULL,300-555-0150,2002-02-10,Person,NULL
+219,559,11218,NULL,Olivia,NULL,Brown,0,1950-09-11,S,NULL,F,olivia4@adventure-works.com,60000.00,2,1,Partial College,Professional,0,2,3964 Stony Hill Circle,NULL,414-555-0147,2003-09-01,Person,NULL
+220,573,11219,NULL,Charles,NULL,Cook,0,1950-12-02,M,NULL,M,charles69@adventure-works.com,60000.00,2,1,High School,Professional,1,2,6871 Bel Air Dr.,NULL,755-555-0111,2004-05-01,Person,NULL
+221,469,11220,NULL,Erica,C,Huang,0,1950-02-23,M,NULL,F,erica5@adventure-works.com,60000.00,2,1,Partial College,Professional,1,1,9142 All Ways Drive,NULL,618-555-0157,2003-09-15,Person,NULL
+222,645,11221,NULL,Nathan,NULL,Perry,0,1950-06-10,M,NULL,M,nathan3@adventure-works.com,70000.00,4,2,Partial College,Professional,1,1,9714 Nicholas Drive,NULL,271-555-0191,2003-10-09,Person,NULL
+223,547,11222,NULL,Alexandra,NULL,Rivera,0,1950-08-17,M,NULL,F,alexandra11@adventure-works.com,80000.00,3,1,Bachelors,Management,1,1,4999 Corte Segunda,NULL,488-555-0143,2004-05-04,Person,NULL
+224,499,11223,NULL,Hailey,I,Patterson,0,1951-09-16,S,NULL,F,hailey30@adventure-works.com,70000.00,2,1,High School,Professional,1,2,5045 Vancouver Way,# 133,480-555-0126,2003-08-02,Person,NULL
+225,597,11224,NULL,Tiffany,J,Li,0,1951-09-06,S,NULL,F,tiffany3@adventure-works.com,70000.00,2,1,High School,Professional,1,2,6404 Del Mar Ave,NULL,197-555-0118,2002-02-07,Person,NULL
+226,678,11225,NULL,Madison,D,Lee,0,1951-02-16,M,NULL,F,madison22@adventure-works.com,60000.00,2,1,Partial College,Professional,1,1,5927 Seaview Avenue,NULL,471-555-0142,2003-12-24,Person,NULL
+227,703,11226,NULL,Sydney,T,Ross,0,1951-09-27,M,NULL,F,sydney26@adventure-works.com,60000.00,2,1,Partial College,Professional,1,1,5252 Santa Fe,NULL,219-555-0146,2003-08-25,Person,NULL
+228,469,11227,NULL,Marshall,D,Chavez,0,1951-08-12,S,NULL,M,marshall35@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,9022 Estudillo Street,NULL,712-555-0116,2002-02-03,Person,NULL
+229,625,11228,NULL,Ashley,R,Jones,0,1951-04-19,M,NULL,F,ashley3@adventure-works.com,60000.00,2,1,Partial College,Professional,1,2,7681 Willow Pass Road,NULL,996-555-0169,2004-04-27,Person,NULL
+230,538,11229,NULL,Adrian,C,Stewart,0,1951-12-03,S,NULL,M,adrian21@adventure-works.com,70000.00,4,2,Partial College,Professional,1,1,6898 Shaw Rd.,NULL,812-555-0122,2004-01-28,Person,NULL
+231,547,11230,NULL,Amber,NULL,Turner,0,1951-04-03,M,NULL,F,amber4@adventure-works.com,70000.00,4,2,Partial College,Professional,0,2,6345 Ridge Circle,NULL,155-555-0131,2004-01-17,Person,NULL
+232,442,11231,NULL,Dennis,NULL,Zhang,0,1952-11-14,M,NULL,M,dennis1@adventure-works.com,60000.00,2,1,High School,Professional,1,2,3951 Calle Verde Drive,NULL,710-555-0134,2003-08-14,Person,NULL
+233,627,11232,NULL,Hailey,R,Bryant,0,1952-09-27,M,NULL,F,hailey38@adventure-works.com,60000.00,3,1,High School,Professional,0,2,2828 Rogers Ave.,NULL,156-555-0195,2004-03-23,Person,NULL
+234,584,11233,NULL,Todd,NULL,Li,0,1952-09-09,M,NULL,M,todd5@adventure-works.com,70000.00,4,2,Partial College,Professional,1,2,5897 Scottsdale Rd.,NULL,680-555-0147,2003-08-12,Person,NULL
+235,652,11234,NULL,Anna,NULL,Griffin,0,1952-11-19,S,NULL,F,anna46@adventure-works.com,70000.00,4,2,Partial College,Professional,1,2,7221 Peachwillow Street,NULL,965-555-0146,2003-08-12,Person,NULL
+236,577,11235,NULL,Angel,J,Stewart,0,1952-02-08,M,NULL,M,angel24@adventure-works.com,70000.00,4,2,Partial College,Professional,1,2,2585 La Salle Ct.,NULL,540-555-0122,2004-01-05,Person,NULL
+237,583,11236,NULL,Jeremy,NULL,Butler,0,1952-03-05,S,NULL,M,jeremy29@adventure-works.com,70000.00,5,2,Partial College,Professional,1,2,8811 The Trees Dr.,NULL,980-555-0117,2004-04-05,Person,NULL
+238,696,11237,NULL,Clarence,M,Anand,0,1958-09-23,S,NULL,M,clarence36@adventure-works.com,130000.00,2,3,Bachelors,Management,0,4,Welt Platz 6,NULL,1 (11) 500 555-0191,2002-03-08,Person,NULL
+239,588,11238,NULL,Mayra,NULL,Prasad,0,1958-08-10,S,NULL,F,mayra9@adventure-works.com,130000.00,2,3,Bachelors,Management,0,4,1119 Elderwood Dr.,#3,1 (11) 500 555-0116,2001-07-09,Person,NULL
+240,506,11239,NULL,Latoya,C,Goel,0,1958-10-06,M,NULL,F,latoya18@adventure-works.com,130000.00,2,4,Partial College,Professional,0,2,8154 Pheasant Circle,NULL,1 (11) 500 555-0149,2001-07-22,Person,NULL
+241,704,11240,NULL,Anne,B,Hernandez,0,1958-12-11,M,NULL,F,anne4@adventure-works.com,160000.00,2,3,Partial College,Professional,1,4,76 Woodcrest Dr.,NULL,1 (11) 500 555-0119,2001-08-30,Person,NULL
+242,503,11241,NULL,Lisa,NULL,Cai,0,1957-10-11,S,NULL,F,lisa24@adventure-works.com,100000.00,2,3,Partial College,Professional,1,4,"102, rue de Berri",NULL,1 (11) 500 555-0125,2003-03-14,Person,NULL
+243,564,11242,NULL,Larry,NULL,Munoz,0,1957-11-11,M,NULL,M,larry9@adventure-works.com,110000.00,2,4,Partial College,Professional,1,3,Midi-Couleurs,NULL,1 (11) 500 555-0193,2003-03-23,Person,NULL
+244,481,11243,NULL,Robin,V,Alvarez,0,1957-10-09,M,NULL,F,robin2@adventure-works.com,150000.00,2,3,Partial College,Professional,1,3,4086 Emmons Canyon Lane,NULL,1 (11) 500 555-0198,2001-08-24,Person,NULL
+245,541,11244,NULL,Alexis,M,Coleman,0,1957-11-26,S,NULL,F,alexis28@adventure-works.com,170000.00,2,3,Bachelors,Management,0,3,7140 Camelback Road,NULL,1 (11) 500 555-0115,2001-08-15,Person,NULL
+246,662,11245,NULL,Ricky,D,Vazquez,0,1956-10-27,M,NULL,M,ricky15@adventure-works.com,120000.00,3,4,High School,Professional,0,4,Roßstr 9928,NULL,1 (11) 500 555-0147,2002-03-29,Person,NULL
+247,662,11246,NULL,Latasha,NULL,Rubio,0,1956-10-09,M,NULL,F,latasha21@adventure-works.com,120000.00,3,4,High School,Professional,0,4,Alderstr 7690,NULL,1 (11) 500 555-0178,2002-04-05,Person,NULL
+248,498,11247,NULL,Claudia,M,Zhou,0,1956-06-06,S,NULL,F,claudia7@adventure-works.com,130000.00,3,4,Partial College,Professional,0,3,6516 Beauer Lane,NULL,1 (11) 500 555-0116,2001-08-21,Person,NULL
+249,545,11248,NULL,Tristan,P,Alexander,0,1955-03-26,M,NULL,M,tristan19@adventure-works.com,110000.00,3,4,Partial College,Professional,1,4,"88, avenue des Champs-Elysées",NULL,1 (11) 500 555-0124,2004-01-15,Person,NULL
+250,556,11249,NULL,Cindy,A,Patel,0,1955-07-13,M,NULL,F,cindy3@adventure-works.com,130000.00,3,4,Partial College,Professional,1,3,Essener Straße 123,NULL,1 (11) 500 555-0149,2002-04-11,Person,NULL
+251,574,11250,NULL,Shannon,D,Liu,0,1955-03-12,M,NULL,F,shannon4@adventure-works.com,170000.00,3,4,High School,Professional,1,2,4185 Keywood Ct.,NULL,1 (11) 500 555-0119,2001-09-17,Person,NULL
+252,490,11251,NULL,Xavier,NULL,Long,0,1932-07-04,S,NULL,M,xavier51@adventure-works.com,30000.00,4,0,High School,Professional,0,2,9245 Dantley Way,NULL,243-555-0114,2004-04-20,Person,NULL
+253,502,11252,NULL,Nicholas,D,Thompson,0,1932-06-07,S,NULL,M,nicholas16@adventure-works.com,90000.00,3,0,Graduate Degree,Management,1,1,504 O St.,NULL,377-555-0147,2002-02-14,Person,NULL
+254,701,11253,NULL,José,M,Hernandez,0,1933-02-28,M,NULL,M,josé54@adventure-works.com,60000.00,2,0,Graduate Degree,Management,1,2,5703 Donald Dr.,NULL,712-555-0130,2003-09-02,Person,NULL
+255,597,11254,NULL,Johnathan,W,Vance,0,1933-03-03,M,NULL,M,johnathan5@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,9430 Versailles Pl,NULL,494-555-0166,2004-05-26,Person,NULL
+256,597,11255,NULL,Colin,NULL,Lin,0,1933-04-04,M,NULL,M,colin8@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,6083 San Jose,NULL,599-555-0132,2003-08-27,Person,NULL
+257,507,11256,NULL,Katelyn,L,Hernandez,0,1933-09-20,M,NULL,F,katelyn42@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,7496 Deerfield Dr.,NULL,249-555-0116,2003-10-17,Person,NULL
+258,667,11257,NULL,Jacqueline,NULL,Powell,0,1933-01-06,S,NULL,F,jacqueline9@adventure-works.com,120000.00,1,2,Graduate Degree,Management,1,4,4076 Northwood Dr,NULL,796-555-0111,2002-02-24,Person,NULL
+259,527,11258,NULL,Xavier,NULL,Hill,0,1933-06-28,M,NULL,M,xavier26@adventure-works.com,120000.00,1,2,Graduate Degree,Management,1,4,2707 Virgil Street,NULL,559-555-0149,2003-11-22,Person,NULL
+260,686,11259,NULL,Victoria,C,Stewart,0,1965-03-27,M,NULL,F,victoria24@adventure-works.com,100000.00,4,1,Partial College,Professional,1,4,3623 Barquentine Court,NULL,230-555-0139,2002-03-07,Person,NULL
+261,445,11260,NULL,Katelyn,L,Kelly,0,1965-04-12,M,NULL,F,katelyn1@adventure-works.com,110000.00,2,2,Bachelors,Management,1,3,7085 Solano Drive,NULL,507-555-0132,2003-08-09,Person,NULL
+262,688,11261,NULL,Stephanie,NULL,Collins,0,1965-04-24,M,NULL,F,stephanie52@adventure-works.com,130000.00,1,2,Graduate Degree,Management,1,1,2868 Central Avenue,NULL,209-555-0173,2002-03-30,Person,NULL
+263,675,11262,NULL,Jennifer,NULL,Simmons,0,1964-05-04,M,NULL,F,jennifer88@adventure-works.com,80000.00,4,3,Bachelors,Management,1,0,7959 Mt. Wilson Way,NULL,148-555-0115,2003-08-31,Person,NULL
+264,597,11263,NULL,Trinity,NULL,Richardson,0,1964-09-11,M,NULL,F,trinity9@adventure-works.com,90000.00,5,5,Partial College,Professional,1,3,3063 Blue Jay Drive,NULL,111-555-0116,2002-03-01,Person,NULL
+265,495,11264,NULL,Eduardo,NULL,Martin,0,1964-06-17,S,NULL,M,eduardo13@adventure-works.com,90000.00,5,5,Partial College,Professional,0,3,5137 Pheasant Court,NULL,342-555-0195,2003-07-06,Person,NULL
+266,642,11265,NULL,Elizabeth,P,Jones,0,1964-07-13,M,NULL,F,elizabeth7@adventure-works.com,90000.00,5,5,Partial College,Professional,1,3,2253 Firestone Dr.,NULL,941-555-0110,2003-07-07,Person,NULL
+267,535,11266,NULL,Taylor,NULL,Howard,0,1964-05-05,S,NULL,F,taylor14@adventure-works.com,90000.00,0,0,Partial College,Professional,0,1,7396 Stratton Circle,NULL,162-555-0131,2002-03-13,Person,NULL
+268,445,11267,NULL,David,NULL,Diaz,0,1964-10-02,S,NULL,M,david55@adventure-works.com,120000.00,4,2,Partial College,Professional,1,4,2075 Browse Ct,NULL,613-555-0119,2002-03-20,Person,NULL
+269,619,11268,NULL,Katelyn,A,Carter,0,1964-05-03,M,NULL,F,katelyn33@adventure-works.com,130000.00,2,2,Graduate Degree,Management,1,2,3050 Monte Cresta Avenue,NULL,103-555-0195,2003-11-30,Person,NULL
+270,472,11269,NULL,Ryan,W,Foster,0,1964-10-13,M,NULL,M,ryan19@adventure-works.com,130000.00,2,2,Graduate Degree,Management,1,2,5376 Sahara Drive,NULL,961-555-0133,2004-02-23,Person,NULL
+271,645,11270,NULL,Robert,L,Lee,0,1964-05-04,M,NULL,M,robert82@adventure-works.com,130000.00,2,2,Graduate Degree,Management,1,3,5461 Camino Verde Ct.,NULL,447-555-0174,2002-03-13,Person,NULL
+272,689,11271,NULL,Danielle,C,Reed,0,1964-06-05,S,NULL,F,danielle23@adventure-works.com,150000.00,2,0,Bachelors,Management,0,4,6683 Carrick Ct,NULL,136-555-0114,2002-03-30,Person,NULL
+273,430,11272,NULL,Lauren,L,Martinez,0,1956-11-10,S,NULL,F,lauren35@adventure-works.com,70000.00,4,3,Partial College,Professional,1,0,4357 Tosca Way,NULL,977-555-0117,2002-03-22,Person,NULL
+274,643,11273,NULL,Nathan,E,Lal,0,1956-10-01,M,NULL,M,nathan26@adventure-works.com,90000.00,2,1,Partial College,Professional,1,0,7064 Cypress Ave,NULL,147-555-0121,2003-11-15,Person,NULL
+275,583,11274,NULL,Kyle,M,Foster,0,1934-04-12,M,NULL,M,kyle11@adventure-works.com,50000.00,2,0,Graduate Degree,Management,1,2,5617 Landing Dr,NULL,846-555-0126,2002-03-01,Person,NULL
+276,469,11275,NULL,Jenny,D,Rai,0,1934-01-18,M,NULL,F,jenny40@adventure-works.com,80000.00,4,0,Graduate Degree,Management,1,2,1440 Willow Pass Dr.,NULL,780-555-0119,2002-03-02,Person,NULL
+277,467,11276,NULL,Nancy,E,Chapman,0,1963-09-19,M,NULL,F,nancy7@adventure-works.com,80000.00,4,3,Partial College,Professional,1,2,1480 Shoenic,NULL,909-555-0129,2003-08-02,Person,NULL
+278,682,11277,NULL,Charles,P,Jackson,0,1963-06-10,M,NULL,M,charles15@adventure-works.com,80000.00,4,3,Partial College,Professional,1,2,3400 Folson Drive,NULL,194-555-0175,2003-08-06,Person,NULL
+279,479,11278,NULL,Jonathan,NULL,Phillips,0,1963-08-20,S,NULL,M,jonathan35@adventure-works.com,90000.00,0,0,Partial College,Professional,0,1,8772 Rock Creek Way,NULL,967-555-0176,2002-03-19,Person,NULL
+280,627,11279,NULL,Amanda,S,Cook,0,1963-09-12,M,NULL,F,amanda3@adventure-works.com,90000.00,0,0,Partial College,Professional,1,1,9187 Vista Del Sol,NULL,252-555-0177,2003-09-04,Person,NULL
+281,507,11280,NULL,Robert,NULL,Collins,0,1963-08-21,M,NULL,M,robert45@adventure-works.com,90000.00,0,0,Partial College,Professional,1,1,5271 Sierra Road,NULL,966-555-0171,2004-01-02,Person,NULL
+282,443,11281,NULL,Megan,J,Barnes,0,1963-10-10,S,NULL,F,megan53@adventure-works.com,110000.00,4,2,Bachelors,Management,1,4,40 Ellis St.,NULL,807-555-0156,2002-03-16,Person,NULL
+283,597,11282,NULL,Christian,A,Thomas,0,1962-01-16,M,NULL,M,christian46@adventure-works.com,90000.00,5,4,Partial College,Professional,1,4,5205 Coralie Drive,NULL,692-555-0172,2002-03-03,Person,NULL
+284,584,11283,NULL,Arturo,NULL,Lal,0,1962-10-26,M,NULL,M,arturo33@adventure-works.com,110000.00,1,3,Bachelors,Management,1,2,4593 Mendouno Dr.,NULL,638-555-0164,2003-11-30,Person,NULL
+285,610,11284,NULL,Theresa,NULL,Serrano,0,1962-03-27,M,NULL,F,theresa12@adventure-works.com,110000.00,1,3,Bachelors,Management,1,2,9007 S Royal Links Circle,NULL,777-555-0162,2003-08-10,Person,NULL
+286,631,11285,NULL,Jeremy,J,Anderson,0,1962-03-19,M,NULL,M,jeremy2@adventure-works.com,120000.00,1,3,Partial College,Professional,0,4,7655 Greer Ave,NULL,940-555-0176,2004-01-28,Person,NULL
+287,560,11286,NULL,Hunter,D,Griffin,0,1962-03-03,M,NULL,M,hunter16@adventure-works.com,170000.00,0,0,Graduate Degree,Management,1,4,4079 Redbird Lane,NULL,410-555-0148,2002-03-24,Person,NULL
+288,467,11287,NULL,Henry,B,Garcia,0,1961-01-16,M,NULL,M,henry16@adventure-works.com,70000.00,5,4,Partial College,Professional,0,3,3268 Hazelwood Lane,NULL,282-555-0185,2003-08-02,Person,NULL
+289,443,11288,NULL,Cindy,K,Sanchez,0,1961-09-16,M,NULL,F,cindy19@adventure-works.com,110000.00,1,3,Bachelors,Management,1,3,7062 Starflower Drive,NULL,198-555-0118,2003-09-06,Person,NULL
+290,475,11289,NULL,Maria,S,Carter,0,1961-03-07,M,NULL,F,maria53@adventure-works.com,130000.00,1,3,Bachelors,Management,1,1,8603 Elmhurst Lane,NULL,239-555-0158,2002-03-11,Person,NULL
+291,645,11290,NULL,Katelyn,NULL,Sanchez,0,1961-08-18,M,NULL,F,katelyn26@adventure-works.com,130000.00,1,3,Bachelors,Management,1,3,8869 Climbing Vine Court,NULL,395-555-0150,2002-03-23,Person,NULL
+292,502,11291,NULL,Jenna,NULL,Wright,0,1961-05-05,M,NULL,F,jenna19@adventure-works.com,130000.00,1,3,Bachelors,Management,1,3,232 Pinnacle Drive,NULL,118-555-0191,2002-03-07,Person,NULL
+293,690,11292,NULL,Seth,NULL,Phillips,0,1961-11-05,S,NULL,M,seth42@adventure-works.com,150000.00,1,2,Partial College,Professional,0,3,4361 Loftus Road,NULL,980-555-0196,2002-03-18,Person,NULL
+294,535,11293,NULL,Luke,S,Long,0,1955-05-27,S,NULL,M,luke28@adventure-works.com,60000.00,2,0,High School,Professional,0,2,3177 Dover Way,NULL,786-555-0117,2003-08-28,Person,NULL
+295,495,11294,NULL,Dalton,P,Clark,0,1955-09-03,M,NULL,M,dalton18@adventure-works.com,60000.00,2,0,High School,Professional,0,2,4381 Amazonas,NULL,388-555-0195,2004-03-28,Person,NULL
+296,470,11295,NULL,Taylor,G,Lewis,0,1954-05-16,S,NULL,F,taylor67@adventure-works.com,80000.00,2,0,Partial High School,Skilled Manual,1,2,8827 Ward Court,NULL,291-555-0174,2002-03-28,Person,NULL
+297,627,11296,NULL,Haley,NULL,Richardson,0,1935-10-07,S,NULL,F,haley10@adventure-works.com,50000.00,2,0,Graduate Degree,Management,1,2,6203 Laurel Drive,NULL,620-555-0129,2002-03-04,Person,NULL
+298,443,11297,NULL,Noah,NULL,Coleman,0,1935-02-02,S,NULL,M,noah2@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,5562 Galindo Street,NULL,847-555-0167,2002-03-29,Person,NULL
+299,610,11298,NULL,Jon,NULL,Luo,0,1935-03-03,M,NULL,M,jon46@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,3560 River Rock Lane,NULL,127-555-0189,2002-03-15,Person,NULL
+300,443,11299,NULL,Orlando,E,Vazquez,0,1936-04-01,M,NULL,M,orlando14@adventure-works.com,70000.00,4,0,Graduate Degree,Management,1,2,8547 Catherine Way,NULL,757-555-0143,2002-03-29,Person,NULL
+301,665,11300,NULL,Fernando,NULL,Barnes,0,1960-03-03,M,NULL,M,fernando47@adventure-works.com,80000.00,5,4,Partial College,Professional,0,3,7633 Greenhills Circle,NULL,469-555-0125,2003-08-04,Person,NULL
+302,577,11301,NULL,Cameron,L,Rodriguez,0,1960-06-09,M,NULL,M,cameron38@adventure-works.com,80000.00,5,4,Partial College,Professional,1,4,1217 Mariposa,NULL,727-555-0119,2003-12-11,Person,NULL
+303,620,11302,NULL,Spencer,NULL,Russell,0,1960-12-12,S,NULL,M,spencer22@adventure-works.com,90000.00,4,3,High School,Professional,0,3,2396 Mink Court,NULL,834-555-0131,2002-03-09,Person,NULL
+304,479,11303,NULL,Julia,NULL,Coleman,0,1960-10-11,S,NULL,F,julia72@adventure-works.com,90000.00,4,3,High School,Professional,0,3,3128 Ramsey Circle,NULL,907-555-0170,2002-03-05,Person,NULL
+305,536,11304,NULL,Julia,B,Garcia,0,1960-03-17,M,NULL,F,julia38@adventure-works.com,100000.00,0,3,Partial College,Professional,1,0,6179 Mt. Hamilton Dr.,NULL,923-555-0183,2003-09-21,Person,NULL
+306,610,11305,NULL,Sean,A,Evans,0,1960-06-19,M,NULL,M,sean31@adventure-works.com,110000.00,3,3,Partial College,Professional,0,4,7118 Elliott Dr.,NULL,791-555-0174,2003-09-26,Person,NULL
+307,619,11306,NULL,Micah,A,Zhou,0,1960-06-22,M,NULL,M,micah19@adventure-works.com,110000.00,3,3,Partial College,Professional,0,4,6105 Brownstone Rd,NULL,497-555-0185,2004-01-01,Person,NULL
+308,472,11307,NULL,Hunter,P,Rodriguez,0,1954-11-04,M,NULL,M,hunter53@adventure-works.com,80000.00,2,0,Partial High School,Skilled Manual,1,2,4343 Cook Street,NULL,996-555-0142,2002-03-07,Person,NULL
+309,523,11308,NULL,Ian,T,Gonzales,0,1954-03-05,M,NULL,M,ian57@adventure-works.com,60000.00,2,0,High School,Professional,0,2,7122 Athene Dr.,NULL,904-555-0153,2004-03-10,Person,NULL
+310,580,11309,NULL,Victoria,NULL,Lewis,0,1954-06-12,S,NULL,F,victoria20@adventure-works.com,60000.00,2,0,High School,Professional,1,2,4426 Tanager Road,NULL,586-555-0191,2004-01-10,Person,NULL
+311,689,11310,NULL,Erin,A,Sanders,0,1953-07-09,S,NULL,F,erin7@adventure-works.com,70000.00,3,0,Graduate Degree,Management,1,2,7541 Black Point Pl,NULL,233-555-0160,2004-02-13,Person,NULL
+312,507,11311,NULL,Gabrielle,D,Lopez,0,1953-08-24,S,NULL,F,gabrielle63@adventure-works.com,70000.00,3,0,Graduate Degree,Management,0,2,8619 Parkside Dr.,NULL,783-555-0174,2003-10-20,Person,NULL
+313,507,11312,NULL,Sara,NULL,Richardson,0,1953-04-03,S,NULL,F,sara10@adventure-works.com,70000.00,3,0,Graduate Degree,Management,1,2,7375 Kipling Court,NULL,296-555-0174,2003-11-18,Person,NULL
+314,535,11313,NULL,Trevor,NULL,Jenkins,0,1953-02-27,S,NULL,M,trevor6@adventure-works.com,70000.00,3,0,Graduate Degree,Management,1,2,4697 Yosemite Dr.,NULL,120-555-0129,2003-11-08,Person,NULL
+315,495,11314,NULL,Mya,NULL,Flores,0,1953-12-21,S,NULL,F,mya13@adventure-works.com,70000.00,3,0,Graduate Degree,Management,0,2,8439 Rio Grande Drive,Unit A,522-555-0140,2003-08-29,Person,NULL
+316,535,11315,NULL,Hailey,J,Ward,0,1953-10-01,S,NULL,F,hailey12@adventure-works.com,70000.00,3,0,Graduate Degree,Management,0,2,6321 Maya,NULL,767-555-0151,2003-11-21,Person,NULL
+317,647,11316,NULL,Luke,NULL,Allen,0,1953-11-17,M,NULL,M,luke52@adventure-works.com,60000.00,3,0,Graduate Degree,Management,1,2,419 Deermeadow Way,NULL,786-555-0133,2003-07-16,Person,NULL
+318,686,11317,NULL,Victoria,D,Russell,0,1952-09-17,S,NULL,F,victoria66@adventure-works.com,40000.00,3,0,Partial College,Professional,0,2,9268 Keller Ridge,NULL,663-555-0197,2002-03-04,Person,NULL
+319,479,11318,NULL,Jessica,NULL,Wilson,0,1952-10-26,S,NULL,F,jessica54@adventure-works.com,40000.00,3,0,Partial College,Professional,0,2,1652 Willcrest Circle,NULL,702-555-0180,2004-04-19,Person,NULL
+320,520,11319,NULL,Jade,E,Bailey,0,1937-04-27,M,NULL,F,jade13@adventure-works.com,70000.00,4,0,Graduate Degree,Management,0,2,8119 Northridge Ct,# 1,819-555-0160,2002-03-12,Person,NULL
+321,633,11320,NULL,Morgan,M,Hill,0,1937-06-26,M,NULL,F,morgan19@adventure-works.com,80000.00,4,0,Graduate Degree,Management,1,2,6951 Harmony Way,NULL,510-555-0120,2003-12-17,Person,NULL
+322,597,11321,NULL,Terrance,D,Raman,0,1938-07-08,M,NULL,M,terrance9@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,2297 Via Valencia,NULL,879-555-0124,2003-08-27,Person,NULL
+323,442,11322,NULL,Sydney,NULL,Garcia,0,1938-03-15,M,NULL,F,sydney78@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,252 Hemlock Drive,NULL,783-555-0116,2003-09-25,Person,NULL
+324,472,11323,NULL,Jose,NULL,Patterson,0,1938-06-20,S,NULL,M,jose33@adventure-works.com,120000.00,2,4,Graduate Degree,Management,1,3,648 Newport Drive,NULL,768-555-0153,2002-03-13,Person,NULL
+325,633,11324,NULL,Zachary,NULL,Anderson,0,1939-05-14,M,NULL,M,zachary39@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,2476 Mt. Whitney Way,NULL,693-555-0118,2002-03-29,Person,NULL
+326,693,11325,NULL,Elijah,E,Ross,0,1939-07-02,S,NULL,M,elijah7@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,6679 Cornelius Dr,NULL,409-555-0142,2002-03-22,Person,NULL
+327,430,11326,NULL,Rafael,M,Xie,0,1939-06-26,M,NULL,M,rafael26@adventure-works.com,130000.00,2,3,Bachelors,Management,1,4,369 Peabody Road,NULL,663-555-0137,2002-03-18,Person,NULL
+328,443,11327,NULL,Jaime,C,Moreno,0,1940-03-04,M,NULL,M,jaime48@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,83 Mountain View Blvd,NULL,457-555-0178,2002-03-29,Person,NULL
+329,668,11328,NULL,Julian,M,Griffin,0,1940-01-01,M,NULL,M,julian20@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,7398 Withersed Lane,NULL,636-555-0197,2003-07-09,Person,NULL
+330,470,11329,NULL,Andy,NULL,Alvarez,0,1940-07-25,S,NULL,M,andy9@adventure-works.com,90000.00,5,0,Bachelors,Management,1,2,9466 Morning Glory Dr.,NULL,367-555-0172,2002-03-28,Person,NULL
+331,671,11330,NULL,Ryan,M,Thompson,0,1940-05-13,M,NULL,M,ryan38@adventure-works.com,110000.00,2,4,Graduate Degree,Management,1,1,3407 Pinon Dr.,NULL,138-555-0142,2003-08-16,Person,NULL
+332,695,11331,NULL,Samantha,NULL,Jenkins,0,1968-07-06,M,NULL,F,samantha32@adventure-works.com,90000.00,4,4,Partial College,Skilled Manual,1,2,1046 Cloverleaf Circle,NULL,936-555-0152,2003-08-11,Person,NULL
+333,586,11332,NULL,Deanna,D,Ramos,0,1962-10-04,S,NULL,F,deanna44@adventure-works.com,10000.00,1,0,Graduate Degree,Manual,1,0,Roßstr 9938,NULL,1 (11) 500 555-0138,2002-04-17,Person,NULL
+334,666,11333,NULL,Emily,R,Miller,0,1962-07-10,M,NULL,F,emily6@adventure-works.com,20000.00,1,0,Graduate Degree,Clerical,1,0,9075 Calle Verde,NULL,1 (11) 500 555-0110,2001-09-21,Person,NULL
+335,698,11334,NULL,Nicole,NULL,Brown,0,1961-03-22,M,NULL,F,nicole4@adventure-works.com,10000.00,1,0,Bachelors,Manual,1,0,1135 W St.,NULL,1 (11) 500 555-0187,2001-09-04,Person,NULL
+336,639,11335,NULL,Carla,L,Raman,0,1961-06-24,M,NULL,F,carla14@adventure-works.com,10000.00,1,0,Bachelors,Manual,1,0,Winterfeldtstr 255,NULL,1 (11) 500 555-0124,2002-04-25,Person,NULL
+337,529,11336,NULL,Shaun,NULL,Raji,0,1962-03-12,M,NULL,M,shaun21@adventure-works.com,20000.00,1,0,Graduate Degree,Clerical,1,0,"44, rue du Départ",NULL,1 (11) 500 555-0122,2003-03-31,Person,NULL
+338,704,11337,NULL,Jerome,NULL,Romero,0,1961-09-21,M,NULL,M,jerome7@adventure-works.com,10000.00,1,0,Bachelors,Manual,1,0,7289 Brookview Dr.,NULL,1 (11) 500 555-0112,2001-09-09,Person,NULL
+339,590,11338,NULL,Frank,F,Navarro,0,1961-08-10,M,NULL,M,frank17@adventure-works.com,20000.00,1,0,Graduate Degree,Clerical,1,0,Buergermeister-ulrich-str 2987,NULL,1 (11) 500 555-0139,2002-04-13,Person,NULL
+340,529,11339,NULL,Dennis,M,She,0,1961-07-08,S,NULL,M,dennis25@adventure-works.com,20000.00,1,0,Graduate Degree,Clerical,1,0,"828, rue de Berri",NULL,1 (11) 500 555-0141,2003-04-10,Person,NULL
+341,529,11340,NULL,Melody,C,Munoz,0,1936-04-06,M,NULL,F,melody8@adventure-works.com,10000.00,1,0,Graduate Degree,Clerical,1,0,"9, avenue Reille",NULL,1 (11) 500 555-0147,2003-04-30,Person,NULL
+342,608,11341,NULL,Randy,A,Zeng,0,1936-08-21,M,NULL,M,randy24@adventure-works.com,20000.00,1,0,Graduate Degree,Clerical,1,0,2334 Brandywine Way,NULL,1 (11) 500 555-0144,2001-10-12,Person,NULL
+343,592,11342,NULL,Marshall,L,Wang,0,1962-03-11,M,NULL,M,marshall0@adventure-works.com,30000.00,5,0,Graduate Degree,Clerical,1,0,"68062, rue des Grands Champs",NULL,1 (11) 500 555-0161,2004-01-13,Person,NULL
+344,673,11343,NULL,Arthur,P,Carlson,0,1958-09-13,M,NULL,M,arthur41@adventure-works.com,10000.00,1,0,Bachelors,Manual,1,0,6507 Fieldcrest Dr.,NULL,1 (11) 500 555-0166,2001-10-05,Person,NULL
+345,525,11344,NULL,Jessie,NULL,Jimenez,0,1957-07-24,M,NULL,F,jessie3@adventure-works.com,10000.00,1,0,Partial College,Manual,1,0,5723 C Wharton Way,NULL,1 (11) 500 555-0193,2001-11-13,Person,NULL
+346,700,11345,NULL,Robin,NULL,Ramos,0,1957-03-12,S,NULL,F,robin13@adventure-works.com,10000.00,1,0,Partial College,Manual,1,0,"6, rue de l´Esplanade",NULL,1 (11) 500 555-0111,2003-04-25,Person,NULL
+347,529,11346,NULL,Deanna,E,Gutierrez,0,1955-05-22,S,NULL,F,deanna37@adventure-works.com,10000.00,2,0,Partial College,Manual,1,1,Attaché de Presse,Place d´ Armes,1 (11) 500 555-0112,2003-04-04,Person,NULL
+348,595,11347,NULL,Roy,T,Navarro,0,1955-12-23,M,NULL,M,roy30@adventure-works.com,10000.00,2,0,Partial College,Manual,1,1,Viktoria-Luise-Platz 43,NULL,1 (11) 500 555-0137,2003-09-17,Person,NULL
+349,674,11348,NULL,Shawn,NULL,Rai,0,1955-09-22,M,NULL,M,shawn19@adventure-works.com,10000.00,2,0,Partial College,Manual,1,1,Westheimer Straße 7606,NULL,1 (11) 500 555-0117,2003-10-02,Person,NULL
+350,765,11349,NULL,Mindy,J,Luo,0,1954-09-03,M,NULL,F,mindy10@adventure-works.com,10000.00,2,0,Partial College,Manual,1,1,Brunnenstr 7566,Verkaufsabteilung,1 (11) 500 555-0194,2004-07-16,Person,NULL
+351,532,11350,NULL,Cara,NULL,Zhou,0,1937-01-14,M,NULL,F,cara5@adventure-works.com,30000.00,1,0,Graduate Degree,Clerical,1,0,7280 Greendell Pl,NULL,1 (11) 500 555-0118,2003-08-09,Person,NULL
+352,506,11351,NULL,Anne,R,Ramos,0,1939-04-06,S,NULL,F,anne19@adventure-works.com,20000.00,1,0,Bachelors,Clerical,1,0,7113 Eastgate Ave.,NULL,1 (11) 500 555-0148,2001-12-13,Person,NULL
+353,528,11352,NULL,Raymond,A,Rodriguez,0,1940-03-07,M,NULL,M,raymond20@adventure-works.com,10000.00,2,0,Partial College,Manual,1,1,"24, impasse Ste-Madeleine",NULL,1 (11) 500 555-0131,2003-11-02,Person,NULL
+354,567,11353,NULL,Carrie,L,Ortega,0,1941-06-11,S,NULL,F,carrie19@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,1883 Cowell Rd.,NULL,1 (11) 500 555-0111,2001-12-13,Person,NULL
+355,635,11354,NULL,Deanna,NULL,Suarez,0,1942-02-23,M,NULL,F,deanna45@adventure-works.com,20000.00,1,0,Partial College,Manual,1,0,Dunckerstr 22525,NULL,1 (11) 500 555-0146,2004-06-05,Person,NULL
+356,572,11355,NULL,Roberto,NULL,Gutierrez,0,1942-12-28,M,NULL,M,roberto11@adventure-works.com,40000.00,1,0,Graduate Degree,Clerical,1,0,3545 Chickpea Ct.,NULL,1 (11) 500 555-0124,2004-03-29,Person,NULL
+357,648,11356,NULL,Terrence,NULL,Carson,0,1980-05-27,S,NULL,M,terrence15@adventure-works.com,10000.00,0,0,Partial College,Manual,0,1,6613 Thornhill Place,NULL,1 (11) 500 555-0189,2001-11-10,Person,NULL
+358,599,11357,NULL,Ramon,NULL,Ye,0,1979-03-23,S,NULL,M,ramon9@adventure-works.com,10000.00,0,0,Partial College,Manual,0,1,3245 Vista Oak Dr.,NULL,1 (11) 500 555-0143,2001-12-19,Person,NULL
+359,468,11358,NULL,Cynthia,NULL,Malhotra,0,1978-11-11,S,NULL,F,cynthia9@adventure-works.com,10000.00,0,0,Partial College,Manual,0,1,6757 Pamplona Ct.,NULL,1 (11) 500 555-0187,2001-12-29,Person,NULL
+360,655,11359,NULL,Jarrod,NULL,Prasad,0,1978-09-04,S,NULL,M,jarrod9@adventure-works.com,10000.00,0,0,Partial College,Manual,0,1,7657 H St.,NULL,1 (11) 500 555-0154,2001-12-14,Person,NULL
+361,680,11360,NULL,Tyrone,NULL,Serrano,0,1978-08-02,S,NULL,M,tyrone15@adventure-works.com,10000.00,0,0,Partial College,Manual,1,1,3767 View Dr.,NULL,1 (11) 500 555-0176,2001-12-28,Person,NULL
+362,518,11361,NULL,Cindy,G,Ramos,0,1977-04-28,M,NULL,F,cindy22@adventure-works.com,10000.00,0,0,High School,Manual,1,2,6565 Jamie Way,NULL,1 (11) 500 555-0173,2004-04-03,Person,NULL
+363,471,11362,NULL,Damien,M,Shan,0,1977-11-11,M,NULL,M,damien26@adventure-works.com,10000.00,0,0,High School,Manual,0,2,5312 Riverwood Circle,NULL,1 (11) 500 555-0142,2003-09-30,Person,NULL
+364,656,11363,NULL,Julian,NULL,Ross,0,1977-10-20,S,NULL,M,julian5@adventure-works.com,10000.00,0,0,High School,Manual,0,2,3346 Larkwood Ct.,NULL,1 (11) 500 555-0126,2001-12-09,Person,NULL
+365,632,11364,NULL,Jennifer,NULL,Collins,0,1979-09-23,S,NULL,F,jennifer6@adventure-works.com,10000.00,1,1,High School,Manual,0,0,4536 Killdeer Court,NULL,1 (11) 500 555-0196,2001-12-08,Person,NULL
+366,628,11365,NULL,Brittney,NULL,Sun,0,1979-06-09,S,NULL,F,brittney12@adventure-works.com,10000.00,1,1,High School,Manual,0,0,8856 Mt. Wilson Way,NULL,1 (11) 500 555-0155,2001-12-01,Person,NULL
+367,692,11366,NULL,Virginia,R,Patel,0,1979-10-25,M,NULL,F,virginia4@adventure-works.com,20000.00,0,0,Bachelors,Clerical,1,0,3118 Creekside Drive,NULL,1 (11) 500 555-0146,2003-12-26,Person,NULL
+368,669,11367,NULL,Calvin,J,Nara,0,1979-02-22,M,NULL,M,calvin15@adventure-works.com,20000.00,0,0,Bachelors,Clerical,1,0,5795 Morning Glory Dr.,NULL,1 (11) 500 555-0193,2004-01-08,Person,NULL
+369,680,11368,NULL,Edward,NULL,Miller,0,1978-11-25,S,NULL,M,edward28@adventure-works.com,10000.00,1,1,High School,Manual,0,0,598 Limeridge Drive,NULL,1 (11) 500 555-0151,2001-12-25,Person,NULL
+370,628,11369,NULL,Ashlee,D,Tang,0,1978-08-04,M,NULL,F,ashlee11@adventure-works.com,20000.00,0,0,Bachelors,Clerical,0,0,4111 Vista Diablo,NULL,1 (11) 500 555-0187,2004-01-06,Person,NULL
+371,697,11370,NULL,Alicia,NULL,Xu,0,1978-04-01,M,NULL,F,alicia3@adventure-works.com,20000.00,0,0,Bachelors,Clerical,1,0,3743 Grenadine Way,NULL,1 (11) 500 555-0113,2004-01-14,Person,NULL
+372,680,11371,NULL,Lacey,C,Jai,0,1978-05-27,M,NULL,F,lacey1@adventure-works.com,20000.00,0,0,Bachelors,Clerical,1,0,6208 Prestwick Dr.,NULL,1 (11) 500 555-0149,2004-05-10,Person,NULL
+373,596,11372,NULL,Wendy,H,Romero,0,1978-05-15,S,NULL,F,wendy8@adventure-works.com,20000.00,0,0,Bachelors,Clerical,1,0,24 San Vincente Drive,NULL,1 (11) 500 555-0114,2001-12-08,Person,NULL
+374,687,11373,NULL,Carly,H,Luo,0,1943-09-20,M,NULL,F,carly5@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,Hellweg 4644,NULL,1 (11) 500 555-0138,2004-02-28,Person,NULL
+375,569,11374,NULL,Jimmy,M,Ortega,0,1943-06-28,S,NULL,M,jimmy26@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,Postfach 11 11 22,NULL,1 (11) 500 555-0183,2003-10-17,Person,NULL
+376,638,11375,NULL,Francisco,NULL,Martinez,0,1943-05-09,M,NULL,M,francisco19@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,5508 Glenmount Dr.,NULL,1 (11) 500 555-0119,2004-04-19,Person,NULL
+377,651,11376,NULL,Lance,NULL,Vazquez,0,1943-06-10,S,NULL,M,lance14@adventure-works.com,40000.00,1,0,Graduate Degree,Clerical,1,0,9159 Shepberry Court,NULL,1 (11) 500 555-0112,2004-04-17,Person,NULL
+378,696,11377,Mr.,David,R.,Robinett,0,1961-02-23,M,NULL,M,david22@adventure-works.com,30000.00,4,0,Graduate Degree,Clerical,1,0,Pappelallee 6667,NULL,238-555-0100,2003-09-01,Person,NULL
+379,657,11378,NULL,Shannon,NULL,Liang,0,1960-05-22,S,NULL,F,shannon15@adventure-works.com,10000.00,1,1,High School,Manual,0,1,7445 Meaham Drive,NULL,1 (11) 500 555-0159,2003-04-20,Person,NULL
+380,591,11379,NULL,Gary,NULL,Vazquez,0,1959-11-18,M,NULL,M,gary25@adventure-works.com,10000.00,1,1,High School,Manual,1,1,"5, rue de la Cavalerie",NULL,1 (11) 500 555-0130,2003-04-05,Person,NULL
+381,542,11380,NULL,Mitchell,L,Kumar,0,1959-03-02,S,NULL,M,mitchell7@adventure-works.com,20000.00,2,0,Partial College,Manual,1,1,Husemann Straße 6464,NULL,1 (11) 500 555-0119,2002-04-13,Person,NULL
+382,506,11381,NULL,Meredith,NULL,Raman,0,1959-08-22,M,NULL,F,meredith11@adventure-works.com,20000.00,2,0,Partial College,Manual,1,1,6092 Chestnut,NULL,1 (11) 500 555-0162,2001-12-13,Person,NULL
+383,540,11382,NULL,Edward,NULL,Patterson,0,1958-01-19,M,NULL,M,edward59@adventure-works.com,20000.00,2,0,Partial College,Manual,1,1,"211, avenue Foch",NULL,1 (11) 500 555-0118,2003-05-07,Person,NULL
+384,681,11383,NULL,Marie,NULL,Gill,0,1960-08-28,M,NULL,F,marie37@adventure-works.com,30000.00,3,0,Graduate Degree,Clerical,1,0,"571, rue Malar",NULL,1 (11) 500 555-0192,2004-07-04,Person,NULL
+385,503,11384,NULL,Tiffany,E,Wang,0,1960-10-16,M,NULL,F,tiffany1@adventure-works.com,30000.00,3,0,Bachelors,Clerical,1,0,"5, rue Malar",NULL,1 (11) 500 555-0192,2004-02-03,Person,NULL
+386,576,11385,NULL,Miguel,C,Allen,0,1960-08-11,S,NULL,M,miguel24@adventure-works.com,30000.00,3,0,Bachelors,Clerical,1,0,6834 Violetta,NULL,1 (11) 500 555-0128,2004-01-07,Person,NULL
+387,474,11386,NULL,Jaclyn,NULL,Cai,0,1960-11-05,M,NULL,F,jaclyn22@adventure-works.com,30000.00,3,0,Bachelors,Clerical,1,0,Postfach 55 00 00,NULL,1 (11) 500 555-0164,2004-05-05,Person,NULL
+388,485,11387,NULL,Megan,C,Ramirez,0,1959-06-02,S,NULL,F,megan44@adventure-works.com,40000.00,3,0,Graduate Degree,Clerical,1,0,507 Sahara Drive,NULL,1 (11) 500 555-0192,2002-01-26,Person,NULL
+389,576,11388,NULL,Joseph,NULL,Martin,0,1959-07-24,M,NULL,M,joseph21@adventure-works.com,40000.00,3,0,Graduate Degree,Clerical,1,0,7028 San Gabriel Dr.,NULL,1 (11) 500 555-0143,2002-01-03,Person,NULL
+390,747,11389,NULL,Karl,J,Shan,0,1970-04-24,S,NULL,M,karl11@adventure-works.com,10000.00,1,1,High School,Manual,0,1,Nollendorfplatz 48,NULL,1 (11) 500 555-0198,2004-05-20,Person,NULL
+391,543,11390,NULL,Christine,J,Raji,0,1970-10-19,S,NULL,F,christine16@adventure-works.com,10000.00,1,1,High School,Manual,0,1,"11, boulevard Tremblay",NULL,1 (11) 500 555-0153,2004-05-10,Person,NULL
+392,687,11391,NULL,Lindsay,T,Xie,0,1970-12-27,S,NULL,F,lindsay3@adventure-works.com,10000.00,2,2,High School,Manual,1,0,Am Grossen Dern 4624,NULL,1 (11) 500 555-0115,2004-04-28,Person,NULL
+393,483,11392,NULL,Willie,NULL,Zhao,0,1970-02-07,S,NULL,M,willie8@adventure-works.com,10000.00,2,2,High School,Manual,1,0,Königstr 282,NULL,1 (11) 500 555-0120,2003-09-30,Person,NULL
+394,544,11393,NULL,Kurt,B,Pal,0,1969-01-17,S,NULL,M,kurt12@adventure-works.com,10000.00,2,2,High School,Manual,1,0,"55, avenue de l´ Union Centrale",NULL,1 (11) 500 555-0117,2004-01-17,Person,NULL
+395,659,11394,NULL,George,NULL,McDonald,0,1969-10-23,S,NULL,M,george13@adventure-works.com,10000.00,2,2,High School,Manual,1,0,9186 West Boyd Rd.,NULL,1 (11) 500 555-0150,2002-01-04,Person,NULL
+396,483,11395,NULL,Beth,C,Gutierrez,0,1970-10-18,S,NULL,F,beth13@adventure-works.com,30000.00,0,0,Bachelors,Clerical,1,0,Rehstr 1346,NULL,1 (11) 500 555-0110,2002-05-17,Person,NULL
+397,542,11396,NULL,Ian,G,Lopez,0,1969-10-05,M,NULL,M,ian27@adventure-works.com,10000.00,2,2,High School,Manual,0,1,Zur Lindung 6,NULL,1 (11) 500 555-0182,2004-04-28,Person,NULL
+398,529,11397,NULL,Latoya,R,Shan,0,1969-06-04,S,NULL,F,latoya9@adventure-works.com,20000.00,0,0,Partial College,Manual,0,1,Attaché de Presse,NULL,1 (11) 500 555-0122,2004-01-08,Person,NULL
+399,666,11398,NULL,Colin,N,Nath,0,1969-09-09,S,NULL,M,colin41@adventure-works.com,30000.00,0,0,Bachelors,Clerical,1,0,8900 Escobar,NULL,1 (11) 500 555-0115,2002-01-03,Person,NULL
+400,529,11399,NULL,Brenda,F,Mehta,0,1969-08-04,S,NULL,F,brenda17@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,"11, avenue du Port",NULL,1 (11) 500 555-0155,2003-10-15,Person,NULL
+401,506,11400,NULL,Franklin,NULL,Raji,0,1969-04-19,S,NULL,M,franklin38@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,3477 Mt. Washington Way,NULL,1 (11) 500 555-0180,2002-01-15,Person,NULL
+402,529,11401,NULL,Linda,NULL,Navarro,0,1969-08-26,M,NULL,F,linda25@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,"6, route de Marseille",NULL,1 (11) 500 555-0189,2003-05-01,Person,NULL
+403,672,11402,NULL,Kelli,R,Cai,0,1969-11-20,M,NULL,F,kelli21@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,"1216, place de la Concorde",NULL,1 (11) 500 555-0145,2003-05-11,Person,NULL
+404,544,11403,NULL,Nancy,NULL,Schmidt,0,1969-01-09,S,NULL,F,nancy13@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,"340, boulevard d´Albi",NULL,1 (11) 500 555-0150,2003-05-01,Person,NULL
+405,641,11404,NULL,Megan,E,Taylor,0,1952-01-01,S,NULL,F,megan12@adventure-works.com,10000.00,3,0,Partial College,Manual,0,2,Berliner Platz 43,NULL,1 (11) 500 555-0178,2003-08-14,Person,NULL
+406,590,11405,NULL,Bonnie,NULL,Goel,0,1952-02-17,S,NULL,F,bonnie25@adventure-works.com,10000.00,3,0,Partial College,Manual,0,2,Carlsplatz 89,NULL,1 (11) 500 555-0143,2003-10-02,Person,NULL
+407,529,11406,NULL,Latoya,L,Xu,0,1952-07-03,M,NULL,F,latoya4@adventure-works.com,20000.00,2,0,Partial College,Manual,1,1,"101, rue de Terre Neuve",NULL,1 (11) 500 555-0141,2003-05-08,Person,NULL
+408,515,11407,NULL,Mario,NULL,She,0,1952-04-02,M,NULL,M,mario0@adventure-works.com,20000.00,2,0,Partial College,Manual,1,1,Conesweg 720,NULL,1 (11) 500 555-0156,2003-12-25,Person,NULL
+409,506,11408,NULL,Darren,M,Gill,0,1953-05-14,M,NULL,M,darren36@adventure-works.com,10000.00,2,1,High School,Manual,0,2,8132 Twincreek Ct,NULL,1 (11) 500 555-0166,2003-09-06,Person,NULL
+410,543,11409,NULL,Jacqueline,H,Hayes,0,1968-03-05,S,NULL,F,jacqueline23@adventure-works.com,10000.00,2,2,High School,Manual,1,1,"33, rue Georges-Clémenceau",NULL,1 (11) 500 555-0162,2003-05-21,Person,NULL
+411,529,11410,NULL,Maurice,NULL,Goel,0,1968-08-25,M,NULL,M,maurice20@adventure-works.com,20000.00,1,1,Partial College,Manual,1,0,"15, avenue de la Gare",NULL,1 (11) 500 555-0179,2003-05-17,Person,NULL
+412,640,11411,NULL,Devin,A,Ross,0,1954-02-12,M,NULL,M,devin69@adventure-works.com,80000.00,3,2,Partial College,Professional,0,1,Postenweg 2428,NULL,1 (11) 500 555-0172,2004-02-05,Person,NULL
+413,640,11412,NULL,Sydney,S,Bryant,0,1954-04-09,S,NULL,F,sydney40@adventure-works.com,80000.00,4,2,Partial College,Professional,1,1,Postfach 99 92 92,NULL,1 (11) 500 555-0156,2002-05-08,Person,NULL
+414,485,11413,NULL,Megan,L,Stewart,0,1954-04-15,M,NULL,F,megan27@adventure-works.com,80000.00,4,2,Partial College,Professional,0,1,8192 Seagull Court,NULL,1 (11) 500 555-0116,2002-02-10,Person,NULL
+415,497,11414,NULL,Ian,NULL,Richardson,0,1954-03-18,S,NULL,M,ian76@adventure-works.com,80000.00,4,2,Partial College,Professional,1,1,726 W. Buchanan Rd.,NULL,1 (11) 500 555-0119,2002-02-13,Person,NULL
+416,474,11415,NULL,Randy,H,She,0,1944-06-05,S,NULL,M,randy25@adventure-works.com,90000.00,5,0,Partial College,Professional,0,2,Roßstr 5538,NULL,1 (11) 500 555-0141,2004-02-17,Person,NULL
+417,622,11416,NULL,Katrina,NULL,Becker,0,1945-03-19,M,NULL,F,katrina19@adventure-works.com,60000.00,3,1,Partial High School,Skilled Manual,1,4,"8205, rue Malar",NULL,1 (11) 500 555-0153,2003-05-11,Person,NULL
+418,528,11417,NULL,Lacey,C,Zheng,0,1945-02-26,M,NULL,F,lacey32@adventure-works.com,70000.00,5,1,High School,Professional,1,2,"4, rue de Linois",NULL,1 (11) 500 555-0174,2003-05-08,Person,NULL
+419,674,11418,NULL,Rafael,J,Hu,0,1945-02-09,S,NULL,M,rafael20@adventure-works.com,90000.00,5,0,Partial College,Professional,0,2,Zeiter Weg 7765,NULL,1 (11) 500 555-0159,2004-06-19,Person,NULL
+420,704,11419,NULL,Kyle,D,Scott,0,1945-02-18,M,NULL,M,kyle43@adventure-works.com,150000.00,3,4,Graduate Degree,Management,1,4,9381 Alpine Rd.,NULL,1 (11) 500 555-0178,2003-09-13,Person,NULL
+421,540,11420,NULL,Jordan,C,Turner,0,1946-07-12,M,NULL,M,jordan59@adventure-works.com,100000.00,2,3,Bachelors,Management,1,4,"100, rue Maillard",NULL,1 (11) 500 555-0176,2003-05-05,Person,NULL
+422,521,11421,NULL,Amy,C,Sun,0,1946-07-19,M,NULL,F,amy19@adventure-works.com,110000.00,3,4,Bachelors,Management,1,4,Am Karlshof 2500,NULL,1 (11) 500 555-0111,2002-05-06,Person,NULL
+423,651,11422,NULL,Dustin,F,Deng,0,1946-09-01,M,NULL,M,dustin1@adventure-works.com,170000.00,4,4,Bachelors,Management,1,3,8185 Sol Street,NULL,1 (11) 500 555-0168,2002-02-22,Person,NULL
+424,662,11423,NULL,Jasmine,NULL,Stewart,0,1954-11-05,M,NULL,F,jasmine22@adventure-works.com,80000.00,4,2,Partial College,Professional,0,1,Heidestieg Straße 8224,NULL,1 (11) 500 555-0165,2002-06-12,Person,NULL
+425,586,11424,NULL,Pamela,S,Garcia,0,1953-12-07,M,NULL,F,pamela18@adventure-works.com,80000.00,4,2,Partial College,Professional,1,2,Postfach 11 09 99,NULL,1 (11) 500 555-0182,2003-10-23,Person,NULL
+426,657,11425,NULL,Ariana,D,Gray,0,1954-08-06,M,NULL,F,ariana5@adventure-works.com,90000.00,4,2,High School,Professional,1,2,3675 Palms Dr,NULL,1 (11) 500 555-0191,2003-05-26,Person,NULL
+427,595,11426,NULL,Kristopher,NULL,Mehta,0,1953-10-02,M,NULL,M,kristopher12@adventure-works.com,110000.00,3,4,Bachelors,Management,1,4,Herzogstr 328,Einkaufsabteilung,1 (11) 500 555-0181,2003-10-11,Person,NULL
+428,496,11427,NULL,Desiree,S,Dominguez,0,1953-12-18,M,NULL,F,desiree9@adventure-works.com,110000.00,2,5,Partial College,Professional,1,2,Holzstr 4222,NULL,1 (11) 500 555-0133,2002-06-22,Person,NULL
+429,533,11428,NULL,Deanna,NULL,Perez,0,1953-08-22,S,NULL,F,deanna24@adventure-works.com,120000.00,2,5,Bachelors,Management,1,2,Marienplatz 56,NULL,1 (11) 500 555-0191,2002-06-07,Person,NULL
+430,548,11429,NULL,Marco,NULL,Lopez,0,1952-07-16,M,NULL,M,marco17@adventure-works.com,80000.00,4,1,Partial College,Professional,1,2,"313, rue de l'Espace De Schengen",NULL,1 (11) 500 555-0186,2003-06-17,Person,NULL
+431,437,11430,NULL,Casey,K,Yuan,0,1952-03-24,M,NULL,F,casey7@adventure-works.com,90000.00,4,1,High School,Professional,1,2,Hunzinger Allee 153,NULL,1 (11) 500 555-0184,2003-09-20,Person,NULL
+432,639,11431,NULL,Bryant,NULL,Garcia,0,1952-10-27,M,NULL,M,bryant14@adventure-works.com,110000.00,4,5,Partial College,Professional,1,2,Am Gallberg 94,NULL,1 (11) 500 555-0115,2002-06-23,Person,NULL
+433,681,11432,NULL,Dominique,L,Prasad,0,1951-09-11,M,NULL,F,dominique7@adventure-works.com,80000.00,4,2,High School,Professional,1,2,"765, rue Villedo",NULL,1 (11) 500 555-0148,2003-06-13,Person,NULL
+434,700,11433,NULL,Maurice,M,Shan,0,1951-09-02,M,NULL,M,maurice11@adventure-works.com,80000.00,5,2,High School,Professional,0,2,"59, rue Montcalm",NULL,1 (11) 500 555-0130,2003-06-05,Person,NULL
+435,705,11434,NULL,Andre,NULL,Lopez,0,1951-05-06,M,NULL,M,andre16@adventure-works.com,170000.00,5,5,Partial College,Professional,1,4,638 Shangri-la Rd.,NULL,1 (11) 500 555-0111,2003-12-17,Person,NULL
+436,496,11435,NULL,Robin,NULL,Romero,0,1950-03-06,S,NULL,F,robin5@adventure-works.com,100000.00,3,4,Partial College,Management,1,4,Hüttenstr 9995,NULL,1 (11) 500 555-0168,2004-07-07,Person,NULL
+437,704,11436,NULL,Taylor,NULL,Cox,0,1950-09-18,M,NULL,F,taylor13@adventure-works.com,160000.00,3,5,Partial College,Management,0,4,6409 Buckthorn Court,NULL,1 (11) 500 555-0125,2003-11-23,Person,NULL
+438,702,11437,NULL,Alfredo,NULL,Moreno,0,1949-12-17,M,NULL,M,alfredo7@adventure-works.com,90000.00,4,1,High School,Management,1,3,"882, rue Villedo",NULL,1 (11) 500 555-0166,2004-06-21,Person,NULL
+439,569,11438,NULL,Jenny,NULL,Nara,0,1949-10-14,M,NULL,F,jenny39@adventure-works.com,130000.00,4,5,High School,Management,1,4,Alderstr 8642,NULL,1 (11) 500 555-0164,2003-08-09,Person,NULL
+440,530,11439,NULL,Janet,NULL,Munoz,0,1948-05-17,M,NULL,F,janet12@adventure-works.com,90000.00,4,1,High School,Management,0,3,"61, rue Pierre-Demoulin",NULL,1 (11) 500 555-0148,2003-06-02,Person,NULL
+441,650,11440,NULL,Sergio,C,Weber,0,1947-09-27,M,NULL,M,sergio4@adventure-works.com,80000.00,5,0,Partial High School,Skilled Manual,0,2,"6, place de Fontenoy",NULL,1 (11) 500 555-0178,2003-09-28,Person,NULL
+442,529,11441,NULL,Erika,NULL,Gomez,0,1947-06-12,M,NULL,F,erika0@adventure-works.com,90000.00,5,0,Partial High School,Skilled Manual,0,2,"2, place Beaubernard",NULL,1 (11) 500 555-0155,2004-07-11,Person,NULL
+443,700,11442,NULL,Joseph,D,Harris,0,1947-11-14,M,NULL,M,joseph20@adventure-works.com,90000.00,5,0,Partial High School,Skilled Manual,1,2,"8, rue des Vendangeurs",NULL,1 (11) 500 555-0116,2004-04-01,Person,NULL
+444,493,11443,NULL,Grace,NULL,Griffin,0,1976-05-22,S,NULL,F,grace67@adventure-works.com,60000.00,0,0,Bachelors,Professional,0,4,9825 Mt. Dell Drive,NULL,1 (11) 500 555-0170,2001-12-08,Person,NULL
+445,425,11444,NULL,Tina,C,Mehta,0,1976-04-28,M,NULL,F,tina15@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,3,5357 Willow Drive,NULL,1 (11) 500 555-0192,2001-12-02,Person,NULL
+446,549,11445,NULL,Kari,S,Kim,0,1974-07-21,S,NULL,F,kari3@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,3,977 Davona Drive,NULL,1 (11) 500 555-0136,2001-12-07,Person,NULL
+447,646,11446,NULL,Bethany,K,Chander,0,1974-08-12,S,NULL,F,bethany19@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,3,3464 Chilpancingo Park,NULL,1 (11) 500 555-0179,2001-12-19,Person,NULL
+448,492,11447,NULL,Jennifer,NULL,Roberts,0,1974-08-16,M,NULL,F,jennifer15@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,4,618 Natalie Drive,NULL,1 (11) 500 555-0112,2001-12-29,Person,NULL
+449,656,11448,NULL,Kyle,NULL,Patterson,0,1975-04-28,S,NULL,M,kyle5@adventure-works.com,80000.00,0,0,Bachelors,Professional,1,3,5444 Bohon Circle,NULL,1 (11) 500 555-0145,2001-12-17,Person,NULL
+450,692,11449,NULL,Alvin,E,Hu,0,1975-02-02,M,NULL,M,alvin19@adventure-works.com,80000.00,0,0,Bachelors,Professional,1,3,8468 Clifford Court,NULL,1 (11) 500 555-0144,2001-12-20,Person,NULL
+451,613,11450,NULL,Brett,NULL,Mehta,0,1975-11-12,S,NULL,M,brett13@adventure-works.com,130000.00,4,5,High School,Management,1,4,7411 Crivello Avenue,NULL,1 (11) 500 555-0187,2001-12-30,Person,NULL
+452,518,11451,NULL,Ruben,L,Muñoz,0,1974-11-09,S,NULL,M,ruben30@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,4,3255 Olive Hill,NULL,1 (11) 500 555-0142,2002-01-29,Person,NULL
+453,599,11452,NULL,Erika,A,Rubio,0,1973-11-05,S,NULL,F,erika18@adventure-works.com,80000.00,0,0,Bachelors,Professional,0,3,5065 Maywood Lane,NULL,1 (11) 500 555-0159,2002-01-11,Person,NULL
+454,493,11453,NULL,Stanley,H,Malhotra,0,1973-08-21,S,NULL,M,stanley5@adventure-works.com,80000.00,0,0,Bachelors,Professional,0,3,9218 Old Mt. View Drive,NULL,1 (11) 500 555-0139,2002-01-15,Person,NULL
+455,656,11454,NULL,Melinda,NULL,Navarro,0,1974-04-22,S,NULL,F,melinda5@adventure-works.com,80000.00,0,0,Bachelors,Professional,0,3,1562 Black Walnut,NULL,1 (11) 500 555-0145,2002-01-31,Person,NULL
+456,510,11455,NULL,Ross,NULL,Sanz,0,1974-04-21,M,NULL,M,ross38@adventure-works.com,100000.00,0,5,High School,Management,1,2,6782 First Ave,NULL,1 (11) 500 555-0147,2002-01-01,Person,NULL
+457,554,11456,NULL,Jon,C,Gao,0,1974-07-08,M,NULL,M,jon35@adventure-works.com,120000.00,5,5,Partial High School,Professional,1,4,6455 Garnet Lane,NULL,1 (11) 500 555-0136,2002-01-17,Person,NULL
+458,706,11457,NULL,Jaime,C,Gutierrez,0,1973-05-21,M,NULL,F,jaime12@adventure-works.com,90000.00,0,0,Bachelors,Professional,1,3,6615 Camel Place,NULL,1 (11) 500 555-0173,2002-01-17,Person,NULL
+459,553,11458,NULL,Bianca,K,Liu,0,1973-04-05,M,NULL,F,bianca3@adventure-works.com,100000.00,0,5,High School,Management,1,2,811 Via Cordona,NULL,1 (11) 500 555-0179,2003-10-01,Person,NULL
+460,534,11459,NULL,Tasha,NULL,Deng,0,1972-10-13,S,NULL,F,tasha1@adventure-works.com,80000.00,0,0,Bachelors,Professional,0,3,9627 Kendall Rd,NULL,1 (11) 500 555-0171,2002-01-27,Person,NULL
+461,471,11460,NULL,Melvin,R,Chande,0,1972-10-07,S,NULL,M,melvin13@adventure-works.com,90000.00,0,0,Bachelors,Professional,0,3,5075 Reading Dr.,NULL,1 (11) 500 555-0121,2002-01-21,Person,NULL
+462,648,11461,NULL,Victor,NULL,Jimenez,0,1972-03-25,S,NULL,M,victor7@adventure-works.com,90000.00,0,0,Bachelors,Professional,0,3,7201 Elk Dr.,NULL,1 (11) 500 555-0176,2002-01-31,Person,NULL
+463,509,11462,NULL,Laura,L,Lin,0,1972-01-19,M,NULL,F,laura14@adventure-works.com,110000.00,0,5,High School,Management,1,4,3378 Coldwater Drive,NULL,1 (11) 500 555-0151,2002-01-16,Person,NULL
+464,613,11463,NULL,Alisha,E,Beck,0,1972-03-12,M,NULL,F,alisha45@adventure-works.com,110000.00,0,5,High School,Management,0,4,1328 Huntleigh Dr.,NULL,1 (11) 500 555-0169,2003-09-06,Person,NULL
+465,697,11464,NULL,Alejandro,NULL,Huang,0,1971-11-16,M,NULL,M,alejandro8@adventure-works.com,90000.00,0,0,Bachelors,Professional,1,4,6171 Golf Club Rd,NULL,1 (11) 500 555-0112,2002-01-22,Person,NULL
+466,487,11465,NULL,Louis,NULL,Luo,0,1971-02-19,M,NULL,M,louis23@adventure-works.com,90000.00,0,0,Bachelors,Professional,0,4,4187 Banbury Loop,NULL,1 (11) 500 555-0185,2002-01-14,Person,NULL
+467,648,11466,NULL,Grant,H,Tang,0,1971-08-03,M,NULL,M,grant6@adventure-works.com,150000.00,0,5,Partial High School,Management,1,4,2710 Saddlehill Lane,NULL,1 (11) 500 555-0195,2003-11-23,Person,NULL
+468,554,11467,NULL,Arturo,C,Zheng,0,1969-10-07,M,NULL,M,arturo21@adventure-works.com,170000.00,1,5,Graduate Degree,Management,1,4,9719 Hamilton Ave,NULL,1 (11) 500 555-0154,2004-02-01,Person,NULL
+469,576,11468,NULL,Jaclyn,NULL,Andersen,0,1975-06-18,M,NULL,F,jaclyn37@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,8274 Gladstone Drive,NULL,1 (11) 500 555-0126,2002-02-08,Person,NULL
+470,576,11469,NULL,Edwin,NULL,Raji,0,1973-04-16,S,NULL,M,edwin44@adventure-works.com,10000.00,0,0,Partial High School,Manual,0,2,6045 Nightingale Drive,NULL,1 (11) 500 555-0143,2004-02-10,Person,NULL
+471,555,11470,NULL,Jay,C,Suarez,0,1973-09-25,S,NULL,M,jay49@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,Heidestieg Straße 8664,NULL,1 (11) 500 555-0195,2002-07-25,Person,NULL
+472,459,11471,NULL,Latasha,NULL,Suarez,0,1973-09-25,S,NULL,F,latasha19@adventure-works.com,30000.00,0,0,Partial College,Clerical,1,1,"29, avenue de la Gare",NULL,1 (11) 500 555-0180,2003-11-18,Person,NULL
+473,637,11472,NULL,Kenneth,NULL,Kumar,0,1963-04-03,S,NULL,M,kenneth7@adventure-works.com,60000.00,3,2,Bachelors,Professional,1,2,7815 Driftwood Drive,NULL,1 (11) 500 555-0153,2002-01-26,Person,NULL
+474,476,11473,NULL,Grace,M,Henderson,0,1980-08-02,S,NULL,F,grace52@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,"1039, rue Mazagran",NULL,1 (11) 500 555-0164,2003-12-04,Person,NULL
+475,532,11474,NULL,Melvin,A,Xu,0,1980-02-22,S,NULL,M,melvin5@adventure-works.com,20000.00,0,0,Partial High School,Manual,1,2,4092 Folson Drive,NULL,1 (11) 500 555-0113,2004-03-29,Person,NULL
+476,506,11475,NULL,Cesar,L,Subram,0,1978-10-09,S,NULL,M,cesar12@adventure-works.com,30000.00,0,0,High School,Manual,0,1,8778 So. Silver Spring,NULL,1 (11) 500 555-0118,2003-10-25,Person,NULL
+477,497,11476,NULL,Erika,K,Navarro,0,1974-11-17,M,NULL,F,erika7@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,37 Amaranth Way,NULL,1 (11) 500 555-0145,2004-05-04,Person,NULL
+478,474,11477,NULL,Tristan,NULL,Hughes,0,1973-06-25,S,NULL,M,tristan12@adventure-works.com,30000.00,0,0,High School,Manual,0,1,Platz des Landtags 33,NULL,1 (11) 500 555-0121,2004-03-28,Person,NULL
+479,548,11478,NULL,Billy,C,Hernandez,0,1973-02-25,S,NULL,M,billy5@adventure-works.com,30000.00,0,0,High School,Manual,0,1,"570, avenue des Champs-Elysées",NULL,1 (11) 500 555-0121,2003-10-21,Person,NULL
+480,544,11479,NULL,Darryl,L,Wu,0,1973-04-22,M,NULL,M,darryl6@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,"52, rue de Berri",NULL,1 (11) 500 555-0180,2003-06-08,Person,NULL
+481,700,11480,NULL,Colleen,A,Ma,0,1973-03-11,M,NULL,F,colleen16@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,"2, place Beaubernard",NULL,1 (11) 500 555-0160,2003-06-28,Person,NULL
+482,595,11481,NULL,Erica,NULL,Hu,0,1973-05-23,M,NULL,F,erica19@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,Am Gallberg 46,Einkaufsabteilung,1 (11) 500 555-0117,2002-07-30,Person,NULL
+483,567,11482,NULL,Adrienne,C,Torres,0,1972-07-19,S,NULL,F,adrienne8@adventure-works.com,30000.00,0,0,High School,Manual,0,1,9684 La Vista Avenue,NULL,1 (11) 500 555-0120,2002-03-11,Person,NULL
+484,529,11483,NULL,Calvin,E,Chande,0,1972-05-22,M,NULL,M,calvin13@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,1,"9, rue de l´Avenir",NULL,1 (11) 500 555-0197,2003-06-25,Person,NULL
+485,517,11484,NULL,Erick,L,Sai,0,1972-03-06,S,NULL,M,erick5@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,0,Hauptstr 6057,NULL,1 (11) 500 555-0161,2002-07-05,Person,NULL
+486,481,11485,NULL,Donald,NULL,Chandra,0,1972-08-07,M,NULL,M,donald4@adventure-works.com,40000.00,2,2,Partial College,Clerical,0,0,1644 Alicante Court,NULL,1 (11) 500 555-0191,2002-03-17,Person,NULL
+487,626,11486,NULL,Ariana,F,Rogers,0,1971-05-25,S,NULL,F,ariana17@adventure-works.com,10000.00,0,0,Partial High School,Manual,1,2,Königstr 381,NULL,1 (11) 500 555-0118,2004-05-27,Person,NULL
+488,624,11487,NULL,Morgan,C,Jones,0,1971-07-09,S,NULL,F,morgan26@adventure-works.com,10000.00,0,0,Partial High School,Manual,0,2,"55, impasse Notre-Dame",NULL,1 (11) 500 555-0155,2004-06-17,Person,NULL
+489,506,11488,NULL,Jermaine,NULL,Lopez,0,1971-09-21,S,NULL,M,jermaine15@adventure-works.com,20000.00,0,0,Partial High School,Manual,1,2,5456 Old Oak Drive,NULL,1 (11) 500 555-0181,2002-04-30,Person,NULL
+490,525,11489,NULL,Deborah,S,Goel,0,1971-03-07,S,NULL,F,deborah21@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,3670 All Ways Drive,NULL,1 (11) 500 555-0168,2002-04-30,Person,NULL
+491,530,11490,NULL,Danny,NULL,Rubio,0,1971-01-06,S,NULL,M,danny22@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,"5, avenue de la Gare",NULL,1 (11) 500 555-0122,2003-10-06,Person,NULL
+492,506,11491,NULL,Andre,NULL,Perez,0,1971-04-06,M,NULL,M,andre20@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,70 Tobi Drive,NULL,1 (11) 500 555-0112,2002-05-10,Person,NULL
+493,480,11492,NULL,Terrence,C,Chander,0,1971-11-19,S,NULL,M,terrence16@adventure-works.com,30000.00,0,0,High School,Manual,0,1,Reiherweg 5014,NULL,1 (11) 500 555-0155,2002-08-14,Person,NULL
+494,506,11493,NULL,Dawn,T,Wu,0,1970-12-02,S,NULL,F,dawn8@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,0,6344 St Paul Way,NULL,1 (11) 500 555-0139,2002-05-17,Person,NULL
+495,541,11494,NULL,Jimmy,M,Gutierrez,0,1970-07-28,S,NULL,M,jimmy14@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,0,9627 N. Civic Drive,NULL,1 (11) 500 555-0112,2002-06-25,Person,NULL
+496,590,11495,NULL,Francis,NULL,Jimenez,0,1971-09-04,S,NULL,M,francis3@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,1,Curieweg 3991,NULL,1 (11) 500 555-0143,2004-04-28,Person,NULL
+497,567,11496,NULL,Gary,NULL,Ortega,0,1970-10-17,S,NULL,M,gary31@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,2,5009 Grasswood Circle,NULL,1 (11) 500 555-0197,2002-06-02,Person,NULL
+498,666,11497,NULL,Katrina,R,Nath,0,1970-11-26,S,NULL,F,katrina17@adventure-works.com,40000.00,2,2,Partial College,Clerical,1,2,8874 Folson Drive,NULL,1 (11) 500 555-0154,2004-05-07,Person,NULL
+499,467,11498,NULL,Arturo,C,Sun,0,1974-01-15,S,NULL,M,arturo14@adventure-works.com,40000.00,3,3,Partial College,Clerical,1,2,4023 Jasper Court,NULL,694-555-0114,2003-09-01,Person,NULL
+500,470,11499,NULL,Pedro,A,Vance,0,1974-11-14,S,NULL,M,pedro4@adventure-works.com,40000.00,3,3,Partial College,Clerical,1,2,4438 Chrislend Court,NULL,149-555-0132,2003-10-08,Person,NULL
+501,499,11500,NULL,Sarah,V,Simmons,0,1974-09-18,S,NULL,F,sarah40@adventure-works.com,40000.00,0,0,Graduate Degree,Skilled Manual,1,0,1005 Valley Oak Plaza,NULL,579-555-0169,2003-08-04,Person,NULL
+502,467,11501,NULL,Brandy,P,Chandra,0,1975-07-07,S,NULL,F,brandy20@adventure-works.com,40000.00,3,3,Partial College,Clerical,1,2,7089 Monti Circle,NULL,323-555-0162,2003-09-28,Person,NULL
+503,695,11502,NULL,Jared,NULL,Peterson,0,1975-03-07,S,NULL,M,jared8@adventure-works.com,40000.00,4,4,Partial College,Clerical,1,1,6878 Dublin,NULL,879-555-0159,2003-08-03,Person,NULL
+504,619,11503,NULL,Dennis,G,Wu,0,1930-10-13,M,NULL,M,dennis8@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,9810 Rishell Ct.,NULL,724-555-0194,2003-11-27,Person,NULL
+505,475,11504,NULL,Jordan,P,Baker,0,1931-04-20,M,NULL,F,jordan45@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,1,3427 B Wildbrook Ct.,NULL,138-555-0117,2003-11-02,Person,NULL
+506,446,11505,NULL,Jasmine,A,Powell,0,1966-07-07,S,NULL,F,jasmine48@adventure-works.com,60000.00,0,0,Graduate Degree,Skilled Manual,1,0,5684 San Marino Ct.,NULL,847-555-0156,2003-08-26,Person,NULL
+507,675,11506,NULL,Nicholas,S,Brown,0,1966-05-17,S,NULL,M,nicholas6@adventure-works.com,60000.00,0,0,Graduate Degree,Skilled Manual,0,0,2813 Dew Drop Circle,NULL,883-555-0144,2003-09-09,Person,NULL
+508,701,11507,NULL,Isabella,A,Russell,0,1966-11-20,S,NULL,F,isabella30@adventure-works.com,60000.00,0,0,Graduate Degree,Skilled Manual,1,0,2427 Pastime Dr,NULL,168-555-0190,2003-08-21,Person,NULL
+509,507,11508,NULL,Elizabeth,R,Wilson,0,1966-07-07,S,NULL,F,elizabeth11@adventure-works.com,60000.00,0,0,Graduate Degree,Skilled Manual,1,0,1144 N. Jackson Way,NULL,469-555-0110,2003-11-03,Person,NULL
+510,670,11509,NULL,Roger,NULL,Harui,0,1953-07-26,M,NULL,F,roger4@adventure-works.com,30000.00,1,0,Bachelors,Skilled Manual,1,1,3989 Tice Valley Blvd.,NULL,731-555-0184,2004-01-30,Person,NULL
+511,665,11510,NULL,Seth,H,Roberts,0,1953-07-13,M,NULL,M,seth40@adventure-works.com,30000.00,1,0,Bachelors,Skilled Manual,1,1,5989 Concord Ave,NULL,199-555-0147,2003-09-13,Person,NULL
+512,500,11511,NULL,Caleb,NULL,Perry,0,1953-06-14,M,NULL,M,caleb4@adventure-works.com,30000.00,1,0,Bachelors,Skilled Manual,1,1,2324 Cherry Street,NULL,786-555-0137,2003-09-14,Person,NULL
+513,671,11512,NULL,Natalie,L,Campbell,0,1954-08-13,S,NULL,F,natalie50@adventure-works.com,20000.00,3,0,Partial High School,Manual,1,2,3481 Broadmoor Drive,NULL,178-555-0147,2004-06-30,Person,NULL
+514,682,11513,NULL,Alyssa,A,Howard,0,1954-09-27,S,NULL,F,alyssa38@adventure-works.com,20000.00,3,0,Partial High School,Manual,0,2,5780 Conifer Terrace,NULL,805-555-0188,2003-12-10,Person,NULL
+515,559,11514,NULL,Dalton,NULL,Diaz,0,1954-04-20,M,NULL,M,dalton67@adventure-works.com,30000.00,1,0,High School,Clerical,1,1,8033 Danesta Dr.,NULL,994-555-0158,2003-12-26,Person,NULL
+516,443,11515,NULL,Shannon,H,Huang,0,1954-02-25,M,NULL,F,shannon6@adventure-works.com,30000.00,1,0,High School,Clerical,1,1,4679 Duke Way,NULL,458-555-0116,2002-03-03,Person,NULL
+517,469,11516,NULL,Mya,NULL,Gonzales,0,1954-10-21,M,NULL,F,mya17@adventure-works.com,30000.00,1,0,High School,Clerical,1,1,8826 Fine Drive,NULL,211-555-0110,2002-03-18,Person,NULL
+518,538,11517,NULL,Katherine,A,Bryant,0,1954-06-20,M,NULL,F,katherine44@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,8761 Dancing Court,NULL,802-555-0135,2003-12-28,Person,NULL
+519,660,11518,NULL,Edward,NULL,Washington,0,1955-05-10,M,NULL,M,edward62@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,2747 Carmel Dr.,NULL,446-555-0170,2004-04-29,Person,NULL
+520,467,11519,NULL,Jerome,B,Navarro,0,1955-03-17,M,NULL,M,jerome8@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,9537 Ridgewood Drive,NULL,934-555-0191,2003-09-14,Person,NULL
+521,675,11520,NULL,Jada,A,Morgan,0,1955-04-11,M,NULL,F,jada14@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,8394 Lincoln Drive,NULL,160-555-0131,2003-08-26,Person,NULL
+522,566,11521,NULL,Ariana,NULL,Peterson,0,1955-12-09,M,NULL,F,ariana4@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,9052 Blue Ridge Dr,NULL,298-555-0145,2003-09-06,Person,NULL
+523,523,11522,NULL,Christian,J,Hughes,0,1955-12-23,M,NULL,M,christian26@adventure-works.com,80000.00,5,0,Graduate Degree,Skilled Manual,1,0,3279 W 46th St,NULL,231-555-0168,2002-03-06,Person,NULL
+524,665,11523,NULL,Lucas,V,Taylor,0,1956-08-10,M,NULL,M,lucas22@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,2328 California Street,NULL,149-555-0146,2003-08-19,Person,NULL
+525,560,11524,NULL,Alyssa,L,Jackson,0,1956-01-23,M,NULL,F,alyssa11@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,8752 Greenway Drive,NULL,398-555-0193,2004-02-29,Person,NULL
+526,500,11525,NULL,Ariana,NULL,Cook,0,1956-01-09,M,NULL,F,ariana19@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,869 Aspen Drive,NULL,160-555-0119,2002-03-09,Person,NULL
+527,571,11526,NULL,Katherine,P,Diaz,0,1956-08-06,M,NULL,F,katherine48@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,8160 Star Tree Court,NULL,147-555-0124,2003-08-07,Person,NULL
+528,690,11527,NULL,Jenna,J,Green,0,1956-06-04,M,NULL,F,jenna14@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,905 Johnson Road,NULL,961-555-0153,2003-08-11,Person,NULL
+529,633,11528,NULL,Joan,NULL,Washington,0,1957-08-19,M,NULL,F,joan7@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,2932 Esperanza Dr,NULL,732-555-0144,2002-03-15,Person,NULL
+530,536,11529,NULL,Austin,L,Bryant,0,1957-11-16,M,NULL,M,austin14@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,786 Eastgate Ave,NULL,537-555-0113,2002-03-27,Person,NULL
+531,665,11530,NULL,Andrew,C,Martinez,0,1957-07-26,M,NULL,M,andrew24@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,3183 Trasher Road,NULL,226-555-0113,2003-08-01,Person,NULL
+532,430,11531,NULL,Nina,R,Yuan,0,1957-01-07,M,NULL,F,nina7@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,4851 Heights Ave.,NULL,568-555-0198,2002-03-02,Person,NULL
+533,677,11532,NULL,Lauren,NULL,Miller,0,1957-02-26,M,NULL,F,lauren24@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,6437 Brookview Dr.,NULL,827-555-0183,2003-10-07,Person,NULL
+534,588,11533,NULL,Ebony,E,Gill,0,1957-07-21,M,NULL,F,ebony35@adventure-works.com,40000.00,1,0,Partial College,Clerical,1,1,3235 Mi Casa Court,NULL,327-555-0157,2003-11-15,Person,NULL
+535,652,11534,NULL,Cameron,M,Lewis,0,1958-11-13,S,NULL,M,cameron39@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,7665 Terrace Road,NULL,199-555-0180,2002-03-21,Person,NULL
+536,500,11535,NULL,Devin,NULL,Nelson,0,1958-07-03,M,NULL,M,devin32@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,2569 Webster Drive,NULL,256-555-0111,2002-03-05,Person,NULL
+537,631,11536,NULL,Logan,J,Chow,0,1958-04-17,M,NULL,M,logan25@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,6024 Lacanda,NULL,545-555-0121,2002-03-27,Person,NULL
+538,469,11537,NULL,Dakota,NULL,Ross,0,1958-03-24,M,NULL,M,dakota3@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,1024 Walnut Blvd.,NULL,186-555-0170,2002-03-24,Person,NULL
+539,527,11538,NULL,Nicole,B,Taylor,0,1959-08-28,S,NULL,F,nicole9@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,0,0,112 Kathleen Drive,NULL,217-555-0170,2002-03-19,Person,NULL
+540,470,11539,NULL,Justin,NULL,Washington,0,1959-08-22,M,NULL,M,justin10@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,6092 Chestnut,NULL,701-555-0175,2002-03-26,Person,NULL
+541,619,11540,NULL,Alberto,C,Navarro,0,1959-01-28,S,NULL,M,alberto11@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,7615 Buena Vista,NULL,535-555-0131,2002-03-16,Person,NULL
+542,536,11541,NULL,Aidan,D,Ross,0,1959-04-12,S,NULL,M,aidan4@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,0,0,2209 Sequoia Drive,NULL,154-555-0143,2002-03-15,Person,NULL
+543,576,11542,NULL,Alejandro,L,Tang,0,1968-09-10,S,NULL,M,alejandro30@adventure-works.com,20000.00,1,1,Partial College,Manual,0,0,5545 Clemson Court,NULL,1 (11) 500 555-0124,2003-11-12,Person,NULL
+544,529,11543,NULL,Sheena,NULL,Chande,0,1968-02-17,M,NULL,F,sheena13@adventure-works.com,20000.00,1,1,Partial College,Manual,1,1,"9, rue des Vendangeurs",NULL,1 (11) 500 555-0178,2004-06-23,Person,NULL
+545,474,11544,NULL,Joel,A,Garcia,0,1968-05-07,M,NULL,M,joel14@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,Essener Straße 8,NULL,1 (11) 500 555-0159,2004-02-29,Person,NULL
+546,529,11545,NULL,Reginald,NULL,Dominguez,0,1968-03-25,M,NULL,M,reginald20@adventure-works.com,30000.00,1,0,Bachelors,Clerical,1,0,"88, rue Georges-Clémenceau",NULL,1 (11) 500 555-0137,2004-01-14,Person,NULL
+547,540,11546,NULL,Christine,NULL,Chande,0,1968-03-14,M,NULL,F,christine10@adventure-works.com,30000.00,1,1,Bachelors,Clerical,1,0,"522bis, rue des Peupliers",NULL,1 (11) 500 555-0179,2003-06-05,Person,NULL
+548,529,11547,NULL,Cindy,E,Sai,0,1968-03-08,M,NULL,F,cindy6@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,"88, allée des Princes",NULL,1 (11) 500 555-0111,2003-06-28,Person,NULL
+549,585,11548,NULL,Raymond,NULL,Sanchez,0,1968-10-12,S,NULL,M,raymond21@adventure-works.com,40000.00,0,0,Graduate Degree,Clerical,1,0,2381 Tupelo Drive,NULL,1 (11) 500 555-0160,2002-06-04,Person,NULL
+550,506,11549,NULL,Crystal,J,Liang,0,1968-09-06,M,NULL,F,crystal17@adventure-works.com,40000.00,0,0,Bachelors,Clerical,1,0,5077 Bannock Ct.,NULL,1 (11) 500 555-0120,2002-06-23,Person,NULL
+551,525,11550,NULL,Deb,NULL,Torres,0,1968-08-08,S,NULL,F,deb4@adventure-works.com,40000.00,0,0,Bachelors,Clerical,1,0,7553 Harness Circle,NULL,1 (11) 500 555-0125,2002-07-23,Person,NULL
+552,615,11551,NULL,Shannon,NULL,Alvarez,0,1967-05-25,S,NULL,M,shannon26@adventure-works.com,10000.00,3,3,High School,Manual,1,1,"268, avenue de l´Europe",NULL,1 (11) 500 555-0159,2003-09-02,Person,NULL
+553,687,11552,NULL,Eddie,L,Rubio,0,1967-05-27,S,NULL,M,eddie21@adventure-works.com,20000.00,1,1,Partial College,Manual,0,1,Heiderplatz 662,NULL,1 (11) 500 555-0159,2004-07-09,Person,NULL
+554,676,11553,NULL,Sharon,D,Luo,0,1967-09-09,M,NULL,F,sharon12@adventure-works.com,20000.00,1,1,Partial College,Manual,1,1,6804 Coldwater Drive,NULL,1 (11) 500 555-0118,2004-02-23,Person,NULL
+555,700,11554,NULL,Sydney,NULL,Simmons,0,1926-09-28,S,NULL,F,sydney37@adventure-works.com,10000.00,4,0,High School,Manual,1,2,"88, avenue de l´ Union Centrale",NULL,1 (11) 500 555-0198,2003-11-09,Person,NULL
+556,481,11555,NULL,Alexandria,R,Henderson,0,1926-07-08,M,NULL,F,alexandria5@adventure-works.com,40000.00,1,0,Bachelors,Clerical,1,0,"11, rue de la Cavalerie",NULL,1 (11) 500 555-0182,2003-11-09,Person,NULL
+557,567,11556,NULL,Lucas,J,Evans,0,1967-05-14,M,NULL,M,lucas10@adventure-works.com,20000.00,1,1,Partial College,Manual,1,1,3663 A St.,NULL,1 (11) 500 555-0153,2004-06-23,Person,NULL
+558,576,11557,NULL,Felicia,NULL,Ramos,0,1967-01-15,S,NULL,F,felicia16@adventure-works.com,30000.00,1,1,Bachelors,Clerical,0,0,9557 Steven Circle,NULL,1 (11) 500 555-0191,2004-02-09,Person,NULL
+559,574,11558,NULL,Ivan,E,Malhotra,0,1967-08-22,S,NULL,M,ivan3@adventure-works.com,30000.00,1,1,Bachelors,Clerical,0,0,5086 Nottingham Place,NULL,1 (11) 500 555-0198,2004-06-02,Person,NULL
+560,696,11559,NULL,Frederick,M,Subram,0,1967-12-16,S,NULL,M,frederick12@adventure-works.com,30000.00,1,1,Bachelors,Clerical,0,1,Rotthäuser Weg 636,NULL,1 (11) 500 555-0111,2004-06-01,Person,NULL
+561,506,11560,NULL,Whitney,NULL,Srini,0,1967-08-13,S,NULL,F,whitney7@adventure-works.com,30000.00,1,1,Bachelors,Clerical,0,1,7341 Rockne Drive,NULL,1 (11) 500 555-0115,2004-06-05,Person,NULL
+562,765,11561,NULL,Briana,NULL,Dominguez,0,1966-07-24,S,NULL,F,briana12@adventure-works.com,10000.00,5,5,Partial High School,Manual,1,2,Hüttenstr 7005,NULL,1 (11) 500 555-0166,2002-08-22,Person,NULL
+563,649,11562,NULL,Jarrod,NULL,Gonzalez,0,1966-04-19,M,NULL,M,jarrod17@adventure-works.com,20000.00,1,1,High School,Manual,1,1,Nonnendamm 22,NULL,1 (11) 500 555-0151,2003-12-28,Person,NULL
+564,506,11563,NULL,Cesar,NULL,Srini,0,1966-02-01,S,NULL,M,cesar7@adventure-works.com,20000.00,1,1,High School,Manual,0,1,1547 Larkwood Ct.,NULL,1 (11) 500 555-0189,2004-01-06,Person,NULL
+565,483,11564,NULL,Jorge,L,Liang,0,1966-07-12,S,NULL,M,jorge19@adventure-works.com,20000.00,1,1,High School,Manual,0,2,Heiderweg 4982,NULL,1 (11) 500 555-0161,2002-08-19,Person,NULL
+566,426,11565,NULL,Erik,S,Diaz,0,1966-07-02,S,NULL,M,erik4@adventure-works.com,20000.00,2,2,High School,Manual,1,0,4408 Trinity Ave.,NULL,1 (11) 500 555-0157,2004-03-11,Person,NULL
+567,454,11566,NULL,April,L,Shan,0,1967-09-02,M,NULL,F,april8@adventure-works.com,40000.00,0,0,Bachelors,Clerical,1,0,"401, boulevard du Montparnasse",NULL,1 (11) 500 555-0172,2003-08-01,Person,NULL
+568,586,11567,NULL,Carla,NULL,Perez,0,1967-09-23,M,NULL,F,carla24@adventure-works.com,40000.00,0,0,Bachelors,Clerical,1,0,Klara Straße 8463,NULL,1 (11) 500 555-0146,2003-09-16,Person,NULL
+569,608,11568,NULL,Alexia,NULL,Foster,0,1966-10-23,S,NULL,F,alexia13@adventure-works.com,20000.00,2,2,High School,Manual,1,0,7246 Gloria Terr.,NULL,1 (11) 500 555-0182,2002-07-13,Person,NULL
+570,705,11569,NULL,Troy,NULL,Malhotra,0,1966-05-10,M,NULL,M,troy5@adventure-works.com,30000.00,1,1,Bachelors,Clerical,1,1,1629 Queens Road,NULL,1 (11) 500 555-0125,2004-05-23,Person,NULL
+571,586,11570,NULL,Kristin,K,Andersen,0,1966-01-22,M,NULL,F,kristin14@adventure-works.com,30000.00,1,1,Bachelors,Skilled Manual,1,2,Zimmerstr 137,NULL,1 (11) 500 555-0199,2002-09-26,Person,NULL
+572,672,11571,NULL,Joel,NULL,Sai,0,1966-05-18,M,NULL,M,joel5@adventure-works.com,30000.00,1,1,Bachelors,Skilled Manual,1,2,"99, rue du Puits Dixme",NULL,1 (11) 500 555-0144,2003-06-15,Person,NULL
+573,624,11572,NULL,Billy,NULL,Moreno,0,1966-03-15,M,NULL,M,billy8@adventure-works.com,30000.00,1,1,Bachelors,Skilled Manual,1,2,"8733, rue Basse-du-Rocher",NULL,1 (11) 500 555-0165,2003-06-12,Person,NULL
+574,574,11573,NULL,Meagan,W,Subram,0,1965-11-15,S,NULL,F,meagan13@adventure-works.com,20000.00,2,2,High School,Manual,1,1,7469 Paradise Ct.,NULL,1 (11) 500 555-0144,2004-01-28,Person,NULL
+575,705,11574,NULL,Karla,V,Luo,0,1965-07-17,S,NULL,F,karla6@adventure-works.com,20000.00,2,2,High School,Manual,1,1,7390 Discovery Bay,NULL,1 (11) 500 555-0139,2003-09-16,Person,NULL
+576,501,11575,NULL,Jackson,NULL,Campbell,0,1965-04-21,S,NULL,M,jackson37@adventure-works.com,20000.00,2,2,High School,Manual,1,2,2109 Mt. Washington,NULL,1 (11) 500 555-0182,2002-07-23,Person,NULL
+577,622,11576,NULL,Micah,V,Zhu,0,1965-02-10,M,NULL,M,micah1@adventure-works.com,30000.00,1,1,Bachelors,Skilled Manual,1,2,"68, avenue de l´ Union Centrale",NULL,1 (11) 500 555-0185,2003-06-18,Person,NULL
+578,529,11577,NULL,Janet,NULL,Serrano,0,1965-10-22,M,NULL,F,janet22@adventure-works.com,30000.00,1,1,Bachelors,Skilled Manual,1,2,6788 Edward Ave,NULL,1 (11) 500 555-0135,2003-06-24,Person,NULL
+579,528,11578,NULL,Trisha,NULL,Huang,0,1964-11-08,S,NULL,F,trisha0@adventure-works.com,10000.00,3,2,Partial High School,Manual,1,2,"33, place de la République",NULL,1 (11) 500 555-0128,2003-06-02,Person,NULL
+580,567,11579,NULL,Clayton,NULL,Beck,0,1964-08-20,S,NULL,M,clayton38@adventure-works.com,20000.00,3,3,High School,Manual,1,1,3626 N Ranchford Court,NULL,1 (11) 500 555-0184,2004-02-01,Person,NULL
+581,585,11580,NULL,Melvin,NULL,Raje,0,1933-09-12,M,NULL,M,melvin12@adventure-works.com,30000.00,1,0,Bachelors,Skilled Manual,1,1,9113 Flamingo Dr.,NULL,1 (11) 500 555-0167,2003-10-18,Person,NULL
+582,529,11581,NULL,Cindy,NULL,Jordan,0,1966-09-04,M,NULL,F,cindy2@adventure-works.com,40000.00,0,0,Bachelors,Professional,1,0,"987, rue de la Centenaire",NULL,1 (11) 500 555-0161,2003-08-15,Person,NULL
+583,528,11582,NULL,Claudia,E,Ma,0,1963-04-13,S,NULL,F,claudia14@adventure-works.com,30000.00,2,2,Partial College,Clerical,1,0,"222, rue de Cambrai",NULL,1 (11) 500 555-0167,2003-06-10,Person,NULL
+584,459,11583,NULL,Karla,M,Xu,0,1965-09-26,S,NULL,F,karla5@adventure-works.com,30000.00,2,2,Partial College,Clerical,1,0,"79, rue de la Comédie",NULL,1 (11) 500 555-0160,2003-06-24,Person,NULL
+585,517,11584,NULL,Devin,J,Carter,0,1965-11-22,M,NULL,M,devin33@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,0,Buergermeister-ulrich-str 5,NULL,1 (11) 500 555-0183,2004-03-19,Person,NULL
+586,587,11585,NULL,Kari,L,Perez,0,1965-03-08,M,NULL,F,kari21@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,0,6124 Clayton Road,NULL,1 (11) 500 555-0192,2004-07-13,Person,NULL
+587,576,11586,NULL,Alberto,NULL,Romero,0,1965-12-15,M,NULL,M,alberto10@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,0,2348 Fruitwood,NULL,1 (11) 500 555-0133,2004-04-30,Person,NULL
+588,657,11587,NULL,Kevin,NULL,Bryant,0,1964-10-21,S,NULL,M,kevin20@adventure-works.com,30000.00,2,2,Partial College,Clerical,1,2,"21, rue du Puits Dixme",NULL,1 (11) 500 555-0186,2003-06-02,Person,NULL
+589,545,11588,NULL,Candace,NULL,Mehta,0,1964-07-14,M,NULL,F,candace14@adventure-works.com,30000.00,2,2,Partial College,Clerical,0,2,"24, rue Royale",NULL,1 (11) 500 555-0112,2003-06-02,Person,NULL
+590,506,11589,NULL,Ebony,NULL,Malhotra,0,1964-05-04,M,NULL,F,ebony4@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,0,7959 Mt. Wilson Way,NULL,1 (11) 500 555-0113,2003-12-06,Person,NULL
+591,476,11590,NULL,Erika,F,Diaz,0,1963-10-18,S,NULL,F,erika2@adventure-works.com,30000.00,2,2,Partial College,Clerical,1,2,Attaché de Presse,NULL,1 (11) 500 555-0124,2003-06-04,Person,NULL
+592,564,11591,NULL,Stacey,W,Lu,0,1963-05-16,S,NULL,F,stacey12@adventure-works.com,30000.00,3,3,Partial College,Clerical,1,0,"67, avenue de l´ Union Centrale",NULL,1 (11) 500 555-0157,2001-07-14,Person,NULL
+593,529,11592,NULL,Darrell,T,Raji,0,1978-09-04,S,NULL,M,darrell9@adventure-works.com,20000.00,0,0,High School,Manual,0,1,"68, impasse Notre-Dame",NULL,1 (11) 500 555-0178,2001-07-14,Person,NULL
+594,672,11593,NULL,Armando,NULL,Moreno,0,1977-03-25,S,NULL,M,armando6@adventure-works.com,20000.00,0,0,High School,Manual,1,1,"121, rue de Cambrai",NULL,1 (11) 500 555-0165,2001-07-24,Person,NULL
+595,563,11594,NULL,Corey,NULL,Goel,0,1979-11-04,S,NULL,M,corey16@adventure-works.com,20000.00,4,4,High School,Manual,1,2,"11, rue de l'Espace De Schengen",NULL,1 (11) 500 555-0111,2004-02-18,Person,NULL
+596,626,11595,NULL,Sebastian,NULL,Howard,0,1979-07-02,S,NULL,M,sebastian12@adventure-works.com,20000.00,5,5,High School,Manual,1,3,Höhenstr 9419,NULL,1 (11) 500 555-0112,2004-07-02,Person,NULL
+597,541,11596,NULL,Roger,E,Raje,0,1963-09-03,M,NULL,M,roger41@adventure-works.com,40000.00,1,0,Bachelors,Skilled Manual,1,0,9100 Main Street,NULL,1 (11) 500 555-0154,2004-04-03,Person,NULL
+598,524,11597,NULL,Janelle,C,Chandra,0,1978-02-06,S,NULL,F,janelle2@adventure-works.com,30000.00,3,3,Partial College,Clerical,1,2,"25, avenue de la Gare",NULL,1 (11) 500 555-0161,2004-07-08,Person,NULL
+599,683,11598,NULL,Meredith,B,Ruiz,0,1978-07-02,S,NULL,F,meredith24@adventure-works.com,30000.00,3,3,Partial College,Clerical,1,3,Holzstr 6444,NULL,1 (11) 500 555-0113,2002-09-12,Person,NULL
+600,503,11599,NULL,Melody,NULL,Diaz,0,1977-09-16,S,NULL,F,melody3@adventure-works.com,20000.00,0,0,High School,Manual,0,1,Attaché de Presse,NULL,1 (11) 500 555-0114,2001-07-21,Person,NULL
+601,548,11600,NULL,Linda,D,Rubio,0,1977-04-07,S,NULL,F,linda36@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,"2616, rue de Linois",NULL,1 (11) 500 555-0153,2003-11-07,Person,NULL
+602,564,11601,NULL,Ivan,S,Raman,0,1977-08-21,S,NULL,M,ivan8@adventure-works.com,30000.00,0,0,Partial College,Clerical,1,1,"335, rue Basse-du-Rocher",NULL,1 (11) 500 555-0119,2001-07-22,Person,NULL
+603,687,11602,NULL,Larry,NULL,Gill,0,1977-04-13,S,NULL,M,larry16@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,Am Gallberg 645,NULL,1 (11) 500 555-0125,2004-01-11,Person,NULL
+604,506,11603,NULL,Geoffrey,NULL,Gonzalez,0,1977-02-06,S,NULL,M,geoffrey16@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,1538 Golden Meadow,NULL,1 (11) 500 555-0131,2002-07-21,Person,NULL
+605,572,11604,NULL,Edgar,NULL,Sanchez,0,1977-06-03,S,NULL,M,edgar21@adventure-works.com,30000.00,0,0,Partial College,Clerical,1,1,6543 Jacobsen Street,NULL,1 (11) 500 555-0117,2002-07-06,Person,NULL
+606,555,11605,NULL,Heidi,L,Subram,0,1976-11-20,S,NULL,F,heidi15@adventure-works.com,20000.00,0,0,High School,Manual,0,1,Auf den Kuhlen Straße 9,NULL,1 (11) 500 555-0183,2002-09-09,Person,NULL
+607,661,11606,NULL,Melody,NULL,Ramos,0,1975-02-03,S,NULL,F,melody17@adventure-works.com,10000.00,0,0,Partial High School,Manual,0,2,"2, rue de la Comédie",NULL,1 (11) 500 555-0182,2001-07-11,Person,NULL
+608,529,11607,NULL,Clinton,H,Moreno,0,1975-05-09,S,NULL,M,clinton3@adventure-works.com,20000.00,0,0,High School,Manual,1,1,"610, rue des Rosiers",NULL,1 (11) 500 555-0152,2001-07-22,Person,NULL
+609,530,11608,NULL,Cesar,E,Madan,0,1976-03-04,S,NULL,M,cesar6@adventure-works.com,20000.00,0,0,High School,Manual,0,1,"774, rue Descartes",NULL,1 (11) 500 555-0157,2004-06-15,Person,NULL
+610,576,11609,NULL,Eugene,E,Ye,0,1976-06-26,S,NULL,M,eugene13@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,2877 Bounty Way,NULL,1 (11) 500 555-0128,2002-07-31,Person,NULL
+611,698,11610,NULL,Blake,NULL,Collins,0,1975-04-23,S,NULL,M,blake47@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,4519 Lydia Lane,NULL,1 (11) 500 555-0140,2002-07-13,Person,NULL
+612,672,11611,NULL,Ernest,NULL,Lin,0,1974-02-27,M,NULL,M,ernest7@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,1,"65, rue Faubourg St Antoine",NULL,1 (11) 500 555-0190,2001-07-26,Person,NULL
+613,585,11612,NULL,Keith,NULL,Andersen,0,1974-10-11,S,NULL,M,keith16@adventure-works.com,20000.00,0,0,Partial High School,Manual,0,2,2411 Clark Creek Lane,NULL,1 (11) 500 555-0182,2002-08-05,Person,NULL
+614,649,11613,NULL,Meredith,M,Prasad,0,1975-11-03,S,NULL,F,meredith8@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,Hunzinger Allee 292,NULL,1 (11) 500 555-0162,2002-11-14,Person,NULL
+615,521,11614,NULL,Katrina,M,Sharma,0,1975-08-17,S,NULL,F,katrina8@adventure-works.com,30000.00,0,0,Partial College,Clerical,0,1,Nollendorfplatz 62,NULL,1 (11) 500 555-0115,2002-11-11,Person,NULL
+616,498,11615,NULL,Dwayne,H,Navarro,0,1975-11-21,M,NULL,M,dwayne9@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,5717 Monterey Ave,NULL,1 (11) 500 555-0163,2002-08-25,Person,NULL
+617,659,11616,NULL,Casey,NULL,Nath,0,1975-03-09,M,NULL,F,casey20@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,3728 Chinquapin Ct.,NULL,1 (11) 500 555-0130,2002-08-06,Person,NULL
+618,488,11617,NULL,Sean,NULL,Brooks,0,1959-04-04,S,NULL,M,sean8@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,0,0,6616 Baird Court,NULL,294-555-0111,2002-03-13,Person,NULL
+619,467,11618,NULL,Brian,M,Ramirez,0,1959-04-24,M,NULL,M,brian19@adventure-works.com,60000.00,4,0,Graduate Degree,Skilled Manual,1,0,9145 Danesta Dr.,NULL,167-555-0144,2003-08-13,Person,NULL
+620,701,11619,NULL,Sierra,J,Young,0,1973-05-01,S,NULL,F,sierra15@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,1,0,3230 Virginia Hills,NULL,410-555-0125,2003-08-12,Person,NULL
+621,583,11620,NULL,Megan,M,Rodriguez,0,1973-04-20,S,NULL,F,megan23@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,1,0,7285 Roanwood Way,NULL,156-555-0144,2003-08-12,Person,NULL
+622,442,11621,NULL,Leah,R,She,0,1973-02-19,S,NULL,F,leah19@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,0,0,8120 E Leland,NULL,787-555-0163,2004-02-02,Person,NULL
+623,642,11622,NULL,Gabriel,NULL,Allen,0,1973-12-17,M,NULL,M,gabriel53@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,1,0,8520 Waterview Place,NULL,787-555-0146,2003-10-10,Person,NULL
+624,631,11623,NULL,Angela,NULL,Perry,0,1973-06-27,S,NULL,F,angela10@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,4117 Missing Canyon Court,NULL,198-555-0159,2002-03-10,Person,NULL
+625,658,11624,NULL,Ryan,C,Smith,0,1973-03-23,S,NULL,M,ryan39@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,5462 El Pintado Rd.,NULL,394-555-0168,2002-03-24,Person,NULL
+626,527,11625,NULL,Zachary,S,Moore,0,1973-01-19,M,NULL,M,zachary37@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,9734 Jane Ct.,NULL,209-555-0118,2002-03-27,Person,NULL
+627,689,11626,NULL,Destiny,NULL,Rogers,0,1973-06-14,M,NULL,F,destiny26@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,3588 Vancouver Way,NULL,262-555-0170,2002-03-04,Person,NULL
+628,552,11627,NULL,Dalton,NULL,Gray,0,1973-02-27,M,NULL,M,dalton76@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,4833 Nottingham Pl.,NULL,263-555-0144,2004-02-28,Person,NULL
+629,582,11628,NULL,Mariah,M,Wood,0,1972-05-17,S,NULL,F,mariah6@adventure-works.com,40000.00,1,0,Graduate Degree,Skilled Manual,1,0,4088 Mills Place,NULL,662-555-0125,2002-03-15,Person,NULL
+630,667,11629,NULL,Isaiah,D,Wright,0,1971-02-08,S,NULL,M,isaiah45@adventure-works.com,40000.00,4,4,High School,Skilled Manual,1,3,7501 Sandy Cove Lane,NULL,525-555-0190,2002-03-28,Person,NULL
+631,693,11630,NULL,Haley,NULL,Powell,0,1971-12-25,M,NULL,F,haley27@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,418 Alfred Avenue,NULL,200-555-0198,2002-03-24,Person,NULL
+632,499,11631,NULL,Antonio,C,Bennett,0,1971-02-13,M,NULL,M,antonio1@adventure-works.com,60000.00,1,1,Graduate Degree,Skilled Manual,1,0,6200 Mt. Pisgah,NULL,380-555-0192,2003-08-11,Person,NULL
+633,647,11632,NULL,Alexandra,D,Jenkins,0,1971-05-06,M,NULL,F,alexandra30@adventure-works.com,60000.00,1,1,Graduate Degree,Skilled Manual,1,0,346 Sutcliffe Pl.,NULL,664-555-0121,2003-08-03,Person,NULL
+634,597,11633,NULL,Thomas,NULL,Anderson,0,1972-05-26,M,NULL,M,thomas71@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,8307 Monument Blvd.,NULL,315-555-0121,2004-05-16,Person,NULL
+635,537,11634,NULL,Samuel,NULL,Collins,0,1972-06-12,M,NULL,M,samuel33@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,2240 Inverness Dr.,NULL,385-555-0179,2003-09-12,Person,NULL
+636,430,11635,NULL,Darrell,NULL,Chande,0,1972-08-14,M,NULL,M,darrell4@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,3767 Banana Court,NULL,455-555-0152,2003-08-12,Person,NULL
+637,472,11636,NULL,Kimberly,K,Cox,0,1972-12-22,S,NULL,F,kimberly14@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,752 Shuey Ave,NULL,383-555-0177,2004-03-14,Person,NULL
+638,653,11637,NULL,Morgan,NULL,Hernandez,0,1972-08-14,M,NULL,F,morgan15@adventure-works.com,70000.00,1,0,Graduate Degree,Professional,1,0,3767 Benet Court,NULL,379-555-0153,2003-08-12,Person,NULL
+639,658,11638,NULL,Antonio,E,Powell,0,1972-03-12,M,NULL,M,antonio8@adventure-works.com,70000.00,1,0,Graduate Degree,Professional,1,0,1328 Huntleigh Dr.,NULL,966-555-0128,2004-04-21,Person,NULL
+640,658,11639,NULL,Angelica,NULL,Perry,0,1972-12-23,M,NULL,F,angelica7@adventure-works.com,70000.00,1,0,Graduate Degree,Professional,1,0,4059 High Street,NULL,936-555-0157,2004-05-12,Person,NULL
+641,647,11640,NULL,Chloe,A,Wilson,0,1970-05-03,M,NULL,F,chloe40@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,0,8885 Alta Vista,NULL,748-555-0137,2003-09-16,Person,NULL
+642,467,11641,NULL,James,D,Chen,0,1970-08-12,M,NULL,M,james41@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,0,3797 Baird Court,NULL,143-555-0119,2003-08-03,Person,NULL
+643,671,11642,NULL,Morgan,T,Hughes,0,1970-12-26,M,NULL,F,morgan81@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,1,3441 Wellington Ct.,NULL,165-555-0182,2003-08-13,Person,NULL
+644,597,11643,NULL,Naomi,L,Munoz,0,1970-07-27,M,NULL,F,naomi7@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,1,316 Rose Ann Ave,NULL,293-555-0147,2003-10-23,Person,NULL
+645,677,11644,NULL,Charles,S,Torres,0,1969-10-07,S,NULL,M,charles52@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,7347 Ready Road,NULL,202-555-0114,2003-11-18,Person,NULL
+646,686,11645,NULL,Gabriella,M,Turner,0,1969-10-19,S,NULL,F,gabriella27@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,9976 Manila Avenue,NULL,131-555-0142,2004-05-13,Person,NULL
+647,597,11646,NULL,Anna,A,Foster,0,1969-03-19,S,NULL,F,anna41@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,6580 Poor Ridge Court,NULL,288-555-0189,2004-01-16,Person,NULL
+648,467,11647,NULL,Randy,J,Wu,0,1969-09-22,S,NULL,M,randy8@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,0,0,589 Ashwood Dr.,NULL,189-555-0124,2003-08-19,Person,NULL
+649,610,11648,NULL,Kevin,R,Scott,0,1969-04-16,S,NULL,M,kevin50@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,4414 Kendree St.,NULL,364-555-0111,2004-02-29,Person,NULL
+650,667,11649,NULL,Ian,M,White,0,1969-01-26,M,NULL,M,ian12@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,6289 Duck Horn Court,NULL,200-555-0138,2003-10-07,Person,NULL
+651,633,11650,NULL,Caleb,NULL,Hayes,0,1969-07-26,M,NULL,M,caleb19@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,3824 White Dr,NULL,243-555-0128,2003-08-19,Person,NULL
+652,467,11651,NULL,Patricia,NULL,Garcia,0,1971-12-17,M,NULL,F,patricia18@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,2500 Ward Court,NULL,501-555-0174,2003-09-05,Person,NULL
+653,562,11652,NULL,Samuel,V,Russell,0,1971-05-05,M,NULL,M,samuel19@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,9668 Fieldbrook Pl,NULL,828-555-0112,2003-12-28,Person,NULL
+654,500,11653,NULL,Sydney,NULL,Peterson,0,1971-06-08,S,NULL,F,sydney15@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,3152 Woodcrest Drive,NULL,848-555-0130,2003-10-18,Person,NULL
+655,582,11654,NULL,Ariana,C,Sanchez,0,1971-09-19,M,NULL,F,ariana22@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,5278 Mill Road,NULL,435-555-0160,2002-04-20,Person,NULL
+656,470,11655,NULL,Tamara,NULL,Sharma,0,1971-04-01,S,NULL,F,tamara21@adventure-works.com,70000.00,2,0,Graduate Degree,Professional,1,0,4221 Birch Bark Road,NULL,164-555-0166,2004-04-01,Person,NULL
+657,494,11656,NULL,Katelyn,K,Perez,0,1971-09-20,M,NULL,F,katelyn35@adventure-works.com,70000.00,3,0,Graduate Degree,Professional,1,0,7494 Sunset Circle,NULL,864-555-0116,2004-03-14,Person,NULL
+658,670,11657,NULL,Megan,A,Cox,0,1971-05-04,M,NULL,F,megan39@adventure-works.com,70000.00,3,0,Graduate Degree,Professional,1,0,9825 Coralie Drive,NULL,466-555-0163,2003-11-26,Person,NULL
+659,520,11658,NULL,Robert,NULL,Mitchell,0,1969-02-07,M,NULL,M,robert53@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,9350 Mt. Hood Circle,NULL,132-555-0112,2003-10-25,Person,NULL
+660,550,11659,NULL,Miguel,NULL,Adams,0,1969-04-22,S,NULL,M,miguel32@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,4912 Mellowood Street,NULL,910-555-0185,2003-11-10,Person,NULL
+661,675,11660,NULL,Miranda,NULL,Gonzales,0,1969-01-22,M,NULL,F,miranda17@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,2458 Blocking Ct.,NULL,343-555-0197,2003-11-09,Person,NULL
+662,467,11661,NULL,Jeremiah,S,James,0,1970-01-07,S,NULL,M,jeremiah39@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,4909 Vine Lane,NULL,716-555-0117,2003-10-08,Person,NULL
+663,660,11662,NULL,Ethan,NULL,Kumar,0,1970-07-04,S,NULL,M,ethan24@adventure-works.com,60000.00,2,0,Graduate Degree,Professional,1,0,447 Barberry Court,NULL,214-555-0118,2003-11-07,Person,NULL
+664,566,11663,NULL,Seth,A,Williams,0,1970-02-25,M,NULL,M,seth2@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,3796 Peachwillow,NULL,878-555-0119,2002-04-30,Person,NULL
+665,445,11664,NULL,Alyssa,L,Morgan,0,1970-02-09,S,NULL,F,alyssa30@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,6751 Yosemite Ct.,NULL,144-555-0113,2002-04-29,Person,NULL
+666,610,11665,NULL,Janet,NULL,Dominguez,0,1970-12-13,M,NULL,F,janet18@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,8914 Jam Way,NULL,142-555-0139,2002-04-15,Person,NULL
+667,560,11666,NULL,Angel,NULL,Baker,0,1970-12-17,M,NULL,M,angel30@adventure-works.com,80000.00,2,0,Graduate Degree,Professional,1,0,7119 Iowa Drive,NULL,616-555-0161,2002-04-19,Person,NULL
+668,566,11667,NULL,Blake,S,Moore,0,1967-06-21,M,NULL,M,blake7@adventure-works.com,70000.00,2,2,Bachelors,Skilled Manual,1,1,1245 Clay Road,NULL,485-555-0144,2004-01-05,Person,NULL
+669,430,11668,NULL,Jada,C,Collins,0,1967-09-07,S,NULL,F,jada15@adventure-works.com,70000.00,2,2,Bachelors,Skilled Manual,1,1,1978 Medina Dr.,NULL,169-555-0194,2004-06-18,Person,NULL
+670,559,11669,NULL,Isabella,NULL,Simmons,0,1967-10-21,S,NULL,F,isabella25@adventure-works.com,70000.00,2,2,Bachelors,Skilled Manual,1,1,3495 Virginia Lane,NULL,424-555-0125,2004-02-19,Person,NULL
+671,488,11670,NULL,Jacqueline,NULL,Perry,0,1967-10-17,S,NULL,F,jacqueline8@adventure-works.com,70000.00,2,2,Bachelors,Skilled Manual,1,1,2326 MountainAire Parkway,NULL,172-555-0136,2003-10-15,Person,NULL
+672,625,11671,NULL,Jessica,L,Brown,0,1966-05-18,S,NULL,F,jessica51@adventure-works.com,60000.00,3,3,Bachelors,Skilled Manual,0,0,8874 Dallis Drive,NULL,895-555-0138,2002-04-23,Person,NULL
+673,430,11672,NULL,Chad,C,Jai,0,1966-09-21,M,NULL,M,chad13@adventure-works.com,60000.00,3,3,Bachelors,Skilled Manual,1,1,1386 Fillet Ave.,NULL,355-555-0162,2004-01-26,Person,NULL
+674,597,11673,NULL,Susan,C,Ye,0,1966-02-07,S,NULL,F,susan19@adventure-works.com,60000.00,3,3,Bachelors,Skilled Manual,1,1,2093 Dubhe Court,NULL,268-555-0189,2003-08-03,Person,NULL
+675,707,11674,NULL,Morgan,B,Rogers,0,1966-08-18,M,NULL,F,morgan49@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,0,1168 Escobar,NULL,405-555-0116,2003-12-01,Person,NULL
+676,627,11675,NULL,Devin,J,Martinez,0,1966-02-02,S,NULL,M,devin16@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,5571 Crawford,NULL,594-555-0155,2002-04-27,Person,NULL
+677,594,11676,NULL,Alan,NULL,Hu,0,1966-02-13,M,NULL,M,alan24@adventure-works.com,80000.00,0,0,Graduate Degree,Professional,1,0,970 Pheasant Circle,NULL,723-555-0187,2004-02-21,Person,NULL
+678,490,11677,NULL,Charles,NULL,Walker,0,1969-10-14,S,NULL,M,charles27@adventure-works.com,60000.00,2,0,Graduate Degree,Professional,1,0,189 Richview Dr,NULL,162-555-0110,2003-10-07,Person,NULL
+679,461,11678,NULL,Johnny,A,Chavez,0,1969-01-28,M,NULL,M,johnny16@adventure-works.com,70000.00,5,0,Graduate Degree,Professional,1,0,4778 Geary Road,NULL,895-555-0161,2002-04-12,Person,NULL
+680,537,11679,NULL,Dalton,W,Richardson,0,1969-05-08,M,NULL,M,dalton80@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,2,6453 Castle Hill Road,NULL,385-555-0179,2004-04-15,Person,NULL
+681,677,11680,NULL,Kaylee,E,Nelson,0,1969-09-04,M,NULL,F,kaylee31@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,2,7755 West Road,NULL,139-555-0186,2004-03-04,Person,NULL
+682,551,11681,NULL,Abigail,E,Jones,0,1969-08-07,M,NULL,F,abigail50@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,2,1433 C Mt. Hood Crest,NULL,889-555-0151,2003-09-08,Person,NULL
+683,559,11682,NULL,Kaitlyn,NULL,Hall,0,1969-03-16,M,NULL,F,kaitlyn46@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,0,2,5715 5th Ave.,NULL,209-555-0173,2004-03-08,Person,NULL
+684,625,11683,NULL,Greg,M,Taylor,0,1969-01-05,M,NULL,M,greg10@adventure-works.com,80000.00,2,0,Graduate Degree,Professional,1,0,1052 Stanford Street,NULL,959-555-0135,2002-04-07,Person,NULL
+685,677,11684,NULL,Devin,NULL,Parker,0,1965-10-01,S,NULL,M,devin40@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,4024 Calhoun Court,NULL,897-555-0155,2004-01-02,Person,NULL
+686,660,11685,NULL,Jose,A,Griffin,0,1965-02-07,M,NULL,M,jose15@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,4769 Book Ct,NULL,789-555-0114,2003-09-12,Person,NULL
+687,633,11686,NULL,Luke,C,Edwards,0,1965-04-13,S,NULL,M,luke33@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,4895 Hickory Drive,NULL,815-555-0192,2003-09-09,Person,NULL
+688,643,11687,NULL,Cody,NULL,Torres,0,1965-07-13,S,NULL,M,cody5@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,3889 Castle Hill Road,NULL,269-555-0120,2003-10-14,Person,NULL
+689,694,11688,NULL,Victoria,A,Morris,0,1965-12-25,S,NULL,F,victoria26@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,2,7675 Moss Hollow Court,NULL,178-555-0156,2002-04-04,Person,NULL
+690,479,11689,NULL,Ian,D,Diaz,0,1965-09-06,M,NULL,M,ian62@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,2,4091 Hill Meadow Pl.,NULL,136-555-0185,2004-02-27,Person,NULL
+691,535,11690,NULL,Caroline,NULL,Butler,0,1965-01-13,M,NULL,F,caroline15@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,0,5629 Seagull Court,NULL,101-555-0110,2002-04-27,Person,NULL
+692,494,11691,NULL,Kaitlyn,NULL,Wilson,0,1964-01-03,S,NULL,F,kaitlyn29@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,24 Roslyn Drive,NULL,968-555-0196,2003-08-12,Person,NULL
+693,443,11692,NULL,Caleb,A,Gonzales,0,1964-06-19,M,NULL,M,caleb14@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,2150 Pershing Dr,NULL,475-555-0114,2004-01-08,Person,NULL
+694,490,11693,NULL,Hailey,W,Diaz,0,1964-09-24,S,NULL,F,hailey42@adventure-works.com,50000.00,4,4,Bachelors,Skilled Manual,0,2,9063 Vista Aven.,NULL,835-555-0168,2003-08-01,Person,NULL
+695,469,11694,NULL,Jonathon,L,Ortega,0,1964-03-24,M,NULL,M,jonathon16@adventure-works.com,50000.00,4,4,Bachelors,Skilled Manual,1,4,4453 Bannock Ct.,NULL,733-555-0157,2003-10-13,Person,NULL
+696,430,11695,NULL,Logan,NULL,Campbell,0,1964-01-11,M,NULL,M,logan33@adventure-works.com,50000.00,5,5,Bachelors,Skilled Manual,1,3,8910 Hilltop Road,NULL,164-555-0159,2003-10-11,Person,NULL
+697,559,11696,NULL,Mackenzie,T,Campbell,0,1964-04-05,S,NULL,F,mackenzie29@adventure-works.com,50000.00,5,5,Bachelors,Skilled Manual,1,3,5905 Hawthorne Dr.,NULL,786-555-0184,2002-04-03,Person,NULL
+698,520,11697,NULL,Eduardo,NULL,Lee,0,1964-06-24,M,NULL,M,eduardo21@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,265 Jeff Ct,NULL,993-555-0176,2004-02-08,Person,NULL
+699,511,11698,NULL,Jackson,NULL,Wright,0,1964-11-25,M,NULL,M,jackson51@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,7796 Adobe Drive,NULL,112-555-0181,2003-10-02,Person,NULL
+700,566,11699,NULL,Chase,NULL,Peterson,0,1963-03-16,S,NULL,M,chase5@adventure-works.com,60000.00,4,2,Bachelors,Skilled Manual,0,2,4315 Glenside Ct.,NULL,369-555-0167,2003-11-30,Person,NULL
+701,707,11700,NULL,Xavier,NULL,Richardson,0,1963-11-25,S,NULL,M,xavier76@adventure-works.com,60000.00,4,2,Bachelors,Professional,0,2,3249 E Leland,NULL,578-555-0132,2003-08-06,Person,NULL
+702,670,11701,NULL,David,NULL,Hayes,0,1963-08-24,M,NULL,M,david56@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,2,3570 Book Ct,NULL,872-555-0191,2003-10-26,Person,NULL
+703,445,11702,NULL,Jenny,S,Zhou,0,1963-10-17,S,NULL,F,jenny11@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,2,2107 Cardinal,NULL,763-555-0124,2003-11-18,Person,NULL
+704,643,11703,NULL,Kaylee,NULL,Baker,0,1968-06-24,S,NULL,F,kaylee39@adventure-works.com,60000.00,0,0,Bachelors,Professional,0,1,4668 Chilpancingo Park,NULL,609-555-0179,2003-08-17,Person,NULL
+705,691,11704,NULL,Evan,G,Hernandez,0,1968-06-01,S,NULL,M,evan45@adventure-works.com,60000.00,0,0,Bachelors,Professional,0,1,6337 Margo Drive,NULL,592-555-0143,2004-01-08,Person,NULL
+706,707,11705,NULL,Brooke,NULL,Richardson,0,1968-05-21,S,NULL,F,brooke9@adventure-works.com,60000.00,2,2,Graduate Degree,Professional,1,0,4171 Miller Avenue,NULL,752-555-0155,2002-04-30,Person,NULL
+707,445,11706,NULL,Blake,M,Perez,0,1963-02-14,M,NULL,M,blake39@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,2,3064 Fern Leaf Lane,NULL,146-555-0191,2003-09-09,Person,NULL
+708,707,11707,NULL,Natalie,NULL,Cook,0,1963-12-22,S,NULL,F,natalie5@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,3,1064 William Way,NULL,468-555-0193,2002-04-12,Person,NULL
+709,505,11708,NULL,Elizabeth,NULL,Weisman,0,1963-09-19,S,NULL,F,elizabeth6@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,3,7085 Valley Run,NULL,117-555-0118,2002-04-27,Person,NULL
+710,701,11709,NULL,Hailey,NULL,Collins,0,1963-02-19,S,NULL,F,hailey45@adventure-works.com,60000.00,3,2,Graduate Degree,Professional,0,0,5609 Gary Drive,NULL,394-555-0185,2003-09-12,Person,NULL
+711,643,11710,NULL,Zoe,R,Ramirez,0,1962-03-20,M,NULL,F,zoe6@adventure-works.com,40000.00,3,2,High School,Skilled Manual,1,2,8085 Grasswood Ct,NULL,712-555-0144,2004-05-26,Person,NULL
+712,665,11711,NULL,Daniel,NULL,Davis,0,1962-12-08,S,NULL,M,daniel23@adventure-works.com,70000.00,1,0,Bachelors,Professional,0,1,263 La Orinda Pl.,NULL,217-555-0147,2003-08-11,Person,NULL
+713,490,11712,NULL,Shelby,NULL,Rogers,0,1962-11-03,M,NULL,F,shelby19@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,16 White Pl.,NULL,187-555-0139,2003-08-08,Person,NULL
+714,642,11713,NULL,Kyle,C,Zhang,0,1962-03-20,M,NULL,M,kyle19@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,4417 W. Watson Court,NULL,793-555-0118,2004-01-08,Person,NULL
+715,688,11714,NULL,Alexandria,E,Long,0,1962-10-18,M,NULL,F,alexandria9@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,5543 Hamilton Ave.,NULL,676-555-0172,2003-08-22,Person,NULL
+716,690,11715,NULL,Chloe,F,Robinson,0,1962-09-21,M,NULL,F,chloe28@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,6779 Willcrest Circle,NULL,570-555-0117,2004-06-28,Person,NULL
+717,472,11716,NULL,Evan,NULL,Kelly,0,1961-10-21,S,NULL,M,evan2@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,9531 Lancaster,NULL,222-555-0139,2003-12-02,Person,NULL
+718,620,11717,NULL,Marcus,J,Jones,0,1961-09-02,M,NULL,M,marcus3@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,4836 Marina,NULL,465-555-0162,2003-11-26,Person,NULL
+719,523,11718,NULL,Sarah,T,Jones,0,1961-11-14,M,NULL,F,sarah5@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,2935 Pine Creek Way,NULL,585-555-0177,2003-09-07,Person,NULL
+720,467,11719,NULL,Blake,P,Green,0,1960-05-08,M,NULL,M,blake32@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,2850 D Bel Air Dr,NULL,397-555-0128,2003-10-28,Person,NULL
+721,688,11720,NULL,Morgan,P,Morris,0,1960-03-26,M,NULL,F,morgan48@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,9671 Leewood Place,NULL,178-555-0115,2003-11-18,Person,NULL
+722,505,11721,NULL,Jennifer,A,Alexander,0,1960-01-22,M,NULL,F,jennifer92@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,4195 San Paolo,NULL,623-555-0122,2003-12-17,Person,NULL
+723,583,11722,NULL,Julian,S,Hughes,0,1960-07-02,M,NULL,M,julian13@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,4408 Trinity Ave.,NULL,301-555-0114,2004-01-31,Person,NULL
+724,695,11723,NULL,Luke,A,Coleman,0,1967-08-21,S,NULL,M,luke24@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,613 Glen Wood Drive,NULL,959-555-0119,2003-08-04,Person,NULL
+725,695,11724,NULL,Jason,NULL,Carter,0,1967-04-15,S,NULL,M,jason39@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,4848 Azalea Ave.,NULL,234-555-0170,2003-08-09,Person,NULL
+726,597,11725,NULL,Jose,K,Li,0,1967-09-17,S,NULL,M,jose20@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,2033 Woodbury Place,NULL,145-555-0188,2003-10-03,Person,NULL
+727,597,11726,NULL,Micah,R,Liang,0,1967-07-17,S,NULL,M,micah4@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,4685 York Dr,NULL,843-555-0120,2004-04-12,Person,NULL
+728,516,11727,NULL,Benjamin,NULL,Taylor,0,1967-07-09,S,NULL,M,benjamin43@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,0,1,2078 Jennifer Way,NULL,571-555-0135,2002-04-14,Person,NULL
+729,573,11728,NULL,Logan,H,White,0,1960-01-07,M,NULL,M,logan64@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,5087 Bonita Ave.,NULL,710-555-0132,2003-12-13,Person,NULL
+730,642,11729,NULL,Caleb,NULL,Campbell,0,1960-05-06,M,NULL,M,caleb36@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,1895 San Carlos Ave.,NULL,459-555-0187,2004-01-28,Person,NULL
+731,677,11730,NULL,Emma,NULL,Torres,0,1960-10-02,M,NULL,F,emma40@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,6062 Mota Dr.,NULL,192-555-0182,2003-11-12,Person,NULL
+732,445,11731,NULL,Tanya,H,Gill,0,1960-08-19,M,NULL,F,tanya10@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,8850 Thunderbird Drive,NULL,742-555-0111,2003-09-17,Person,NULL
+733,462,11732,NULL,Erick,NULL,Sanchez,0,1959-02-08,M,NULL,M,erick20@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,664 Book Pl,NULL,827-555-0145,2003-12-11,Person,NULL
+734,470,11733,NULL,Kristi,J,Schmidt,0,1959-07-27,M,NULL,F,kristi27@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,1536 Camino Verde Ct.,NULL,995-555-0114,2004-07-04,Person,NULL
+735,619,11734,NULL,Omar,J,Chen,0,1959-08-25,M,NULL,M,omar2@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,3181 Hacienda,NULL,938-555-0117,2003-12-23,Person,NULL
+736,507,11735,NULL,Sydney,K,Gray,0,1959-01-22,M,NULL,F,sydney16@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,1229 Apollo Way,NULL,637-555-0114,2003-08-28,Person,NULL
+737,631,11736,NULL,Sebastian,NULL,Sanchez,0,1959-09-25,M,NULL,M,sebastian16@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,7706 California St.,NULL,404-555-0117,2004-04-19,Person,NULL
+738,538,11737,NULL,Megan,A,Martin,0,1959-02-08,M,NULL,F,megan17@adventure-works.com,60000.00,4,3,Bachelors,Professional,1,0,8243 Gilardy Drive,NULL,612-555-0171,2003-08-18,Person,NULL
+739,671,11738,NULL,Elijah,NULL,Alexander,0,1959-10-09,M,NULL,M,elijah20@adventure-works.com,60000.00,4,3,Bachelors,Professional,1,0,6933 Sutton Circle,NULL,100-555-0155,2003-08-06,Person,NULL
+740,695,11739,NULL,Aaron,L,King,0,1959-05-14,M,NULL,M,aaron51@adventure-works.com,70000.00,2,0,Graduate Degree,Professional,1,1,2243 W St.,NULL,600-555-0195,2003-07-17,Person,NULL
+741,562,11740,NULL,Jan,M,Hall,0,1959-04-24,M,NULL,F,jan18@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,0,3,5793 West Road,NULL,118-555-0131,2003-09-08,Person,NULL
+742,610,11741,NULL,Tamara,L,Chander,0,1959-07-26,M,NULL,F,tamara27@adventure-works.com,80000.00,4,0,Graduate Degree,Professional,1,0,6344 Dartmouth Way,NULL,112-555-0164,2002-04-17,Person,NULL
+743,538,11742,NULL,Edward,NULL,Lewis,0,1958-11-02,S,NULL,M,edward43@adventure-works.com,60000.00,3,2,Bachelors,Professional,0,1,3508 Canning Road,NULL,936-555-0189,2002-04-05,Person,NULL
+744,552,11743,NULL,Chase,E,Kelly,0,1958-03-16,M,NULL,M,chase3@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,5940 Dleta Road,NULL,153-555-0118,2002-04-27,Person,NULL
+745,552,11744,NULL,Stephanie,D,Campbell,0,1958-09-07,M,NULL,F,stephanie54@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,6339 E. 108th Street,NULL,712-555-0117,2003-10-15,Person,NULL
+746,566,11745,NULL,Allison,NULL,Gonzalez,0,1958-10-13,M,NULL,F,allison31@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,3345 Macaroon Drive,NULL,728-555-0144,2002-04-12,Person,NULL
+747,559,11746,NULL,Seth,NULL,Brooks,0,1958-12-01,S,NULL,M,seth74@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,733 Eaker Way,NULL,771-555-0118,2003-08-01,Person,NULL
+748,479,11747,NULL,Destiny,NULL,Davis,0,1958-02-09,M,NULL,F,destiny5@adventure-works.com,70000.00,5,4,Graduate Degree,Professional,1,1,7121 Oakleaf Ct.,NULL,251-555-0153,2004-02-08,Person,NULL
+749,701,11748,NULL,Blake,NULL,Hill,0,1958-07-18,M,NULL,M,blake30@adventure-works.com,70000.00,5,4,Graduate Degree,Professional,1,1,1315 Norse Drive,NULL,171-555-0174,2003-12-09,Person,NULL
+750,468,11749,NULL,Eduardo,C,Jackson,0,1969-09-13,M,NULL,M,eduardo10@adventure-works.com,80000.00,4,4,Graduate Degree,Management,0,1,5524 Virgil St,NULL,1 (11) 500 555-0114,2003-10-10,Person,NULL
+751,518,11750,NULL,Latoya,A,She,0,1968-03-24,M,NULL,F,latoya0@adventure-works.com,60000.00,2,2,Bachelors,Professional,1,1,2681 Black Walnut Ct.,NULL,1 (11) 500 555-0166,2002-01-14,Person,NULL
+752,510,11751,NULL,Victoria,NULL,Gonzales,0,1970-07-17,M,NULL,F,victoria63@adventure-works.com,80000.00,4,4,Graduate Degree,Management,1,1,1872 Walnut Avenue,NULL,1 (11) 500 555-0176,2002-01-08,Person,NULL
+753,634,11752,NULL,Lauren,NULL,Bryant,0,1970-05-07,M,NULL,F,lauren64@adventure-works.com,80000.00,4,4,Graduate Degree,Management,1,1,7551 Santa Lucia,NULL,1 (11) 500 555-0156,2003-08-31,Person,NULL
+754,468,11753,NULL,Felicia,J,Ortega,0,1970-03-18,M,NULL,F,felicia20@adventure-works.com,80000.00,4,4,Graduate Degree,Management,1,1,452 Rain Drop Circle,NULL,1 (11) 500 555-0185,2003-10-21,Person,NULL
+755,655,11754,NULL,Janet,L,Ortega,0,1970-07-08,M,NULL,F,janet27@adventure-works.com,90000.00,2,0,Bachelors,Professional,1,0,4921 Oakwood Circle,NULL,1 (11) 500 555-0182,2002-01-16,Person,NULL
+756,492,11755,NULL,Willie,J,Pal,0,1968-05-15,M,NULL,M,willie31@adventure-works.com,60000.00,2,2,Bachelors,Professional,1,1,9893 Hastings Dr,NULL,1 (11) 500 555-0164,2003-12-02,Person,NULL
+757,554,11756,NULL,Linda,C,Ortega,0,1968-09-13,S,NULL,F,linda37@adventure-works.com,60000.00,2,2,Bachelors,Professional,0,1,3544 Brush Creek Drive,NULL,1 (11) 500 555-0150,2002-01-28,Person,NULL
+758,471,11757,NULL,Vincent,L,Cai,0,1968-05-14,M,NULL,M,vincent21@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,3,5917 Panoramic Avenue,NULL,1 (11) 500 555-0116,2003-08-27,Person,NULL
+759,473,11758,NULL,Colin,NULL,Yuan,0,1968-12-22,M,NULL,M,colin30@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,3,1064 William Way,NULL,1 (11) 500 555-0170,2003-10-01,Person,NULL
+760,613,11759,NULL,Dawn,L,Nath,0,1969-11-22,M,NULL,F,dawn42@adventure-works.com,110000.00,1,0,Graduate Degree,Management,0,1,6969 Eaker Way,NULL,1 (11) 500 555-0193,2002-01-10,Person,NULL
+761,628,11760,NULL,Melody,R,Moreno,0,1967-10-27,M,NULL,F,melody7@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,4,6312 San Ramon Road,NULL,1 (11) 500 555-0163,2003-10-02,Person,NULL
+762,493,11761,NULL,Edgar,NULL,Mehta,0,1967-04-19,S,NULL,M,edgar15@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,4,4173 Willow Pass Road,NULL,1 (11) 500 555-0180,2002-02-05,Person,NULL
+763,706,11762,NULL,Randall,R,Gomez,0,1967-08-24,M,NULL,M,randall2@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,4,1159 Lacassie Ave,NULL,1 (11) 500 555-0179,2002-02-07,Person,NULL
+764,553,11763,NULL,Ross,R,Fernandez,0,1967-02-11,M,NULL,M,ross15@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,2,8461 Everett Ct,NULL,1 (11) 500 555-0177,2003-08-03,Person,NULL
+765,518,11764,NULL,Jessie,R,Ramos,0,1967-07-17,S,NULL,F,jessie36@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,5613 Gary Drive,NULL,1 (11) 500 555-0112,2002-03-12,Person,NULL
+766,519,11765,NULL,Marc,NULL,Torres,0,1966-10-11,M,NULL,M,marc15@adventure-works.com,80000.00,5,5,Bachelors,Professional,1,3,1439 N. Michell Canyon Road,NULL,1 (11) 500 555-0131,2002-03-15,Person,NULL
+767,697,11766,NULL,Candace,M,Raman,0,1966-07-04,S,NULL,F,candace12@adventure-works.com,90000.00,0,0,Bachelors,Professional,0,0,1060 Mcelroy Court,NULL,1 (11) 500 555-0148,2002-03-22,Person,NULL
+768,637,11767,NULL,Meagan,NULL,Madan,0,1966-05-24,S,NULL,F,meagan8@adventure-works.com,90000.00,0,0,Bachelors,Professional,0,0,8250 11th Avenue,NULL,1 (11) 500 555-0112,2002-03-20,Person,NULL
+769,531,11768,NULL,Clayton,NULL,Nara,0,1966-10-08,M,NULL,M,clayton34@adventure-works.com,90000.00,2,0,Bachelors,Professional,1,0,4642 Peabody Road,NULL,1 (11) 500 555-0162,2002-03-06,Person,NULL
+770,668,11769,NULL,Haley,L,Hernandez,0,1973-08-17,S,NULL,F,haley53@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,1,0,1671 Via Del Verdes,NULL,120-555-0112,2003-10-30,Person,NULL
+771,577,11770,NULL,Peter,T,Nara,0,1973-08-23,S,NULL,M,peter21@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,0,0,6489 Kentucky Drive,NULL,244-555-0113,2004-02-09,Person,NULL
+772,508,11771,NULL,Isaac,D,Rivera,0,1973-10-08,S,NULL,M,isaac16@adventure-works.com,50000.00,0,0,Graduate Degree,Skilled Manual,0,0,7962 Macalvey Drive,NULL,750-555-0140,2003-10-02,Person,NULL
+773,559,11772,NULL,Cameron,M,Moore,0,1973-01-24,M,NULL,M,cameron48@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,5551 Silverado Dr.,NULL,293-555-0136,2002-04-10,Person,NULL
+774,625,11773,NULL,Gavin,E,Diaz,0,1973-07-06,S,NULL,M,gavin20@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,6082 Trafalgar Circle,NULL,726-555-0116,2002-04-25,Person,NULL
+775,516,11774,NULL,Emma,NULL,Sanchez,0,1973-04-12,M,NULL,F,emma25@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,4996 Hillview Drive,NULL,365-555-0125,2002-04-28,Person,NULL
+776,527,11775,NULL,Sierra,NULL,Roberts,0,1973-05-25,S,NULL,F,sierra3@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,1721 Concord Blvd,NULL,111-555-0177,2002-04-05,Person,NULL
+777,691,11776,NULL,Seth,A,Mitchell,0,1973-07-03,M,NULL,M,seth38@adventure-works.com,50000.00,1,0,Graduate Degree,Skilled Manual,1,0,8125 Westbury Drive,NULL,171-555-0140,2002-04-07,Person,NULL
+778,445,11777,NULL,Miranda,NULL,Long,0,1972-07-24,S,NULL,F,miranda9@adventure-works.com,40000.00,1,0,Graduate Degree,Skilled Manual,1,0,8970 Cash Avenue,NULL,258-555-0111,2002-04-16,Person,NULL
+779,694,11778,NULL,Haley,A,Henderson,0,1971-03-21,S,NULL,F,haley24@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,1019 Chance Drive,NULL,868-555-0128,2002-04-29,Person,NULL
+780,573,11779,NULL,Sarah,P,Jackson,0,1971-07-19,S,NULL,F,sarah14@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,1058 Park Blvd.,NULL,653-555-0150,2002-04-19,Person,NULL
+781,479,11780,NULL,Jessica,K,Alexander,0,1971-11-20,S,NULL,F,jessica43@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,3459 Tri-state Ave,NULL,617-555-0146,2002-04-17,Person,NULL
+782,472,11781,NULL,Carlos,NULL,Gray,0,1971-03-10,M,NULL,M,carlos7@adventure-works.com,60000.00,1,1,Graduate Degree,Skilled Manual,1,0,4239 Water St.,NULL,252-555-0175,2003-09-07,Person,NULL
+783,443,11782,NULL,Barbara,K,Jai,0,1971-03-17,M,NULL,F,barbara42@adventure-works.com,60000.00,1,1,Graduate Degree,Skilled Manual,1,0,9834 Hamlet,NULL,361-555-0177,2004-02-03,Person,NULL
+784,688,11783,NULL,Sara,A,Mitchell,0,1971-11-17,M,NULL,F,sara37@adventure-works.com,60000.00,1,1,Graduate Degree,Skilled Manual,1,0,9024 Dumbarton Drive,NULL,537-555-0144,2003-09-24,Person,NULL
+785,511,11784,NULL,Jose,NULL,Turner,0,1972-12-19,M,NULL,M,jose42@adventure-works.com,40000.00,1,1,Graduate Degree,Skilled Manual,1,0,6648 Choctaw Court,NULL,189-555-0195,2003-10-14,Person,NULL
+786,577,11785,NULL,Theodore,D,Diaz,0,1972-02-25,M,NULL,M,theodore3@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,0,4956 Vista Del Diablo,NULL,690-555-0189,2003-10-23,Person,NULL
+787,677,11786,NULL,Ian,G,Murphy,0,1972-09-13,S,NULL,M,ian82@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,2391 St. Peter Court,NULL,754-555-0141,2004-07-01,Person,NULL
+788,443,11787,NULL,Jerry,NULL,Nath,0,1972-09-05,M,NULL,M,jerry20@adventure-works.com,60000.00,1,0,Graduate Degree,Skilled Manual,1,0,6096 Pheasant Circle,NULL,271-555-0115,2004-04-15,Person,NULL
+789,653,11788,NULL,Destiny,A,James,0,1972-02-19,S,NULL,F,destiny43@adventure-works.com,70000.00,1,0,Graduate Degree,Professional,1,0,6538 Camelback Road,NULL,913-555-0130,2003-11-10,Person,NULL
+790,516,11789,NULL,Bailey,NULL,Phillips,0,1970-02-20,M,NULL,F,bailey27@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,0,571 Lafayette Drive,NULL,474-555-0183,2003-09-08,Person,NULL
+791,610,11790,NULL,Timothy,C,Gonzalez,0,1970-05-21,M,NULL,M,timothy34@adventure-works.com,50000.00,1,1,Bachelors,Skilled Manual,1,0,6615 Cambelback Place,NULL,147-555-0193,2003-09-12,Person,NULL
+792,551,11791,NULL,Chase,D,Morgan,0,1970-04-21,M,NULL,M,chase13@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,5446 N. Civic Dr.,NULL,194-555-0127,2004-04-01,Person,NULL
+793,469,11792,NULL,Alexia,J,Perry,0,1969-05-27,M,NULL,F,alexia7@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,1,879 Hillview Ct,NULL,193-555-0135,2003-11-04,Person,NULL
+794,443,11793,NULL,Xavier,G,Rogers,0,1969-03-20,M,NULL,M,xavier87@adventure-works.com,40000.00,1,1,Bachelors,Skilled Manual,1,1,1480 Oliveria Road,NULL,457-555-0162,2003-08-08,Person,NULL
+795,645,11794,NULL,Lauren,NULL,Ross,0,1969-11-01,S,NULL,F,lauren51@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,5375 Clearland Circle,NULL,143-555-0123,2004-05-31,Person,NULL
+796,475,11795,NULL,Nicole,NULL,Thomas,0,1969-02-15,S,NULL,F,nicole11@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,4303 Athene Drive,NULL,667-555-0136,2004-01-13,Person,NULL
+797,475,11796,NULL,Isabel,C,Jenkins,0,1969-02-07,S,NULL,F,isabel7@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,0,0,9348 Notre Dame Ave,NULL,774-555-0127,2002-04-18,Person,NULL
+798,520,11797,NULL,Devin,R,Coleman,0,1969-03-07,S,NULL,M,devin44@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,4143 Heather Pl.,NULL,792-555-0157,2002-04-16,Person,NULL
+799,442,11798,NULL,Brendan,Q,Chande,0,1969-02-12,M,NULL,M,brendan13@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,1519 Sheffield Place,NULL,551-555-0157,2002-04-17,Person,NULL
+800,597,11799,NULL,Jessie,B,Wang,0,1969-09-13,M,NULL,M,jessie7@adventure-works.com,40000.00,2,2,Bachelors,Skilled Manual,1,0,4593 Camino Peral,NULL,527-555-0124,2002-04-12,Person,NULL
+801,580,11800,NULL,Jennifer,M,Baker,0,1969-11-07,M,NULL,F,jennifer19@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,8998 Katharyn Drive,NULL,506-555-0157,2004-02-11,Person,NULL
+802,580,11801,NULL,Aaron,J,Sharma,0,1969-09-16,M,NULL,M,aaron30@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,4073 Niagara Court,NULL,500-555-0177,2004-06-14,Person,NULL
+803,671,11802,NULL,Madison,A,Taylor,0,1971-08-09,M,NULL,F,madison9@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,627 La Salle Street,NULL,635-555-0173,2003-08-29,Person,NULL
+804,522,11803,NULL,Jan,L,Hernandez,0,1971-09-12,S,NULL,F,jan15@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,3553 Grant Street,NULL,845-555-0160,2004-01-30,Person,NULL
+805,677,11804,NULL,Haley,M,Turner,0,1971-04-18,M,NULL,F,haley44@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,5450 Bellows Ct.,NULL,489-555-0139,2003-11-30,Person,NULL
+806,430,11805,NULL,Richard,M,Green,0,1971-03-12,M,NULL,M,richard25@adventure-works.com,70000.00,2,0,Graduate Degree,Professional,1,0,5407 Cougar Way,NULL,142-555-0146,2003-10-25,Person,NULL
+807,445,11806,NULL,Jennifer,S,Stewart,0,1971-08-10,M,NULL,F,jennifer52@adventure-works.com,70000.00,2,0,Graduate Degree,Professional,1,0,1500 Grant Street,NULL,159-555-0111,2003-08-25,Person,NULL
+808,516,11807,NULL,Lucas,NULL,Baker,0,1971-09-04,M,NULL,M,lucas48@adventure-works.com,70000.00,3,0,Graduate Degree,Professional,1,0,1086 Ash Lane,NULL,787-555-0141,2003-10-15,Person,NULL
+809,665,11808,NULL,James,NULL,Parker,0,1969-04-12,M,NULL,M,james57@adventure-works.com,60000.00,1,0,Graduate Degree,Professional,1,0,751 Countrywood Ct.,NULL,730-555-0125,2003-09-27,Person,NULL
+810,430,11809,NULL,Juan,NULL,Gray,0,1968-01-02,M,NULL,M,juan16@adventure-works.com,60000.00,2,2,Bachelors,Skilled Manual,1,0,1289 Quigley St.,NULL,995-555-0114,2002-04-23,Person,NULL
+811,442,11810,NULL,Antonio,K,Washington,0,1967-01-07,S,NULL,M,antonio13@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,7095 Curletto Dr.,NULL,373-555-0139,2002-04-22,Person,NULL
+812,469,11811,NULL,Abigail,C,Brooks,0,1967-06-15,S,NULL,F,abigail22@adventure-works.com,40000.00,0,0,Bachelors,Professional,1,1,1617 Crossbow Way,NULL,367-555-0138,2002-04-17,Person,NULL
+813,566,11812,NULL,Andrew,N,Rodriguez,0,1967-09-22,M,NULL,M,andrew27@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,3997 Via De Luna,NULL,586-555-0118,2002-04-05,Person,NULL
+814,703,11813,NULL,Mary,NULL,Patterson,0,1967-11-12,M,NULL,F,mary40@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,1102 Ravenwood,NULL,956-555-0136,2002-04-18,Person,NULL
+815,644,11814,NULL,Dalton,L,Morgan,0,1970-07-08,M,NULL,M,dalton84@adventure-works.com,60000.00,2,0,Graduate Degree,Professional,1,0,4921 Oakwood Circle,NULL,530-555-0182,2003-12-25,Person,NULL
+816,559,11815,NULL,Hannah,J,Patterson,0,1970-04-24,M,NULL,F,hannah33@adventure-works.com,70000.00,3,0,Graduate Degree,Professional,1,0,3327 Rockridge Dr.,NULL,110-555-0136,2002-04-04,Person,NULL
+817,430,11816,NULL,Joe,A,Torres,0,1970-10-23,M,NULL,M,joe35@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,8069 Vine Hill Way,NULL,450-555-0115,2002-04-04,Person,NULL
+818,469,11817,NULL,Morgan,C,Miller,0,1970-11-27,S,NULL,F,morgan29@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,5929 William Reed Dr.,NULL,339-555-0137,2002-04-15,Person,NULL
+819,619,11818,NULL,Daniel,C,Garcia,0,1970-04-22,M,NULL,M,daniel8@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,4010 Willow Pass Road,NULL,125-555-0145,2002-04-23,Person,NULL
+820,627,11819,NULL,Jose,NULL,Lal,0,1967-10-10,M,NULL,M,jose23@adventure-works.com,70000.00,2,2,Bachelors,Skilled Manual,1,1,6264 Center Ave,NULL,152-555-0130,2003-08-19,Person,NULL
+821,701,11820,NULL,Katelyn,NULL,Lopez,0,1966-08-26,M,NULL,F,katelyn45@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,0,8873 Folson Drive,NULL,316-555-0185,2003-08-13,Person,NULL
+822,430,11821,NULL,Austin,NULL,Johnson,0,1966-04-15,M,NULL,M,austin40@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,0,6569 Endriss,NULL,163-555-0134,2004-01-31,Person,NULL
+823,505,11822,NULL,Rohinton,H,Wadia,0,1966-06-13,M,NULL,F,rohinton1@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,0,5935 Seawind Dr.,NULL,792-555-0137,2003-11-21,Person,NULL
+824,511,11823,NULL,Morgan,NULL,Turner,0,1966-10-24,M,NULL,F,morgan3@adventure-works.com,70000.00,0,0,Graduate Degree,Professional,1,0,6091 Bluefish Lane,NULL,856-555-0168,2003-11-19,Person,NULL
+825,668,11824,NULL,Jill,C,Martin,0,1966-10-07,M,NULL,F,jill6@adventure-works.com,70000.00,4,0,Graduate Degree,Professional,1,0,9719 Hamilton Ave,NULL,884-555-0127,2003-09-19,Person,NULL
+826,582,11825,NULL,Aimee,NULL,She,0,1966-05-18,S,NULL,F,aimee17@adventure-works.com,70000.00,5,0,Graduate Degree,Professional,1,0,6752 Covington Court,NULL,137-555-0149,2002-04-18,Person,NULL
+827,430,11826,NULL,Jessie,J,Alonso,0,1966-02-15,M,NULL,F,jessie6@adventure-works.com,70000.00,5,0,Graduate Degree,Professional,1,0,7342 Dew Drop Circle,NULL,579-555-0138,2002-04-29,Person,NULL
+828,668,11827,NULL,Sara,M,Baker,0,1969-09-20,M,NULL,F,sara43@adventure-works.com,60000.00,2,0,Graduate Degree,Professional,1,0,5269 Mt. Trinity Court,NULL,256-555-0180,2003-08-24,Person,NULL
+829,660,11828,NULL,Katherine,NULL,Martinez,0,1969-06-08,M,NULL,F,katherine88@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,2,3836 Carletto Drive,NULL,584-555-0118,2003-10-05,Person,NULL
+830,693,11829,NULL,Sophia,NULL,Campbell,0,1969-11-02,M,NULL,F,sophia5@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,2,8122 Mink Court,NULL,766-555-0146,2003-09-14,Person,NULL
+831,505,11830,NULL,Taylor,N,Garcia,0,1969-01-15,M,NULL,F,taylor63@adventure-works.com,80000.00,3,0,Graduate Degree,Professional,1,0,6986 Ida Ave.,NULL,301-555-0163,2002-04-01,Person,NULL
+832,546,11831,NULL,Christian,NULL,Ross,0,1969-11-24,M,NULL,M,christian18@adventure-works.com,80000.00,3,0,Graduate Degree,Professional,1,0,971 Harness Circle,NULL,123-555-0152,2002-04-29,Person,NULL
+833,566,11832,NULL,Zoe,NULL,Murphy,0,1965-04-05,S,NULL,F,zoe13@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,3426 Calhoun Court,NULL,798-555-0157,2003-08-22,Person,NULL
+834,671,11833,NULL,Oscar,G,Price,0,1965-07-23,M,NULL,M,oscar9@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,1,5049 Teakwood Dr.,NULL,389-555-0114,2003-12-14,Person,NULL
+835,658,11834,NULL,Fernando,M,Flores,0,1965-10-25,S,NULL,M,fernando55@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,0,1,3789 Linden Lane,NULL,162-555-0175,2002-04-24,Person,NULL
+836,511,11835,NULL,Elijah,M,Russell,0,1965-06-19,S,NULL,M,elijah21@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,2,1592 Working Drive,NULL,188-555-0159,2003-07-14,Person,NULL
+837,627,11836,NULL,Garrett,NULL,Travers,0,1965-04-27,M,NULL,M,garrett9@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,2,7947 Stillman Court,NULL,879-555-0116,2003-09-25,Person,NULL
+838,689,11837,NULL,Haley,NULL,Alexander,0,1965-08-09,S,NULL,F,haley38@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,1,2,80 Mozden Lane,NULL,951-555-0164,2002-04-15,Person,NULL
+839,580,11838,NULL,Justin,J,Rodriguez,0,1965-02-09,S,NULL,M,justin48@adventure-works.com,80000.00,3,3,Bachelors,Skilled Manual,0,2,761 Orchard View Ave.,NULL,211-555-0112,2003-12-02,Person,NULL
+840,547,11839,NULL,Tyler,NULL,Brown,0,1965-07-25,S,NULL,M,tyler9@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,1,9271 Prestwick Ave.,NULL,801-555-0121,2002-04-28,Person,NULL
+841,505,11840,NULL,Julian,D,Patterson,0,1965-05-17,M,NULL,M,julian12@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,1,1,9240 Limewood Pl.,NULL,603-555-0169,2003-11-01,Person,NULL
+842,499,11841,NULL,Sean,NULL,Nelson,0,1964-03-16,M,NULL,M,sean41@adventure-works.com,40000.00,0,0,Bachelors,Professional,0,1,4594 Hill Drive,NULL,314-555-0153,2003-11-21,Person,NULL
+843,522,11842,NULL,Justin,NULL,Wilson,0,1964-10-04,S,NULL,M,justin38@adventure-works.com,50000.00,4,4,Bachelors,Skilled Manual,1,3,7164 Pinncale Drive,NULL,585-555-0152,2003-11-13,Person,NULL
+844,580,11843,NULL,Christy,NULL,Nara,0,1964-11-11,S,NULL,F,christy34@adventure-works.com,50000.00,4,4,Bachelors,Skilled Manual,0,3,4678 Ygnacio Valley Road,NULL,639-555-0189,2003-08-11,Person,NULL
+845,610,11844,NULL,Michele,J,Alvarez,0,1964-04-08,S,NULL,F,michele39@adventure-works.com,50000.00,4,4,Bachelors,Skilled Manual,1,3,9249 Martin St,NULL,103-555-0162,2004-04-07,Person,NULL
+846,695,11845,NULL,Natalie,A,Jones,0,1924-08-18,S,NULL,F,natalie71@adventure-works.com,30000.00,2,0,High School,Skilled Manual,0,2,1442 Hill Top Rd,NULL,119-555-0148,2003-08-17,Person,NULL
+847,652,11846,NULL,Savannah,A,Reed,0,1964-06-15,S,NULL,F,savannah18@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,4080 Pelican Loop,NULL,503-555-0151,2003-10-30,Person,NULL
+848,536,11847,NULL,Cassidy,NULL,Diaz,0,1964-12-01,S,NULL,F,cassidy23@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,0,2,3797 Concord Royale,NULL,323-555-0140,2003-12-30,Person,NULL
+849,575,11848,NULL,Joshua,C,Lewis,0,1964-02-28,M,NULL,M,joshua23@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,7166 Brock Lane,NULL,365-555-0198,2004-01-28,Person,NULL
+850,643,11849,NULL,Faith,C,Reed,0,1964-09-13,S,NULL,F,faith36@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,2751 Trail Way,Unit B,727-555-0162,2004-05-30,Person,NULL
+851,670,11850,NULL,Brooke,C,Ramirez,0,1964-03-23,S,NULL,F,brooke7@adventure-works.com,50000.00,4,2,Bachelors,Skilled Manual,1,2,8004 Water Street,NULL,729-555-0139,2003-10-10,Person,NULL
+852,470,11851,NULL,Jada,NULL,Mitchell,0,1963-09-08,S,NULL,F,jada23@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,2,6848 Calico Way,NULL,416-555-0196,2003-12-18,Person,NULL
+853,645,11852,NULL,Kyle,M,Russell,0,1963-10-25,S,NULL,M,kyle15@adventure-works.com,60000.00,4,2,Bachelors,Professional,0,2,1345 Prospect Street,NULL,473-555-0199,2004-01-11,Person,NULL
+854,470,11853,NULL,Grace,NULL,Jones,0,1968-11-18,S,NULL,F,grace2@adventure-works.com,60000.00,0,0,Bachelors,Professional,1,1,8866 Alpha Way,NULL,388-555-0168,2003-11-11,Person,NULL
+855,570,11854,NULL,Jason,K,Mitchell,0,1968-04-18,S,NULL,M,jason40@adventure-works.com,60000.00,2,2,Graduate Degree,Professional,0,0,7537 Clark Creek Lane,NULL,480-555-0139,2002-04-27,Person,NULL
+856,445,11855,NULL,Christian,NULL,Walker,0,1963-08-13,M,NULL,M,christian44@adventure-works.com,60000.00,4,2,Bachelors,Professional,1,4,1575 Brown Street,NULL,531-555-0113,2003-10-29,Person,NULL
+857,620,11856,NULL,Seth,M,Hernandez,0,1963-08-17,M,NULL,M,seth26@adventure-works.com,60000.00,3,2,Graduate Degree,Professional,1,0,4107 St. Raphael Drive,NULL,195-555-0146,2004-06-01,Person,NULL
+858,479,11857,NULL,Isabella,NULL,Young,0,1963-03-12,S,NULL,F,isabella56@adventure-works.com,60000.00,3,2,Graduate Degree,Professional,0,0,9175 Benton Street,NULL,747-555-0149,2004-04-08,Person,NULL
+859,690,11858,NULL,Jordan,A,Coleman,0,1962-12-07,M,NULL,M,jordan2@adventure-works.com,40000.00,3,2,High School,Skilled Manual,1,2,8005 Ranchhand Court,NULL,996-555-0179,2003-09-28,Person,NULL
+860,522,11859,NULL,Blake,J,Garcia,0,1962-09-09,M,NULL,M,blake16@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,9322 Driving Drive,NULL,713-555-0128,2003-10-24,Person,NULL
+861,516,11860,NULL,Nicole,NULL,Walker,0,1962-01-09,M,NULL,F,nicole23@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,8362 Abbey Court,NULL,129-555-0165,2004-01-04,Person,NULL
+862,571,11861,NULL,Katherine,NULL,Carter,0,1962-04-24,M,NULL,F,katherine58@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,591 Laguna Street,# 439,572-555-0120,2003-11-15,Person,NULL
+863,627,11862,NULL,Olivia,NULL,Peterson,0,1961-09-15,S,NULL,F,olivia40@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,9212 Tupelo Drive,NULL,409-555-0135,2003-11-17,Person,NULL
+864,694,11863,NULL,Jessica,NULL,Wood,0,1961-10-11,M,NULL,F,jessica26@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,1439 N. Canyon Road,NULL,130-555-0137,2004-03-06,Person,NULL
+865,559,11864,NULL,Elizabeth,W,Thompson,0,1961-09-06,M,NULL,F,elizabeth19@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,2894 Encino Dr.,NULL,465-555-0154,2003-09-02,Person,NULL
+866,516,11865,NULL,Chloe,R,Rivera,0,1961-02-06,M,NULL,F,chloe54@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,6282 Mcneil Place,NULL,372-555-0142,2003-08-21,Person,NULL
+867,633,11866,NULL,Lucas,L,Scott,0,1961-07-02,M,NULL,M,lucas46@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,1218 Woodside Court,NULL,764-555-0119,2003-08-22,Person,NULL
+868,516,11867,NULL,Nathaniel,C,James,0,1960-04-24,M,NULL,M,nathaniel0@adventure-works.com,40000.00,4,2,High School,Skilled Manual,1,2,4268 Weaver Court,NULL,112-555-0116,2003-12-06,Person,NULL
+869,562,11868,NULL,Jessica,M,Peterson,0,1967-08-04,S,NULL,F,jessica17@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,1,1613 Santa Maria,NULL,974-555-0184,2003-08-06,Person,NULL
+870,571,11869,NULL,Kaitlyn,A,Adams,0,1967-11-06,S,NULL,F,kaitlyn13@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,3815 Berry Dr.,NULL,512-555-0158,2003-09-21,Person,NULL
+871,597,11870,NULL,Jillian,NULL,Garcia,0,1967-07-14,S,NULL,F,jillian15@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,6375 Freda Drive,NULL,386-555-0159,2004-01-21,Person,NULL
+872,507,11871,NULL,Dalton,L,Bennett,0,1967-08-16,S,NULL,M,dalton46@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,1,4188 Green Valley Road,NULL,941-555-0138,2003-08-27,Person,NULL
+873,633,11872,NULL,Faith,L,Patterson,0,1967-07-21,S,NULL,F,faith9@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,0,1,1141 Rolling Hill Way,NULL,148-555-0143,2002-04-23,Person,NULL
+874,552,11873,NULL,Ryan,NULL,Zhang,0,1967-04-12,M,NULL,M,ryan27@adventure-works.com,60000.00,0,0,Graduate Degree,Professional,0,1,4176 Cotton Ct,NULL,295-555-0128,2002-04-09,Person,NULL
+875,707,11874,NULL,Adrian,NULL,Bell,0,1967-03-10,S,NULL,M,adrian15@adventure-works.com,60000.00,0,0,Bachelors,Professional,0,1,302 Briarcliff Ct.,NULL,254-555-0175,2004-01-20,Person,NULL
+876,647,11875,NULL,Jonathan,NULL,Brown,0,1960-08-03,M,NULL,M,jonathan54@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,5373 Montgomery Ave.,NULL,108-555-0111,2003-10-22,Person,NULL
+877,520,11876,NULL,Madison,L,White,0,1960-11-13,M,NULL,F,madison13@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,27 Athens Circle,NULL,813-555-0171,2003-12-21,Person,NULL
+878,667,11877,NULL,Alexis,NULL,Diaz,0,1960-10-07,M,NULL,F,alexis45@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,8541 Summerfield Drive,NULL,409-555-0139,2004-04-07,Person,NULL
+879,577,11878,NULL,Christine,NULL,Nara,0,1960-02-08,M,NULL,F,christine12@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,5784 Yeoman Dr.,NULL,792-555-0139,2004-06-02,Person,NULL
+880,580,11879,NULL,Edgar,NULL,Sai,0,1960-10-03,M,NULL,M,edgar6@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,9037 Saddlehill Lane,NULL,525-555-0117,2003-08-31,Person,NULL
+881,686,11880,NULL,Melissa,NULL,Sanchez,0,1959-08-20,M,NULL,F,melissa40@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,2524 Fish Dr,NULL,409-555-0153,2003-10-12,Person,NULL
+882,488,11881,NULL,Richard,T,Mitchell,0,1959-07-24,M,NULL,M,richard30@adventure-works.com,60000.00,4,3,Bachelors,Professional,1,0,8998 Adobe Drive,NULL,142-555-0165,2004-06-04,Person,NULL
+883,693,11882,NULL,Patrick,L,Stewart,0,1959-03-12,M,NULL,M,patrick27@adventure-works.com,60000.00,4,3,Bachelors,Professional,1,0,2880 Ponderosa Dr.,NULL,115-555-0181,2003-08-21,Person,NULL
+884,597,11883,NULL,Hannah,C,Anderson,0,1959-08-14,M,NULL,F,hannah9@adventure-works.com,70000.00,5,5,Graduate Degree,Professional,1,3,5622 Geary,NULL,819-555-0146,2003-08-25,Person,NULL
+885,577,11884,NULL,Latoya,S,Shen,0,1959-04-26,M,NULL,F,latoya2@adventure-works.com,80000.00,5,0,Graduate Degree,Professional,1,0,2328 Sand View Way,NULL,390-555-0186,2003-08-21,Person,NULL
+886,445,11885,NULL,Kurt,NULL,Sharma,0,1959-09-25,M,NULL,M,kurt9@adventure-works.com,80000.00,2,0,Graduate Degree,Professional,1,0,4461 Centennial Way,NULL,146-555-0179,2002-04-30,Person,NULL
+887,547,11886,NULL,Katelyn,NULL,Parker,0,1958-01-20,M,NULL,F,katelyn30@adventure-works.com,60000.00,3,2,Bachelors,Professional,1,1,7111 Concord Ct.,NULL,451-555-0135,2002-04-30,Person,NULL
+888,619,11887,NULL,Joseph,NULL,White,0,1958-04-05,M,NULL,M,joseph19@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,8656 Lakespring Place,NULL,149-555-0116,2003-11-29,Person,NULL
+889,467,11888,NULL,Aaron,N,Ross,0,1958-12-22,M,NULL,M,aaron3@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,2111 Ringing Dr,NULL,175-555-0139,2003-09-19,Person,NULL
+890,537,11889,NULL,Blake,NULL,Patterson,0,1958-05-28,S,NULL,M,blake58@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,8129 Golden Rain,NULL,473-555-0194,2003-08-27,Person,NULL
+891,584,11890,NULL,Whitney,NULL,Lopez,0,1958-11-15,M,NULL,F,whitney15@adventure-works.com,70000.00,5,4,Graduate Degree,Professional,1,1,3098 Eastgate Ave,NULL,307-555-0113,2003-09-30,Person,NULL
+892,430,11891,NULL,Jamie,E,Liang,0,1958-09-17,M,NULL,F,jamie20@adventure-works.com,70000.00,5,4,Graduate Degree,Professional,1,2,3213 Glenside Dr,NULL,138-555-0111,2003-09-08,Person,NULL
+893,679,11892,NULL,Julio,M,Ortega,0,1969-10-08,M,NULL,M,julio23@adventure-works.com,90000.00,1,0,Graduate Degree,Management,1,0,1681 Via Estrella,NULL,1 (11) 500 555-0180,2002-03-07,Person,NULL
+894,558,11893,NULL,Orlando,J,Carlson,0,1969-02-09,M,NULL,M,orlando18@adventure-works.com,90000.00,2,0,Graduate Degree,Management,1,0,761 Orchard View Ave.,NULL,1 (11) 500 555-0111,2002-03-03,Person,NULL
+895,492,11894,NULL,Ann,NULL,Gonzalez,0,1969-05-04,M,NULL,F,ann23@adventure-works.com,100000.00,1,0,Graduate Degree,Management,1,0,4166 Deercreek Ln.,NULL,1 (11) 500 555-0118,2002-03-25,Person,NULL
+896,487,11895,NULL,Dustin,NULL,Chander,0,1969-07-21,M,NULL,M,dustin16@adventure-works.com,100000.00,1,0,Graduate Degree,Management,1,0,5553 Cash Avenue,NULL,1 (11) 500 555-0196,2002-03-15,Person,NULL
+897,553,11896,NULL,Frank,NULL,Carlson,0,1969-11-18,M,NULL,M,frank26@adventure-works.com,100000.00,1,0,Graduate Degree,Management,1,0,8851 Northridge Dr.,NULL,1 (11) 500 555-0160,2002-03-04,Person,NULL
+898,697,11897,NULL,Orlando,I,Ashe,0,1968-11-28,S,NULL,M,orlando5@adventure-works.com,60000.00,2,2,Bachelors,Professional,0,1,9478 Rheem Dr.,NULL,1 (11) 500 555-0184,2002-03-02,Person,NULL
+899,596,11898,NULL,Angela,T,Henderson,0,1970-07-03,M,NULL,F,angela7@adventure-works.com,80000.00,4,4,Graduate Degree,Management,1,1,9377 Ash Lane,NULL,1 (11) 500 555-0118,2002-03-17,Person,NULL
+900,510,11899,NULL,Brenda,NULL,Perez,0,1970-09-16,S,NULL,F,brenda25@adventure-works.com,80000.00,4,4,Graduate Degree,Management,1,1,9935 San Carlos Avenue,NULL,1 (11) 500 555-0181,2002-03-07,Person,NULL
+901,518,11900,NULL,Byron,NULL,Carlson,0,1970-03-07,S,NULL,M,byron12@adventure-works.com,90000.00,2,0,Bachelors,Professional,1,0,4002 Fawn Glen Circle,NULL,1 (11) 500 555-0115,2002-03-24,Person,NULL
+902,473,11901,NULL,Stacy,NULL,Alvarez,0,1968-02-19,S,NULL,F,stacy6@adventure-works.com,60000.00,2,2,Bachelors,Professional,0,1,3917 Catalpa Court,NULL,1 (11) 500 555-0171,2002-03-13,Person,NULL
+903,655,11902,NULL,Drew,NULL,Pal,0,1967-03-18,M,NULL,M,drew13@adventure-works.com,70000.00,5,5,Bachelors,Professional,1,3,8991 Olivera,NULL,1 (11) 500 555-0151,2003-08-25,Person,NULL
+904,599,11903,NULL,Kate,L,Raji,0,1969-04-27,S,NULL,F,kate18@adventure-works.com,110000.00,1,0,Graduate Degree,Management,1,0,1225 Santa Lucia,NULL,1 (11) 500 555-0124,2002-03-24,Person,NULL
+905,632,11904,NULL,Kaylee,NULL,Cook,0,1969-11-09,S,NULL,F,kaylee18@adventure-works.com,110000.00,1,0,Graduate Degree,Management,1,1,5742 Curtis Drive,NULL,1 (11) 500 555-0188,2002-03-20,Person,NULL
+906,493,11905,NULL,Isaiah,NULL,Ramirez,0,1969-06-16,S,NULL,M,isaiah6@adventure-works.com,110000.00,1,0,Graduate Degree,Management,1,1,1069 Central Blvd.,NULL,1 (11) 500 555-0177,2002-03-01,Person,NULL
+907,596,11906,NULL,Gabriella,NULL,Sanders,0,1967-02-18,M,NULL,F,gabriella1@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,4938 Nightingale Drive,NULL,1 (11) 500 555-0115,2002-03-13,Person,NULL
+908,706,11907,NULL,Sarah,NULL,Garcia,0,1967-09-08,S,NULL,F,sarah18@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,9481 Laguna Street,NULL,1 (11) 500 555-0145,2002-03-31,Person,NULL
+909,697,11908,NULL,Rafael,A,Tang,0,1966-07-11,S,NULL,M,rafael27@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,8839 Leonard Dr,NULL,1 (11) 500 555-0157,2002-03-22,Person,NULL
+910,680,11909,NULL,Nichole,M,She,0,1966-02-10,M,NULL,F,nichole0@adventure-works.com,80000.00,5,5,Graduate Degree,Management,0,3,7484 Roundtree Drive,NULL,1 (11) 500 555-0168,2002-03-23,Person,NULL
+911,634,11910,NULL,Jaclyn,F,Zheng,0,1966-06-12,M,NULL,F,jaclyn21@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,7413 Alpine Drive,NULL,1 (11) 500 555-0117,2002-04-11,Person,NULL
+912,632,11911,NULL,Rachael,D,Kapoor,0,1966-11-16,M,NULL,F,rachael1@adventure-works.com,80000.00,5,5,Graduate Degree,Management,1,3,4159 Bayshore Rd.,NULL,1 (11) 500 555-0149,2003-12-03,Person,NULL
+913,561,11912,NULL,Rachael,NULL,Sai,0,1965-12-17,S,NULL,F,rachael5@adventure-works.com,60000.00,3,3,Bachelors,Professional,1,1,5108 Heights Avenue,NULL,1 (11) 500 555-0196,2002-04-29,Person,NULL
+914,692,11913,Ms.,Rebecca,A.,Robinson,0,1965-06-11,M,NULL,F,rebecca3@adventure-works.com,60000.00,3,3,Bachelors,Professional,1,1,1861 Chinquapin Ct,NULL,648-555-0100,2004-06-05,Person,NULL
+915,534,11914,NULL,Meagan,M,Rana,0,1968-05-08,S,NULL,F,meagan11@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,7867 F Mt Hood Circle,NULL,1 (11) 500 555-0118,2002-04-20,Person,NULL
+916,534,11915,NULL,Philip,P,Carlson,0,1968-03-16,S,NULL,M,philip17@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,6672 Mt. Dias Blvd.,NULL,1 (11) 500 555-0110,2002-04-04,Person,NULL
+917,568,11916,NULL,Joe,D,Rana,0,1965-09-07,S,NULL,M,joe14@adventure-works.com,70000.00,0,0,Bachelors,Professional,0,1,6339 E. 108th Street,NULL,1 (11) 500 555-0177,2002-04-03,Person,NULL
+918,473,11917,NULL,Roy,R,Sanz,0,1965-10-22,S,NULL,M,roy40@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,5087 Valle Vista Avenue,NULL,1 (11) 500 555-0156,2002-04-29,Person,NULL
+919,468,11918,NULL,Kaylee,L,Hill,0,1964-03-03,M,NULL,F,kaylee35@adventure-works.com,60000.00,3,3,Bachelors,Professional,1,2,8205 Soto St.,NULL,1 (11) 500 555-0131,2002-04-15,Person,NULL
+920,680,11919,NULL,Warren,NULL,Andersen,0,1964-02-18,M,NULL,M,warren2@adventure-works.com,60000.00,4,4,Bachelors,Professional,1,2,7783 Limewood Pl,NULL,1 (11) 500 555-0181,2002-04-07,Person,NULL
+921,596,11920,NULL,Adrienne,NULL,Gomez,0,1964-02-28,S,NULL,F,adrienne1@adventure-works.com,60000.00,4,4,Bachelors,Professional,1,3,4373 Sherry Circle,NULL,1 (11) 500 555-0149,2002-04-12,Person,NULL
+922,471,11921,NULL,Gilbert,NULL,Zhu,0,1964-12-23,M,NULL,M,gilbert11@adventure-works.com,60000.00,4,4,Bachelors,Professional,1,3,2939 West Ct.,NULL,1 (11) 500 555-0127,2004-03-22,Person,NULL
+923,701,11922,NULL,James,NULL,Davis,0,1968-08-20,S,NULL,M,james80@adventure-works.com,90000.00,4,4,Partial College,Skilled Manual,0,2,3704 Elliott Dr.,NULL,483-555-0135,2003-08-19,Person,NULL
+924,516,11923,NULL,Sarah,NULL,Bryant,0,1979-10-23,M,NULL,F,sarah42@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,1,9855 Norse Ct.,NULL,197-555-0118,2003-08-16,Person,NULL
+925,670,11924,NULL,Ian,C,Long,0,1979-10-25,S,NULL,M,ian50@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,1,2389 E Eagle Peak Rd.,NULL,212-555-0171,2002-04-28,Person,NULL
+926,583,11925,NULL,Ashlee,NULL,Jai,0,1978-11-06,S,NULL,F,ashlee18@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,1,1,6468 Gatewood Court,NULL,547-555-0176,2002-04-11,Person,NULL
+927,523,11926,NULL,Eduardo,NULL,Foster,0,1978-03-18,S,NULL,M,eduardo60@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,609 Power Ave.,NULL,522-555-0169,2003-11-05,Person,NULL
+928,694,11927,NULL,Nicole,D,Murphy,0,1978-07-24,S,NULL,F,nicole32@adventure-works.com,40000.00,0,0,Partial College,Skilled Manual,0,1,7468 Franklin Canyon Road,NULL,373-555-0118,2004-07-12,Person,NULL
+929,625,11928,NULL,Isabella,M,Morris,0,1978-09-07,M,NULL,F,isabella83@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,8487 Amador,NULL,693-555-0146,2003-12-02,Person,NULL
+930,554,11929,NULL,Virginia,NULL,Gonzalez,0,1946-02-12,S,NULL,F,virginia21@adventure-works.com,30000.00,2,0,Partial College,Clerical,1,2,7566 Keller Ridge Dr.,NULL,1 (11) 500 555-0188,2002-04-16,Person,NULL
+931,669,11930,NULL,Jaclyn,M,Nara,0,1947-05-04,M,NULL,F,jaclyn40@adventure-works.com,20000.00,4,0,High School,Skilled Manual,0,2,2121 Royal Ann Lane,NULL,1 (11) 500 555-0177,2002-04-16,Person,NULL
+932,527,11931,NULL,Marcus,M,Adams,0,1978-11-13,S,NULL,M,marcus34@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,2,9246 Westminster Pl,NULL,687-555-0170,2003-08-20,Person,NULL
+933,547,11932,NULL,Elizabeth,NULL,Coleman,0,1978-08-11,M,NULL,F,elizabeth35@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,0,2,7546 Gonzalez Ct.,NULL,400-555-0120,2003-10-31,Person,NULL
+934,583,11933,NULL,Mathew,NULL,Rubio,0,1977-03-04,S,NULL,M,mathew17@adventure-works.com,40000.00,0,0,Partial High School,Clerical,0,2,9911 Northgate Road,NULL,430-555-0126,2002-04-15,Person,NULL
+935,597,11934,NULL,Justin,L,Shan,0,1977-10-14,S,NULL,M,justin27@adventure-works.com,40000.00,0,0,Partial High School,Clerical,1,2,9377 Lightwood Drive,NULL,215-555-0113,2002-05-22,Person,NULL
+936,500,11935,NULL,Jessica,NULL,Taylor,0,1977-11-19,S,NULL,F,jessica56@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,1,1,5843 Mountaire Pkwy.,NULL,144-555-0123,2003-12-08,Person,NULL
+937,677,11936,NULL,Hunter,S,Clark,0,1977-04-11,M,NULL,M,hunter51@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,1,1,9001 Esperanza,NULL,121-555-0144,2003-10-07,Person,NULL
+938,686,11937,NULL,Devin,NULL,Perez,0,1977-06-05,M,NULL,M,devin35@adventure-works.com,30000.00,0,0,Partial College,Skilled Manual,0,2,8510 G St.,NULL,500-555-0169,2002-05-01,Person,NULL
+939,472,11938,NULL,Seth,D,Alexander,0,1977-09-21,M,NULL,M,seth67@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,3842 Algiers Dr.,NULL,178-555-0186,2003-09-08,Person,NULL
+940,494,11939,NULL,Kevin,C,Washington,0,1977-06-22,S,NULL,M,kevin16@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,2,9105 Jacobsen Street,NULL,970-555-0114,2002-05-13,Person,NULL
+941,707,11940,NULL,Tyler,E,Miller,0,1977-07-12,M,NULL,M,tyler11@adventure-works.com,100000.00,3,0,Bachelors,Management,1,3,9231 Brook Hollow Ct.,NULL,456-555-0191,2004-02-03,Person,NULL
+942,573,11941,NULL,Adam,L,Roberts,0,1976-11-26,S,NULL,M,adam34@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,626 Redlands Way,NULL,868-555-0122,2004-02-08,Person,NULL
+943,518,11942,NULL,George,L,Gonzalez,0,1949-06-13,M,NULL,M,george25@adventure-works.com,20000.00,2,1,Partial High School,Clerical,1,2,80 San Remo Ct,NULL,1 (11) 500 555-0181,2002-04-17,Person,NULL
+944,568,11943,NULL,Dawn,E,Huang,0,1949-02-27,M,NULL,F,dawn7@adventure-works.com,20000.00,2,1,Partial High School,Clerical,1,2,1318 Ramer Ct.,NULL,1 (11) 500 555-0154,2002-04-20,Person,NULL
+945,549,11944,NULL,Rachael,M,Rodriguez,0,1950-10-15,S,NULL,F,rachael18@adventure-works.com,30000.00,3,0,Partial College,Clerical,0,2,6335 Benita Way,NULL,1 (11) 500 555-0134,2002-04-21,Person,NULL
+946,470,11945,NULL,Dennis,NULL,Huang,0,1980-09-11,M,NULL,M,dennis7@adventure-works.com,20000.00,0,0,Partial College,Skilled Manual,0,2,1901 Mitchell Canyon Court,NULL,183-555-0120,2002-05-01,Person,NULL
+947,558,11946,NULL,Brandy,NULL,Saunders,0,1951-01-03,S,NULL,F,brandy6@adventure-works.com,30000.00,3,0,High School,Skilled Manual,1,2,3809 Lancelot Dr.,NULL,1 (11) 500 555-0143,2002-04-23,Person,NULL
+948,679,11947,NULL,Jenny,R,Zheng,0,1951-10-22,S,NULL,F,jenny21@adventure-works.com,30000.00,3,0,High School,Skilled Manual,0,2,8268 Donald Dr,NULL,1 (11) 500 555-0162,2002-04-15,Person,NULL
+949,554,11948,NULL,Tasha,E,Xu,0,1951-04-10,M,NULL,F,tasha5@adventure-works.com,30000.00,3,0,High School,Skilled Manual,1,2,2013 Filling Ave.,#3,1 (11) 500 555-0194,2004-03-09,Person,NULL
+950,560,11949,NULL,Julia,W,Brooks,0,1980-11-05,S,NULL,F,julia63@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,2,1657 Morengo Ct.,NULL,845-555-0143,2004-01-17,Person,NULL
+951,619,11950,NULL,Jordan,NULL,Carter,0,1979-09-10,M,NULL,F,jordan39@adventure-works.com,70000.00,0,0,Partial College,Skilled Manual,1,2,1127 Oak Street,NULL,609-555-0117,2003-08-21,Person,NULL
+952,656,11951,NULL,Lacey,J,Huang,0,1952-08-06,M,NULL,F,lacey18@adventure-works.com,40000.00,2,0,Partial College,Skilled Manual,1,2,8762 Terrace,NULL,1 (11) 500 555-0121,2004-02-21,Person,NULL
+953,632,11952,Ms.,Dorothy,B.,Robinson,0,1954-09-23,S,NULL,M,dorothy3@adventure-works.com,80000.00,2,0,Partial College,Skilled Manual,0,2,4693 Mills Dr.,NULL,423-555-0100,2002-04-07,Person,NULL
+954,660,11953,NULL,Courtney,D,Wright,0,1975-09-04,S,NULL,F,courtney16@adventure-works.com,40000.00,0,0,High School,Skilled Manual,0,2,445 San Carlos Avenue,NULL,366-555-0162,2003-08-13,Person,NULL
+955,633,11954,NULL,Joseph,M,Garcia,0,1975-08-17,M,NULL,M,joseph23@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,1220 Bradford Way,NULL,594-555-0120,2002-05-04,Person,NULL
+956,633,11955,NULL,Gabriel,L,Green,0,1975-04-05,S,NULL,M,gabriel45@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,1,2,6991 Gloria Terr.,NULL,149-555-0162,2002-05-01,Person,NULL
+957,430,11956,NULL,Alexandria,NULL,Sandberg,0,1974-09-03,S,NULL,F,alexandria27@adventure-works.com,40000.00,0,0,High School,Skilled Manual,1,2,844 Sol Street,NULL,998-555-0194,2002-05-03,Person,NULL
+958,677,11957,NULL,Courtney,NULL,Hernandez,0,1973-08-12,S,NULL,F,courtney14@adventure-works.com,60000.00,0,0,Partial College,Skilled Manual,0,2,8426 Kendall Rd.,NULL,424-555-0199,2003-08-16,Person,NULL
+959,442,11958,NULL,Dylan,D,Lal,0,1973-01-06,S,NULL,M,dylan28@adventure-works.com,70000.00,0,0,Partial College,Professional,1,2,6746 River Ash Court,NULL,844-555-0156,2003-12-18,Person,NULL
+960,502,11959,NULL,Elizabeth,K,Davis,0,1973-04-07,S,NULL,F,elizabeth9@adventure-works.com,70000.00,0,0,Partial College,Professional,0,2,117 Esperanza Dr,NULL,884-555-0119,2003-09-24,Person,NULL
+961,677,11960,NULL,Ana,NULL,Griffin,0,1973-07-03,S,NULL,F,ana19@adventure-works.com,70000.00,0,0,Partial College,Professional,0,2,6612 Concord,NULL,377-555-0180,2003-09-26,Person,NULL
+962,584,11961,NULL,Anne,A,Alvarez,0,1973-06-24,S,NULL,F,anne5@adventure-works.com,70000.00,0,0,Partial College,Professional,1,2,6318 Merriewood Dr.,NULL,297-555-0150,2003-08-15,Person,NULL
+963,582,11962,NULL,Alexandra,NULL,Roberts,0,1976-11-28,S,NULL,F,alexandra47@adventure-works.com,60000.00,0,0,Partial College,Professional,0,2,9024 Grant Street,NULL,685-555-0149,2004-02-12,Person,NULL
+964,468,11963,NULL,Antonio,G,Patterson,0,1955-06-13,M,NULL,M,antonio10@adventure-works.com,80000.00,2,0,High School,Skilled Manual,0,2,2355 Regina Lane,NULL,1 (11) 500 555-0197,2002-04-24,Person,NULL
+965,478,11964,Ms.,Sharon,NULL,Salavaria,0,1956-02-17,S,NULL,M,sharon4@adventure-works.com,70000.00,2,0,High School,Skilled Manual,0,2,5652 East View Place,NULL,109-555-0100,2002-04-16,Person,NULL
+966,509,11965,NULL,Katie,B,She,0,1956-10-19,S,NULL,F,katie3@adventure-works.com,70000.00,2,0,High School,Skilled Manual,1,2,1174 Royal Ann Lane,NULL,1 (11) 500 555-0150,2003-08-14,Person,NULL
+967,425,11966,NULL,Rafael,NULL,Black,0,1956-02-17,S,NULL,M,rafael44@adventure-works.com,70000.00,2,0,High School,Skilled Manual,1,2,1730 D Reliez Valley Ct.,NULL,1 (11) 500 555-0147,2004-05-04,Person,NULL
+968,492,11967,NULL,Latasha,NULL,Munoz,0,1957-02-10,S,NULL,F,latasha7@adventure-works.com,80000.00,2,0,High School,Professional,1,2,4799 Buena Vista,NULL,1 (11) 500 555-0118,2002-04-25,Person,NULL
+969,512,11968,NULL,Kelsey,G,Becker,0,1958-10-21,S,NULL,F,kelsey19@adventure-works.com,130000.00,0,1,Graduate Degree,Management,0,2,6577 La Canada,NULL,1 (11) 500 555-0135,2002-04-30,Person,NULL
+970,531,11969,NULL,Randy,S,Xu,0,1958-07-25,S,NULL,M,randy14@adventure-works.com,130000.00,0,1,Graduate Degree,Management,0,2,2140 Clifford Court,NULL,1 (11) 500 555-0188,2002-04-21,Person,NULL
+971,703,11970,NULL,Bailey,NULL,Collins,0,1973-11-16,S,NULL,F,bailey22@adventure-works.com,80000.00,0,0,Bachelors,Management,0,1,2578 Welle Road,# 118,968-555-0128,2003-11-26,Person,NULL
+972,631,11971,NULL,Amanda,P,Adams,0,1973-09-03,S,NULL,F,amanda58@adventure-works.com,80000.00,0,0,Bachelors,Management,0,1,6730 Saddlehill Lane,NULL,592-555-0166,2003-10-17,Person,NULL
+973,479,11972,NULL,Katherine,K,Williams,0,1974-03-23,M,NULL,F,katherine73@adventure-works.com,60000.00,0,0,Partial College,Professional,0,2,927 Live Oak Ave.,NULL,351-555-0197,2004-05-12,Person,NULL
+974,678,11973,NULL,Caroline,NULL,Barnes,0,1974-02-03,S,NULL,F,caroline5@adventure-works.com,60000.00,0,0,Partial College,Professional,0,2,112 RaceCt,NULL,820-555-0119,2003-08-31,Person,NULL
+975,584,11974,NULL,Randy,W,Sun,0,1974-02-07,S,NULL,M,randy15@adventure-works.com,60000.00,0,0,Partial College,Professional,0,2,8540 Ravenwood Dr.,NULL,156-555-0147,2004-05-02,Person,NULL
+976,610,11975,NULL,Destiny,B,Garcia,0,1974-10-04,S,NULL,F,destiny16@adventure-works.com,60000.00,0,0,High School,Professional,0,2,1993 South Villa Way,NULL,928-555-0186,2004-01-18,Person,NULL
+977,669,11976,NULL,Audrey,NULL,Ramos,0,1959-05-26,S,NULL,F,audrey19@adventure-works.com,120000.00,1,2,Bachelors,Management,0,3,598 Merry Drive,NULL,1 (11) 500 555-0176,2002-04-27,Person,NULL
+978,518,11977,NULL,Bonnie,NULL,Jai,0,1959-05-23,M,NULL,F,bonnie17@adventure-works.com,130000.00,0,1,Graduate Degree,Management,1,3,2544 Ashley Way,NULL,1 (11) 500 555-0185,2002-05-04,Person,NULL
+979,631,11978,NULL,Jackson,NULL,Washington,0,1966-10-22,M,NULL,M,jackson15@adventure-works.com,130000.00,0,1,Graduate Degree,Management,1,3,1374 Queens Road,NULL,644-555-0115,2003-08-07,Person,NULL
+980,701,11979,NULL,Christopher,NULL,Johnson,0,1957-05-08,M,NULL,M,christopher25@adventure-works.com,80000.00,2,0,Partial High School,Skilled Manual,0,2,9234 Carmel Drive,NULL,130-555-0198,2003-08-18,Person,NULL
+981,547,11980,NULL,Kimberly,NULL,Richardson,0,1957-12-18,S,NULL,F,kimberly13@adventure-works.com,60000.00,2,0,High School,Professional,0,2,7629 Bonanza,NULL,116-555-0182,2004-03-26,Person,NULL
+982,627,11981,NULL,Alexandria,NULL,Howard,0,1957-02-03,S,NULL,F,alexandria33@adventure-works.com,60000.00,2,0,High School,Professional,0,2,341 Victory Lane,NULL,935-555-0120,2003-10-11,Person,NULL
+983,688,11982,NULL,Alexandra,NULL,Foster,0,1957-04-04,S,NULL,F,alexandra37@adventure-works.com,60000.00,2,0,High School,Professional,1,2,6754 Pampered Ct.,# 19,278-555-0183,2004-02-18,Person,NULL
+984,582,11983,NULL,Cheryl,NULL,Ortega,0,1957-02-27,M,NULL,F,cheryl24@adventure-works.com,70000.00,3,2,Partial College,Professional,1,0,6501 West Way,NULL,354-555-0177,2002-05-11,Person,NULL
+985,671,11984,NULL,Alex,NULL,Campbell,0,1957-06-06,M,NULL,M,alex35@adventure-works.com,80000.00,2,1,Bachelors,Management,1,0,4164 Kenneth Ct.,NULL,376-555-0156,2003-08-19,Person,NULL
+986,580,11985,NULL,Melanie,A,Hughes,0,1957-11-18,M,NULL,F,melanie27@adventure-works.com,80000.00,2,1,Bachelors,Management,0,1,2546 Crowe Place,NULL,909-555-0153,2003-08-31,Person,NULL
+987,632,11986,NULL,Max,M,Alvarez,0,1963-07-24,S,NULL,M,max5@adventure-works.com,70000.00,0,0,Bachelors,Professional,1,1,4594 Rose Dr.,NULL,1 (11) 500 555-0124,2002-05-25,Person,NULL
+988,697,11987,NULL,Diane,D,Vazquez,0,1967-11-27,M,NULL,F,diane19@adventure-works.com,90000.00,4,4,Bachelors,Professional,1,0,6772 Geraldine Dr.,NULL,1 (11) 500 555-0128,2003-12-19,Person,NULL
+989,634,11988,NULL,Kathryn,NULL,Chapman,0,1962-08-20,S,NULL,F,kathryn14@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,4095 Minert Rd.,NULL,1 (11) 500 555-0127,2002-05-13,Person,NULL
+990,637,11989,NULL,Kara,NULL,Anand,0,1962-03-28,S,NULL,F,kara20@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,1088 Ash Lane,NULL,1 (11) 500 555-0130,2002-05-06,Person,NULL
+991,518,11990,NULL,Joanna,J,Vazquez,0,1962-07-15,S,NULL,F,joanna13@adventure-works.com,70000.00,1,0,Partial College,Skilled Manual,1,1,198 Edie Ct.,NULL,1 (11) 500 555-0182,2002-05-16,Person,NULL
+992,512,11991,NULL,Frederick,NULL,Martinez,0,1962-08-10,M,NULL,M,frederick14@adventure-works.com,60000.00,1,0,Bachelors,Professional,1,1,3410 Hemlock Ave.,NULL,1 (11) 500 555-0142,2002-05-04,Person,NULL
+993,596,11992,NULL,Tonya,NULL,Chande,0,1961-06-13,S,NULL,F,tonya14@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,4766 Palm Ave,NULL,1 (11) 500 555-0177,2002-05-20,Person,NULL
+994,634,11993,NULL,Rosa,I,Wang,0,1961-03-19,S,NULL,F,rosa1@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,0,1,9135 Rockford Dr.,NULL,1 (11) 500 555-0178,2002-05-16,Person,NULL
+995,561,11994,NULL,Leah,NULL,Hu,0,1966-10-22,S,NULL,F,leah16@adventure-works.com,110000.00,0,0,Graduate Degree,Management,0,3,1374 Queens Road,NULL,1 (11) 500 555-0191,2002-05-28,Person,NULL
+996,699,11995,NULL,Kelvin,A,Carson,0,1960-06-14,M,NULL,M,kelvin11@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,2599 Amaranth Way,NULL,1 (11) 500 555-0149,2002-05-11,Person,NULL
+997,599,11996,NULL,Veronica,NULL,Srini,0,1960-08-02,S,NULL,F,veronica9@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,4681 Deerfield Dr.,NULL,1 (11) 500 555-0173,2002-05-07,Person,NULL
+998,468,11997,NULL,Kristina,NULL,Kapoor,0,1960-04-07,M,NULL,F,kristina1@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,6828 Willow Pass Road,NULL,1 (11) 500 555-0140,2002-05-08,Person,NULL
+999,637,11998,NULL,Donna,NULL,Sharma,0,1960-08-10,M,NULL,F,donna9@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,1641 Overhill Rd,NULL,1 (11) 500 555-0118,2002-05-19,Person,NULL
+1000,518,11999,NULL,Johnny,NULL,Shan,0,1960-06-05,M,NULL,M,johnny11@adventure-works.com,60000.00,1,0,Partial College,Skilled Manual,1,1,7177 Santa Rosa,NULL,1 (11) 500 555-0145,2002-05-13,Person,NULL
