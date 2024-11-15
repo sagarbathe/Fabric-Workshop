@@ -21,9 +21,9 @@ This workshop is divided in 3 main sessions having appropriate labs:
  2. This session will focus on Fabric Lakehouse and Data Engineering workload. The presentation will cover in-depth the Onelake architecture, various capabilities around security, performance optimization and ease of 
     development. Following the presentation, the team will work on creating an end-to-end Analytics solution utilizing the Fabric lakehouse based on a medallion architecture. Finally, they will create a semantic 
     model and sample Power BI Report. Following the presentation, the team will work on the following labs:
-    	- [Lab 1 - Create a Fabric workspace and data pipeline](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%201%20-%20Create%20a%20Fabric%20workspace%20and%20data%20pipeline)
-    	- [Lab 2 - Implement the Medallion Architecture](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%202%20-%20Implement%20the%20Medallion%20Architecture)
-    	- [Lab 3 - Create PBI reports](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%203%20-%20Create%20PBI%20reports)
+	- [Lab 1 - Create a Fabric workspace and data pipeline](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%201%20-%20Create%20a%20Fabric%20workspace%20and%20data%20pipeline)
+	- [Lab 2 - Implement the Medallion Architecture](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%202%20-%20Implement%20the%20Medallion%20Architecture)
+	- [Lab 3 - Create PBI reports](https://github.com/sagarbathe/Fabric-Workshop/tree/6e6cadaae7ecc3b35c32dd1c101cbf771fb492dc/2%20-%20Lakehouse/Lab%203%20-%20Create%20PBI%20reports)
 
  4. This session will focus on Data Factory capabilities such as Data Pipelines, Dataflow Gen2, advanced concepts and monitoring. Following the presentation, the team will work on developing Data Pipelines and 
     Dataflow Gen 2 artifacts
