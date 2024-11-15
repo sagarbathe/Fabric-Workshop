@@ -1,0 +1,47 @@
+let
+  
+  //Read the JSON file (will be done 1 time)
+  Source = AzureStorage.DataLake("https://fabricdatafactorylab.dfs.core.windows.net/labdata/json/Contoso.json"),
+  
+  JsonDoc = Json.Document(Table.Column(Source,"Content"){0}),
+
+  //Display the file content as a list
+  TableFromList= Table.FromList(
+    JsonDoc, 
+    Splitter.SplitByNothing(), 
+    null, 
+    null, 
+    ExtraValues.Error
+  ),
+
+  //Expand the list to get contact informations (Friends are not yet expanded)
+  ExpandedTable = Table.ExpandRecordColumn(TableFromList, "Column1", 
+                                           {"age", "eyeColor", "name", "gender", "company", "friends", "favoriteFruit"}, 
+                                           {"age", "eyeColor", "name", "gender", "company", "friends", "favoriteFruit"}
+                                           ),
+
+  //Remove duplicate contact (this table will be used 2 times : for contact information and friends informations  
+  TableRemoveDuplicates = Table.Distinct(ExpandedTable,{"name"}),
+    
+    //Expand friends for each contact as a list
+  TableWithExpandedFriendsColumn = Table.ExpandListColumn(TableRemoveDuplicates, "friends"),
+  
+    //Expand friends for each contact as records
+  PersonTable = Table.ExpandRecordColumn(TableWithExpandedFriendsColumn, "friends", {"name"}, {"friend"}),
+
+  //Prepare the table of friends by reusing the table "TableRemoveDuplicates"
+  //Rename columns with the "friend" prefix  
+  FriendTable=Table.RenameColumns(
+                          //Keep a subset of columns (contact information) from the table "TableRemoveDuplicates" 
+                          Table.SelectColumns(
+                                TableRemoveDuplicates,
+                                {"name","age","company","gender"}
+                          ),                             
+                {{"name","friendname"},{"age","friendage"},{"company","friendcompany"} ,{"gender","friendgender"}}
+                ),
+
+  //Join the PersonTable with the Friend Table 
+  PersonWithFriendInfo=Table.Join(PersonTable,{"friend"},FriendTable,{"friendname"},JoinKind.Inner)
+
+in
+   PersonWithFriendInfo
