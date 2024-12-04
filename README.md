@@ -31,8 +31,8 @@ This workshop is divided in 3 main sessions having appropriate labs:
 	- [Lab 01 - Getting Started with Fabric Data Factory](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2001%20-%20Getting%20Started%20with%20Fabric%20Data%20Factory)
 	- [Lab 02 - Extending Data Preparation with Python Notebook](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2002%20-%20Extending%20Data%20Preparation%20with%20Python%20Notebook)
 	- [Lab 03 - Implementing Data Pipelines with Fabric Data Factory](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2003%20-%20Implementing%20Data%20Pipelines%20with%20Fabric%20Data%20Factory)
-	- [Lab 04 - Dataflow Gen 2 in action](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2004%20-%20Dataflow%20Gen%202%20in%20action)
-	- [Lab 05 - Transferring large data volumes with Fabric Data Factory](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2005%20-%20Transferring%20large%20data%20volumes%20with%20Fabric%20Data%20Factory)
+	- [Lab 04 - Dataflow Gen 2 in action](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2004%20-%20Dataflow%20Gen%202%20in%20action) 
+	- [Lab 05 - Transferring large data volumes with Fabric Data Factory](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2005%20-%20Transferring%20large%20data%20volumes%20with%20Fabric%20Data%20Factory) (Optional)
 	- [Lab 06 - Copilot in Data factory](https://github.com/sagarbathe/Fabric-Workshop/tree/cf8bfef8aa1329bcdb8fb03f7612ccb659ce0bf8/3%20-%20Data%20Factory/Labs/Lab%2006%20-%20Copilot%20in%20Data%20factory)
 
 
